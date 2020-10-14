@@ -1,27 +1,103 @@
-<ion-header [translucent]="true">
+<ion-header>
   <ion-toolbar>
     <ion-title>
-      Tab 1
+      新产品
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large"> 新产品表格生成</ion-title>
-    </ion-toolbar>
-  </ion-header>
+
+  <ion-button expand="block" fill="outline">
+    重置当前产品记录
+    <ion-icon name="refresh-outline"></ion-icon>
+  </ion-button>
 
   <ion-card>
     <ion-card-header>
-      <ion-card-subtitle>Card Subtitle</ion-card-subtitle>
-      <ion-card-title>Card Title</ion-card-title>
+      <ion-card-title>新产品信息</ion-card-title>
     </ion-card-header>
-  
+
     <ion-card-content>
-      Keep close to Nature's heart... and break clear away, once in awhile,
-      and climb a mountain or spend a week in the woods. Wash your spirit clean.
+      <ion-item>
+        <ion-label position="stacked">完整条码</ion-label>
+        <ion-input type="number">
+          <ion-button expand="block" fill="outline">
+            <ion-icon name="barcode-outline"></ion-icon>
+          </ion-button>
+        </ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="stacked">产品英文名称</ion-label>
+        <ion-input></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="stacked">产品中文名称</ion-label>
+        <ion-input></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="stacked">价格</ion-label>
+        <ion-input type="number" placeholder="0.00">$ </ion-input>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-content>
+      <ion-radio-group value="biff">
+        <ion-list-header>
+          <ion-label>在线售卖单位</ion-label>
+        </ion-list-header>
+
+        <ion-item>
+          <ion-label>EA/每件</ion-label>
+          <ion-radio slot="start" value="biff"></ion-radio>
+        </ion-item>
+
+        <ion-item>
+          <ion-label>LB/每磅</ion-label>
+          <ion-radio slot="start" value="griff"></ion-radio>
+        </ion-item>
+      </ion-radio-group>
+
+      <ion-radio-group value="biff">
+        <ion-list-header>
+          <ion-label>线下结算单位</ion-label>
+        </ion-list-header>
+
+        <ion-item>
+          <ion-label>EA/每件</ion-label>
+          <ion-radio slot="start" value="biff"></ion-radio>
+        </ion-item>
+
+        <ion-item>
+          <ion-label>LB/每磅</ion-label>
+          <ion-radio slot="start" value="griff"></ion-radio>
+        </ion-item>
+      </ion-radio-group>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-content>
+      <ion-list>
+        <ion-list-header>
+          <ion-label>
+            选择部门
+          </ion-label>
+        </ion-list-header>
+        <ion-item>
+          <ion-label>商品部门</ion-label>
+          <ion-select placeholder="Select One">
+            <ion-select-option value="Grocery">Grocery</ion-select-option>
+            <ion-select-option value="Frozen">Frozen</ion-select-option>
+            <ion-select-option value="Fruit">Fruit</ion-select-option>
+            <ion-select-option value="Houseware">Houseware</ion-select-option>
+            <ion-select-option value="Meat">Meat</ion-select-option>
+            <ion-select-option value="Vegetable">Vegetable</ion-select-option>
+          </ion-select>
+        </ion-item>
+      </ion-list>
     </ion-card-content>
   </ion-card>
 </ion-content>
