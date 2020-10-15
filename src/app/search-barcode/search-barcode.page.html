@@ -8,20 +8,46 @@
   <ion-card>
     <ion-card-content>
       <ion-item>
-        <ion-searchbar showCancelButton="focus" placeholder="输入关键字/词" animated ></ion-searchbar>
+        <ion-searchbar showCancelButton="focus" placeholder="输入关键字/词" animated [(ngModel)]="searchKeywd">
+        </ion-searchbar>
       </ion-item>
+      <ion-radio-group [(ngModel)]="searchType">
+        <ion-list-header>
+          <ion-label>
+            搜索类型
+          </ion-label>
+        </ion-list-header>
+        <ion-item>
+          <ion-label>中文名称</ion-label>
+          <ion-radio value="zhName"></ion-radio>
+        </ion-item>
+        <ion-item>
+          <ion-label>英文名称</ion-label>
+          <ion-radio value="enName"></ion-radio>
+        </ion-item>
+        <ion-item>
+          <ion-label>部门</ion-label>
+          <ion-radio value="department"></ion-radio>
+        </ion-item>
+      </ion-radio-group>
       <ion-button (click)="getProduct()">搜索</ion-button>
     </ion-card-content>
   </ion-card>
 
-  <ion-card>
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>搜索结果</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card *ngFor="let res of results">
+    <ion-card-title>{{res.zhName}}</ion-card-title>
+    <ion-card-subtitle>{{res.enName}}</ion-card-subtitle>
     <ion-card-content>
       <ion-item>
-        <ion-label>搜索结果</ion-label>
-        <ion-card-header>
-          <ion-card-title>中文名</ion-card-title>
-          <ion-card-subtitle>英文名</ion-card-subtitle>
-        </ion-card-header>
+        <ion-card-content>
+          {{res.barcode}}
+        </ion-card-content>
       </ion-item>
     </ion-card-content>
   </ion-card>
