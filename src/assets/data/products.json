@@ -1,5426 +1,5426 @@
 [
   {
-    "部门": "Fruit",
-    "条码": 4285,
-    "英文名": "Grapefruit (S)",
-    "中文名": "红肉西柚"
+    "department": "Fruit",
+    "barcode": 4285,
+    "ehName": "Grapefruit (S)",
+    "zhName": "红肉西柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 3030,
-    "英文名": "Clementine",
-    "中文名": "松皮橘"
+    "department": "Fruit",
+    "barcode": 3030,
+    "ehName": "Clementine",
+    "zhName": "松皮橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 4049,
-    "英文名": "Cantaloupes (S)",
-    "中文名": "迷你粗皮瓜"
+    "department": "Fruit",
+    "barcode": 4049,
+    "ehName": "Cantaloupes (S)",
+    "zhName": "迷你粗皮瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 7600,
-    "英文名": "Sand Pear (Box)",
-    "中文名": "箱装南水梨"
+    "department": "Fruit",
+    "barcode": 7600,
+    "ehName": "Sand Pear (Box)",
+    "zhName": "箱装南水梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4411,
-    "英文名": "Bosc  Pear",
-    "中文名": "灰啤梨"
+    "department": "Fruit",
+    "barcode": 4411,
+    "ehName": "Bosc  Pear",
+    "zhName": "灰啤梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4224,
-    "英文名": "Jumbo Avocados",
-    "中文名": "大牛油果"
+    "department": "Fruit",
+    "barcode": 4224,
+    "ehName": "Jumbo Avocados",
+    "zhName": "大牛油果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3279,
-    "英文名": "Golden Kiwi",
-    "中文名": "黄金奇异果"
+    "department": "Fruit",
+    "barcode": 3279,
+    "ehName": "Golden Kiwi",
+    "zhName": "黄金奇异果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4307,
-    "英文名": "Longan Fruit",
-    "中文名": "中国龙眼"
+    "department": "Fruit",
+    "barcode": 4307,
+    "ehName": "Longan Fruit",
+    "zhName": "中国龙眼"
   },
   {
-    "部门": "Fruit",
-    "条码": 4309,
-    "英文名": "Fresh Lychee",
-    "中文名": "台湾荔枝"
+    "department": "Fruit",
+    "barcode": 4309,
+    "ehName": "Fresh Lychee",
+    "zhName": "台湾荔枝"
   },
   {
-    "部门": "Fruit",
-    "条码": 4229,
-    "英文名": "Small Guava",
-    "中文名": "小蕃石榴"
+    "department": "Fruit",
+    "barcode": 4229,
+    "ehName": "Small Guava",
+    "zhName": "小蕃石榴"
   },
   {
-    "部门": "Fruit",
-    "条码": 3154,
-    "英文名": "California Orange (S)",
-    "中文名": "加州小甜橙"
+    "department": "Fruit",
+    "barcode": 3154,
+    "ehName": "California Orange (S)",
+    "zhName": "加州小甜橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 7528,
-    "英文名": "Dragon Fruit",
-    "中文名": "散装火龙果"
+    "department": "Fruit",
+    "barcode": 7528,
+    "ehName": "Dragon Fruit",
+    "zhName": "散装火龙果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3382,
-    "英文名": "Sugar Apple",
-    "中文名": "番荔枝"
+    "department": "Fruit",
+    "barcode": 3382,
+    "ehName": "Sugar Apple",
+    "zhName": "番荔枝"
   },
   {
-    "部门": "Fruit",
-    "条码": 7605,
-    "英文名": "Ataulfo- Mango",
-    "中文名": "原箱吕宋芒"
+    "department": "Fruit",
+    "barcode": 7605,
+    "ehName": "Ataulfo- Mango",
+    "zhName": "原箱吕宋芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 4012,
-    "英文名": "Sunkist Orange (S)",
-    "中文名": "新奇士橙"
+    "department": "Fruit",
+    "barcode": 4012,
+    "ehName": "Sunkist Orange (S)",
+    "zhName": "新奇士橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 7025,
-    "英文名": "Vietnamese Bananas",
-    "中文名": "越南大蕉"
+    "department": "Fruit",
+    "barcode": 7025,
+    "ehName": "Vietnamese Bananas",
+    "zhName": "越南大蕉"
   },
   {
-    "部门": "Fruit",
-    "条码": 7530,
-    "英文名": "Clementine",
-    "中文名": "大甜橘"
+    "department": "Fruit",
+    "barcode": 7530,
+    "ehName": "Clementine",
+    "zhName": "大甜橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 7529,
-    "英文名": "Avocado (Bag)",
-    "中文名": "牛油果(袋装)"
+    "department": "Fruit",
+    "barcode": 7529,
+    "ehName": "Avocado (Bag)",
+    "zhName": "牛油果(袋装)"
   },
   {
-    "部门": "Fruit",
-    "条码": 3455,
-    "英文名": "Jack Fruit",
-    "中文名": "菠萝蜜"
+    "department": "Fruit",
+    "barcode": 3455,
+    "ehName": "Jack Fruit",
+    "zhName": "菠萝蜜"
   },
   {
-    "部门": "Fruit",
-    "条码": 7534,
-    "英文名": "Sweet Mango (Yellow Box)",
-    "中文名": "盒装吕宋芒(黄箱)"
+    "department": "Fruit",
+    "barcode": 7534,
+    "ehName": "Sweet Mango (Yellow Box)",
+    "zhName": "盒装吕宋芒(黄箱)"
   },
   {
-    "部门": "Fruit",
-    "条码": 3110,
-    "英文名": "Sunkist Red Navel Orange",
-    "中文名": "新奇士红肉橙"
+    "department": "Fruit",
+    "barcode": 3110,
+    "ehName": "Sunkist Red Navel Orange",
+    "zhName": "新奇士红肉橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 3319,
-    "英文名": "Golden Dragon Fruit",
-    "中文名": "黄金火龙果"
+    "department": "Fruit",
+    "barcode": 3319,
+    "ehName": "Golden Dragon Fruit",
+    "zhName": "黄金火龙果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7064,
-    "英文名": "Jack Fruit",
-    "中文名": "菠萝蜜"
+    "department": "Fruit",
+    "barcode": 7064,
+    "ehName": "Jack Fruit",
+    "zhName": "菠萝蜜"
   },
   {
-    "部门": "Fruit",
-    "条码": 7535,
-    "英文名": "Ataulfo-Mango(Red&White Box)",
-    "中文名": "原箱吕宋芒(红白箱)"
+    "department": "Fruit",
+    "barcode": 7535,
+    "ehName": "Ataulfo-Mango(Red&White Box)",
+    "zhName": "原箱吕宋芒(红白箱)"
   },
   {
-    "部门": "Fruit",
-    "条码": 3319,
-    "英文名": "Golden Dragon Fruit",
-    "中文名": "黄金火龙果"
+    "department": "Fruit",
+    "barcode": 3319,
+    "ehName": "Golden Dragon Fruit",
+    "zhName": "黄金火龙果"
   },
   {
-    "部门": "Fruit",
-    "条码": 9000,
-    "英文名": "Fruit Bag",
-    "中文名": "打包水果"
+    "department": "Fruit",
+    "barcode": 9000,
+    "ehName": "Fruit Bag",
+    "zhName": "打包水果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4011,
-    "英文名": "Banana",
-    "中文名": "香  蕉"
+    "department": "Fruit",
+    "barcode": 4011,
+    "ehName": "Banana",
+    "zhName": "香  蕉"
   },
   {
-    "部门": "Fruit",
-    "条码": 4233,
-    "英文名": "Manzano Banana",
-    "中文名": "牛奶蕉"
+    "department": "Fruit",
+    "barcode": 4233,
+    "ehName": "Manzano Banana",
+    "zhName": "牛奶蕉"
   },
   {
-    "部门": "Fruit",
-    "条码": 3072,
-    "英文名": "Pink Lady  Apple",
-    "中文名": "红粉佳人苹果"
+    "department": "Fruit",
+    "barcode": 3072,
+    "ehName": "Pink Lady  Apple",
+    "zhName": "红粉佳人苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4020,
-    "英文名": "Golden Del. Apple",
-    "中文名": "金黄萍果"
+    "department": "Fruit",
+    "barcode": 4020,
+    "ehName": "Golden Del. Apple",
+    "zhName": "金黄萍果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4285,
-    "英文名": "Grapefruit (L)",
-    "中文名": "西柚"
+    "department": "Fruit",
+    "barcode": 4285,
+    "ehName": "Grapefruit (L)",
+    "zhName": "西柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 3129,
-    "英文名": "Pomelo",
-    "中文名": "越南蜜柚"
+    "department": "Fruit",
+    "barcode": 3129,
+    "ehName": "Pomelo",
+    "zhName": "越南蜜柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 7056,
-    "英文名": "Mandarin",
-    "中文名": "甜橘"
+    "department": "Fruit",
+    "barcode": 7056,
+    "ehName": "Mandarin",
+    "zhName": "甜橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 7055,
-    "英文名": "Clementine",
-    "中文名": "小甜橘"
+    "department": "Fruit",
+    "barcode": 7055,
+    "ehName": "Clementine",
+    "zhName": "小甜橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 4034,
-    "英文名": "Honey Dew (L)",
-    "中文名": "白蜜瓜"
+    "department": "Fruit",
+    "barcode": 4034,
+    "ehName": "Honey Dew (L)",
+    "zhName": "白蜜瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4050,
-    "英文名": "Cantaloup (L)",
-    "中文名": "粗皮瓜"
+    "department": "Fruit",
+    "barcode": 4050,
+    "ehName": "Cantaloup (L)",
+    "zhName": "粗皮瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 7074,
-    "英文名": "Seedless Watermelon",
-    "中文名": "无籽西瓜"
+    "department": "Fruit",
+    "barcode": 7074,
+    "ehName": "Seedless Watermelon",
+    "zhName": "无籽西瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4341,
-    "英文名": "Yellow Meat Watermelon",
-    "中文名": "黄肉西瓜"
+    "department": "Fruit",
+    "barcode": 4341,
+    "ehName": "Yellow Meat Watermelon",
+    "zhName": "黄肉西瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4317,
-    "英文名": "Yellow Honey Dew",
-    "中文名": "黄皮瓜"
+    "department": "Fruit",
+    "barcode": 4317,
+    "ehName": "Yellow Honey Dew",
+    "zhName": "黄皮瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4890,
-    "英文名": "Ya Pears",
-    "中文名": "鸭梨"
+    "department": "Fruit",
+    "barcode": 4890,
+    "ehName": "Ya Pears",
+    "zhName": "鸭梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4408,
-    "英文名": "Niitaka Pear",
-    "中文名": "南水梨"
+    "department": "Fruit",
+    "barcode": 4408,
+    "ehName": "Niitaka Pear",
+    "zhName": "南水梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4409,
-    "英文名": "Green Pear",
-    "中文名": "青啤梨"
+    "department": "Fruit",
+    "barcode": 4409,
+    "ehName": "Green Pear",
+    "zhName": "青啤梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4222,
-    "英文名": "Delicia Avocado",
-    "中文名": "牛油果"
+    "department": "Fruit",
+    "barcode": 4222,
+    "ehName": "Delicia Avocado",
+    "zhName": "牛油果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4030,
-    "英文名": "Kiwi",
-    "中文名": "奇异果"
+    "department": "Fruit",
+    "barcode": 4030,
+    "ehName": "Kiwi",
+    "zhName": "奇异果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4261,
-    "英文名": "Young Coconut",
-    "中文名": "椰 青"
+    "department": "Fruit",
+    "barcode": 4261,
+    "ehName": "Young Coconut",
+    "zhName": "椰 青"
   },
   {
-    "部门": "Fruit",
-    "条码": 3035,
-    "英文名": "White Nectarine",
-    "中文名": "白蜜桃"
+    "department": "Fruit",
+    "barcode": 3035,
+    "ehName": "White Nectarine",
+    "zhName": "白蜜桃"
   },
   {
-    "部门": "Fruit",
-    "条码": 4401,
-    "英文名": "White Peach",
-    "中文名": "白毛桃"
+    "department": "Fruit",
+    "barcode": 4401,
+    "ehName": "White Peach",
+    "zhName": "白毛桃"
   },
   {
-    "部门": "Fruit",
-    "条码": 4038,
-    "英文名": "Yellow Peaches",
-    "中文名": "黄毛桃"
+    "department": "Fruit",
+    "barcode": 4038,
+    "ehName": "Yellow Peaches",
+    "zhName": "黄毛桃"
   },
   {
-    "部门": "Fruit",
-    "条码": 4042,
-    "英文名": "Red Plum",
-    "中文名": "红布霖"
+    "department": "Fruit",
+    "barcode": 4042,
+    "ehName": "Red Plum",
+    "zhName": "红布霖"
   },
   {
-    "部门": "Fruit",
-    "条码": 4040,
-    "英文名": "Black Plum",
-    "中文名": "黑布霖"
+    "department": "Fruit",
+    "barcode": 4040,
+    "ehName": "Black Plum",
+    "zhName": "黑布霖"
   },
   {
-    "部门": "Fruit",
-    "条码": 3041,
-    "英文名": "Thailand Rambutan",
-    "中文名": "泰国红毛丹"
+    "department": "Fruit",
+    "barcode": 3041,
+    "ehName": "Thailand Rambutan",
+    "zhName": "泰国红毛丹"
   },
   {
-    "部门": "Fruit",
-    "条码": 7069,
-    "英文名": "Persimmon",
-    "中文名": "巴西柿子"
+    "department": "Fruit",
+    "barcode": 7069,
+    "ehName": "Persimmon",
+    "zhName": "巴西柿子"
   },
   {
-    "部门": "Fruit",
-    "条码": 4430,
-    "英文名": "Pineapple",
-    "中文名": "菠萝"
+    "department": "Fruit",
+    "barcode": 4430,
+    "ehName": "Pineapple",
+    "zhName": "菠萝"
   },
   {
-    "部门": "Fruit",
-    "条码": 4051,
-    "英文名": "Sweet Mango (L)",
-    "中文名": "甜芒果"
+    "department": "Fruit",
+    "barcode": 4051,
+    "ehName": "Sweet Mango (L)",
+    "zhName": "甜芒果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4312,
-    "英文名": "Mini Mango",
-    "中文名": "猪腰芒"
+    "department": "Fruit",
+    "barcode": 4312,
+    "ehName": "Mini Mango",
+    "zhName": "猪腰芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 4959,
-    "英文名": "Hyden Mango",
-    "中文名": "萍果芒"
+    "department": "Fruit",
+    "barcode": 4959,
+    "ehName": "Hyden Mango",
+    "zhName": "萍果芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 4307,
-    "英文名": "Longan Fruit",
-    "中文名": "泰国龙眼"
+    "department": "Fruit",
+    "barcode": 4307,
+    "ehName": "Longan Fruit",
+    "zhName": "泰国龙眼"
   },
   {
-    "部门": "Fruit",
-    "条码": 7617,
-    "英文名": "Fresh Sweet Lychee",
-    "中文名": "新鲜泰国荔枝"
+    "department": "Fruit",
+    "barcode": 7617,
+    "ehName": "Fresh Sweet Lychee",
+    "zhName": "新鲜泰国荔枝"
   },
   {
-    "部门": "Fruit",
-    "条码": 4045,
-    "英文名": "Cherry",
-    "中文名": "车厘子"
+    "department": "Fruit",
+    "barcode": 4045,
+    "ehName": "Cherry",
+    "zhName": "车厘子"
   },
   {
-    "部门": "Fruit",
-    "条码": 4428,
-    "英文名": "Persimmon Box",
-    "中文名": "盒装富贵柿"
+    "department": "Fruit",
+    "barcode": 4428,
+    "ehName": "Persimmon Box",
+    "zhName": "盒装富贵柿"
   },
   {
-    "部门": "Fruit",
-    "条码": 7531,
-    "英文名": "Strawberries",
-    "中文名": "盒装草莓"
+    "department": "Fruit",
+    "barcode": 7531,
+    "ehName": "Strawberries",
+    "zhName": "盒装草莓"
   },
   {
-    "部门": "Fruit",
-    "条码": 4960,
-    "英文名": "Fragant Pear",
-    "中文名": "香梨"
+    "department": "Fruit",
+    "barcode": 4960,
+    "ehName": "Fragant Pear",
+    "zhName": "香梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4407,
-    "英文名": "Asian Pear",
-    "中文名": "水晶梨"
+    "department": "Fruit",
+    "barcode": 4407,
+    "ehName": "Asian Pear",
+    "zhName": "水晶梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4394,
-    "英文名": "Papaya",
-    "中文名": "特甜木瓜"
+    "department": "Fruit",
+    "barcode": 4394,
+    "ehName": "Papaya",
+    "zhName": "特甜木瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 3042,
-    "英文名": "Mangosteen",
-    "中文名": "山竹"
+    "department": "Fruit",
+    "barcode": 3042,
+    "ehName": "Mangosteen",
+    "zhName": "山竹"
   },
   {
-    "部门": "Fruit",
-    "条码": 7608,
-    "英文名": "Guava",
-    "中文名": "台湾番石榴"
+    "department": "Fruit",
+    "barcode": 7608,
+    "ehName": "Guava",
+    "zhName": "台湾番石榴"
   },
   {
-    "部门": "Fruit",
-    "条码": 3154,
-    "英文名": "California Orange",
-    "中文名": "加州甜橙"
+    "department": "Fruit",
+    "barcode": 3154,
+    "ehName": "California Orange",
+    "zhName": "加州甜橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 3110,
-    "英文名": "Red Navel Orange",
-    "中文名": "红肉橙"
+    "department": "Fruit",
+    "barcode": 3110,
+    "ehName": "Red Navel Orange",
+    "zhName": "红肉橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 4131,
-    "英文名": "Fuji Apple (U.S)",
-    "中文名": "美国富士萍果"
+    "department": "Fruit",
+    "barcode": 4131,
+    "ehName": "Fuji Apple (U.S)",
+    "zhName": "美国富士萍果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4016,
-    "英文名": "Red Delicious Apple",
-    "中文名": "红苹果"
+    "department": "Fruit",
+    "barcode": 4016,
+    "ehName": "Red Delicious Apple",
+    "zhName": "红苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4147,
-    "英文名": "Jonagold Apple",
-    "中文名": "红玫瑰苹果"
+    "department": "Fruit",
+    "barcode": 4147,
+    "ehName": "Jonagold Apple",
+    "zhName": "红玫瑰苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4637,
-    "英文名": "Molina Red Grape",
-    "中文名": "大红提"
+    "department": "Fruit",
+    "barcode": 4637,
+    "ehName": "Molina Red Grape",
+    "zhName": "大红提"
   },
   {
-    "部门": "Fruit",
-    "条码": 4022,
-    "英文名": "Green Seedless Grape",
-    "中文名": "无核青提"
+    "department": "Fruit",
+    "barcode": 4022,
+    "ehName": "Green Seedless Grape",
+    "zhName": "无核青提"
   },
   {
-    "部门": "Fruit",
-    "条码": 4499,
-    "英文名": "Seedless Red Grape",
-    "中文名": "无核红提"
+    "department": "Fruit",
+    "barcode": 4499,
+    "ehName": "Seedless Red Grape",
+    "zhName": "无核红提"
   },
   {
-    "部门": "Fruit",
-    "条码": 4036,
-    "英文名": "Yellow Nectarines",
-    "中文名": "黄肉桃"
+    "department": "Fruit",
+    "barcode": 4036,
+    "ehName": "Yellow Nectarines",
+    "zhName": "黄肉桃"
   },
   {
-    "部门": "Fruit",
-    "条码": 4400,
-    "英文名": "Saucer Peach",
-    "中文名": "扁桃"
+    "department": "Fruit",
+    "barcode": 4400,
+    "ehName": "Saucer Peach",
+    "zhName": "扁桃"
   },
   {
-    "部门": "Fruit",
-    "条码": 4266,
-    "英文名": "Figs",
-    "中文名": "无花果"
+    "department": "Fruit",
+    "barcode": 4266,
+    "ehName": "Figs",
+    "zhName": "无花果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7066,
-    "英文名": "Jamica Papaya",
-    "中文名": "牙买加木瓜"
+    "department": "Fruit",
+    "barcode": 7066,
+    "ehName": "Jamica Papaya",
+    "zhName": "牙买加木瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 7609,
-    "英文名": "Jamaica Papaya(box)",
-    "中文名": "牙买加木瓜(箱)"
+    "department": "Fruit",
+    "barcode": 7609,
+    "ehName": "Jamaica Papaya(box)",
+    "zhName": "牙买加木瓜(箱)"
   },
   {
-    "部门": "Fruit",
-    "条码": 3302,
-    "英文名": "Apricot",
-    "中文名": "杏果"
+    "department": "Fruit",
+    "barcode": 3302,
+    "ehName": "Apricot",
+    "zhName": "杏果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3040,
-    "英文名": "Dragon Fruit",
-    "中文名": "火龙果"
+    "department": "Fruit",
+    "barcode": 3040,
+    "ehName": "Dragon Fruit",
+    "zhName": "火龙果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4129,
-    "英文名": "Chinese FuJi Apple",
-    "中文名": "大陆富士苹果"
+    "department": "Fruit",
+    "barcode": 4129,
+    "ehName": "Chinese FuJi Apple",
+    "zhName": "大陆富士苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7652,
-    "英文名": "Roseapple",
-    "中文名": "莲雾"
+    "department": "Fruit",
+    "barcode": 7652,
+    "ehName": "Roseapple",
+    "zhName": "莲雾"
   },
   {
-    "部门": "Fruit",
-    "条码": 7521,
-    "英文名": "Fancy Blueberry",
-    "中文名": "蓝 莓"
+    "department": "Fruit",
+    "barcode": 7521,
+    "ehName": "Fancy Blueberry",
+    "zhName": "蓝 莓"
   },
   {
-    "部门": "Fruit",
-    "条码": 3624,
-    "英文名": "Golden Melon",
-    "中文名": "黄金瓜"
+    "department": "Fruit",
+    "barcode": 3624,
+    "ehName": "Golden Melon",
+    "zhName": "黄金瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4056,
-    "英文名": "Black Grape",
-    "中文名": "无核黑提"
+    "department": "Fruit",
+    "barcode": 4056,
+    "ehName": "Black Grape",
+    "zhName": "无核黑提"
   },
   {
-    "部门": "Fruit",
-    "条码": 4017,
-    "英文名": "Green Apple",
-    "中文名": "青苹果"
+    "department": "Fruit",
+    "barcode": 4017,
+    "ehName": "Green Apple",
+    "zhName": "青苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3440,
-    "英文名": "Pomegranate",
-    "中文名": "散装红石榴"
+    "department": "Fruit",
+    "barcode": 3440,
+    "ehName": "Pomegranate",
+    "zhName": "散装红石榴"
   },
   {
-    "部门": "Fruit",
-    "条码": 4418,
-    "英文名": "Sweet Ercolini Pear",
-    "中文名": "糖芯啤梨"
+    "department": "Fruit",
+    "barcode": 4418,
+    "ehName": "Sweet Ercolini Pear",
+    "zhName": "糖芯啤梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 7618,
-    "英文名": "Long Kong",
-    "中文名": "泰国黄皮"
+    "department": "Fruit",
+    "barcode": 7618,
+    "ehName": "Long Kong",
+    "zhName": "泰国黄皮"
   },
   {
-    "部门": "Fruit",
-    "条码": 3455,
-    "英文名": "Jack Fruit",
-    "中文名": "菠萝蜜"
+    "department": "Fruit",
+    "barcode": 3455,
+    "ehName": "Jack Fruit",
+    "zhName": "菠萝蜜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4220,
-    "英文名": "Chirimoya",
-    "中文名": "欧洲番荔枝"
+    "department": "Fruit",
+    "barcode": 4220,
+    "ehName": "Chirimoya",
+    "zhName": "欧洲番荔枝"
   },
   {
-    "部门": "Fruit",
-    "条码": 3107,
-    "英文名": "Florida Orange(bag)",
-    "中文名": "佛罗里达橙(袋)"
+    "department": "Fruit",
+    "barcode": 3107,
+    "ehName": "Florida Orange(bag)",
+    "zhName": "佛罗里达橙(袋)"
   },
   {
-    "部门": "Fruit",
-    "条码": 4135,
-    "英文名": "Gala Apple (#4135)",
-    "中文名": "新西兰苹果"
+    "department": "Fruit",
+    "barcode": 4135,
+    "ehName": "Gala Apple (#4135)",
+    "zhName": "新西兰苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7083,
-    "英文名": "Vietnam Longan",
-    "中文名": "越南龙眼"
+    "department": "Fruit",
+    "barcode": 7083,
+    "ehName": "Vietnam Longan",
+    "zhName": "越南龙眼"
   },
   {
-    "部门": "Fruit",
-    "条码": 3136,
-    "英文名": "Sapodina",
-    "中文名": "人参果"
+    "department": "Fruit",
+    "barcode": 3136,
+    "ehName": "Sapodina",
+    "zhName": "人参果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3381,
-    "英文名": "SourSop",
-    "中文名": "林琴果"
+    "department": "Fruit",
+    "barcode": 3381,
+    "ehName": "SourSop",
+    "zhName": "林琴果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7522,
-    "英文名": "Santol",
-    "中文名": ""
+    "department": "Fruit",
+    "barcode": 7522,
+    "ehName": "Santol",
+    "zhName": ""
   },
   {
-    "部门": "Fruit",
-    "条码": 7605,
-    "英文名": "Ataulfo Mango(Red Box)",
-    "中文名": "原箱吕宋芒"
+    "department": "Fruit",
+    "barcode": 7605,
+    "ehName": "Ataulfo Mango(Red Box)",
+    "zhName": "原箱吕宋芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 7606,
-    "英文名": "Haden Mango (Box)",
-    "中文名": "原箱萍果芒"
+    "department": "Fruit",
+    "barcode": 7606,
+    "ehName": "Haden Mango (Box)",
+    "zhName": "原箱萍果芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 4961,
-    "英文名": "Ataulfo Mango",
-    "中文名": "吕宋芒"
+    "department": "Fruit",
+    "barcode": 4961,
+    "ehName": "Ataulfo Mango",
+    "zhName": "吕宋芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 3623,
-    "英文名": "Honey Melon",
-    "中文名": "新疆哈蜜瓜"
+    "department": "Fruit",
+    "barcode": 3623,
+    "ehName": "Honey Melon",
+    "zhName": "新疆哈蜜瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 7029,
-    "英文名": "June Plum",
-    "中文名": "槟榔"
+    "department": "Fruit",
+    "barcode": 7029,
+    "ehName": "June Plum",
+    "zhName": "槟榔"
   },
   {
-    "部门": "Fruit",
-    "条码": 4013,
-    "英文名": "Small Sunkist Orange",
-    "中文名": "新奇士小橙"
+    "department": "Fruit",
+    "barcode": 4013,
+    "ehName": "Small Sunkist Orange",
+    "zhName": "新奇士小橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 4012,
-    "英文名": "Sunkist Orange (L)",
-    "中文名": "新奇士橙"
+    "department": "Fruit",
+    "barcode": 4012,
+    "ehName": "Sunkist Orange (L)",
+    "zhName": "新奇士橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 7120,
-    "英文名": "Vietnam Banana",
-    "中文名": "越南香蕉"
+    "department": "Fruit",
+    "barcode": 7120,
+    "ehName": "Vietnam Banana",
+    "zhName": "越南香蕉"
   },
   {
-    "部门": "Fruit",
-    "条码": 3312,
-    "英文名": "Passion Fruit",
-    "中文名": "热情果"
+    "department": "Fruit",
+    "barcode": 3312,
+    "ehName": "Passion Fruit",
+    "zhName": "热情果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7055,
-    "英文名": "Sweet Mandarin",
-    "中文名": "小甜橘"
+    "department": "Fruit",
+    "barcode": 7055,
+    "ehName": "Sweet Mandarin",
+    "zhName": "小甜橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 3428,
-    "英文名": "Baby Sweet Mandarin",
-    "中文名": "砂糖桔"
+    "department": "Fruit",
+    "barcode": 3428,
+    "ehName": "Baby Sweet Mandarin",
+    "zhName": "砂糖桔"
   },
   {
-    "部门": "Fruit",
-    "条码": 7610,
-    "英文名": "Brazil Papaya Box)",
-    "中文名": "箱装巴西小木瓜"
+    "department": "Fruit",
+    "barcode": 7610,
+    "ehName": "Brazil Papaya Box)",
+    "zhName": "箱装巴西小木瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4329,
-    "英文名": "Honry Dew (S)",
-    "中文名": "小白蜜瓜"
+    "department": "Fruit",
+    "barcode": 4329,
+    "ehName": "Honry Dew (S)",
+    "zhName": "小白蜜瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4261,
-    "英文名": "Fresh Coconut",
-    "中文名": "新鲜椰青"
+    "department": "Fruit",
+    "barcode": 4261,
+    "ehName": "Fresh Coconut",
+    "zhName": "新鲜椰青"
   },
   {
-    "部门": "Fruit",
-    "条码": 3041,
-    "英文名": "V.N Rambutan",
-    "中文名": "越南红毛丹"
+    "department": "Fruit",
+    "barcode": 3041,
+    "ehName": "V.N Rambutan",
+    "zhName": "越南红毛丹"
   },
   {
-    "部门": "Fruit",
-    "条码": 7011,
-    "英文名": "Sweet Haiti Mango",
-    "中文名": "海地芒果"
+    "department": "Fruit",
+    "barcode": 7011,
+    "ehName": "Sweet Haiti Mango",
+    "zhName": "海地芒果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7080,
-    "英文名": "Sweet Date",
-    "中文名": "台湾青枣"
+    "department": "Fruit",
+    "barcode": 7080,
+    "ehName": "Sweet Date",
+    "zhName": "台湾青枣"
   },
   {
-    "部门": "Fruit",
-    "条码": 7022,
-    "英文名": "White Roseapple",
-    "中文名": "白莲雾"
+    "department": "Fruit",
+    "barcode": 7022,
+    "ehName": "White Roseapple",
+    "zhName": "白莲雾"
   },
   {
-    "部门": "Fruit",
-    "条码": 4239,
-    "英文名": "Blackberries",
-    "中文名": "黑莓"
+    "department": "Fruit",
+    "barcode": 4239,
+    "ehName": "Blackberries",
+    "zhName": "黑莓"
   },
   {
-    "部门": "Fruit",
-    "条码": 4054,
-    "英文名": "Raspberries",
-    "中文名": "红莓"
+    "department": "Fruit",
+    "barcode": 4054,
+    "ehName": "Raspberries",
+    "zhName": "红莓"
   },
   {
-    "部门": "Fruit",
-    "条码": 4436,
-    "英文名": "Flower Queen Plum",
-    "中文名": "雪花布霖"
+    "department": "Fruit",
+    "barcode": 4436,
+    "ehName": "Flower Queen Plum",
+    "zhName": "雪花布霖"
   },
   {
-    "部门": "Fruit",
-    "条码": 3127,
-    "英文名": "Seedless Pomegranate",
-    "中文名": "无籽石榴"
+    "department": "Fruit",
+    "barcode": 3127,
+    "ehName": "Seedless Pomegranate",
+    "zhName": "无籽石榴"
   },
   {
-    "部门": "Fruit",
-    "条码": 3136,
-    "英文名": "Sweet  Sapodira",
-    "中文名": "南美人参果"
+    "department": "Fruit",
+    "barcode": 3136,
+    "ehName": "Sweet  Sapodira",
+    "zhName": "南美人参果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7057,
-    "英文名": "New Year Sweet Tangerine",
-    "中文名": "有枝年桔"
+    "department": "Fruit",
+    "barcode": 7057,
+    "ehName": "New Year Sweet Tangerine",
+    "zhName": "有枝年桔"
   },
   {
-    "部门": "Fruit",
-    "条码": 7607,
-    "英文名": "Haiti Mango (Box)",
-    "中文名": "箱装海地芒果"
+    "department": "Fruit",
+    "barcode": 7607,
+    "ehName": "Haiti Mango (Box)",
+    "zhName": "箱装海地芒果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7076,
-    "英文名": "Honey Dates",
-    "中文名": "红枣"
+    "department": "Fruit",
+    "barcode": 7076,
+    "ehName": "Honey Dates",
+    "zhName": "红枣"
   },
   {
-    "部门": "Fruit",
-    "条码": 4285,
-    "英文名": "Jaffa",
-    "中文名": "西柚"
+    "department": "Fruit",
+    "barcode": 4285,
+    "ehName": "Jaffa",
+    "zhName": "西柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 7077,
-    "英文名": "Sweet Dates",
-    "中文名": "鸡心枣"
+    "department": "Fruit",
+    "barcode": 7077,
+    "ehName": "Sweet Dates",
+    "zhName": "鸡心枣"
   },
   {
-    "部门": "Fruit",
-    "条码": 7078,
-    "英文名": "Golden Dates",
-    "中文名": "黄金蜜枣"
+    "department": "Fruit",
+    "barcode": 7078,
+    "ehName": "Golden Dates",
+    "zhName": "黄金蜜枣"
   },
   {
-    "部门": "Fruit",
-    "条码": 7533,
-    "英文名": "Kiwi (Box)",
-    "中文名": "盒装奇异果"
+    "department": "Fruit",
+    "barcode": 7533,
+    "ehName": "Kiwi (Box)",
+    "zhName": "盒装奇异果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7059,
-    "英文名": "Red Dragon Fruit",
-    "中文名": "红肉火龙果"
+    "department": "Fruit",
+    "barcode": 7059,
+    "ehName": "Red Dragon Fruit",
+    "zhName": "红肉火龙果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3382,
-    "英文名": "Organic Chirimoya",
-    "中文名": "空运番荔枝"
+    "department": "Fruit",
+    "barcode": 3382,
+    "ehName": "Organic Chirimoya",
+    "zhName": "空运番荔枝"
   },
   {
-    "部门": "Fruit",
-    "条码": 7505,
-    "英文名": "Fresh Ponkan",
-    "中文名": "散装碰柑"
+    "department": "Fruit",
+    "barcode": 7505,
+    "ehName": "Fresh Ponkan",
+    "zhName": "散装碰柑"
   },
   {
-    "部门": "Fruit",
-    "条码": 3012,
-    "英文名": "Ivory Pear",
-    "中文名": "象牙梨"
+    "department": "Fruit",
+    "barcode": 3012,
+    "ehName": "Ivory Pear",
+    "zhName": "象牙梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4477,
-    "英文名": "Fresh Durian",
-    "中文名": "新鲜榴莲"
+    "department": "Fruit",
+    "barcode": 4477,
+    "ehName": "Fresh Durian",
+    "zhName": "新鲜榴莲"
   },
   {
-    "部门": "Fruit",
-    "条码": 4427,
-    "英文名": "Hychia Persimmon",
-    "中文名": "西班牙高身柿"
+    "department": "Fruit",
+    "barcode": 4427,
+    "ehName": "Hychia Persimmon",
+    "zhName": "西班牙高身柿"
   },
   {
-    "部门": "Fruit",
-    "条码": 4256,
-    "英文名": "Star Fruit",
-    "中文名": "杨桃"
+    "department": "Fruit",
+    "barcode": 4256,
+    "ehName": "Star Fruit",
+    "zhName": "杨桃"
   },
   {
-    "部门": "Fruit",
-    "条码": 3274,
-    "英文名": "Prunes",
-    "中文名": "西梅"
+    "department": "Fruit",
+    "barcode": 3274,
+    "ehName": "Prunes",
+    "zhName": "西梅"
   },
   {
-    "部门": "Fruit",
-    "条码": 7068,
-    "英文名": "Hychia Persimmon (Box)",
-    "中文名": "盒装高身柿"
+    "department": "Fruit",
+    "barcode": 7068,
+    "ehName": "Hychia Persimmon (Box)",
+    "zhName": "盒装高身柿"
   },
   {
-    "部门": "Fruit",
-    "条码": 4279,
-    "英文名": "Honey Pomelo",
-    "中文名": "大陆蜜柚"
+    "department": "Fruit",
+    "barcode": 4279,
+    "ehName": "Honey Pomelo",
+    "zhName": "大陆蜜柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 3111,
-    "英文名": "Brazil Papaya",
-    "中文名": "巴西小木瓜"
+    "department": "Fruit",
+    "barcode": 3111,
+    "ehName": "Brazil Papaya",
+    "zhName": "巴西小木瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4790,
-    "英文名": "Sugar Cane",
-    "中文名": "黑蔗"
+    "department": "Fruit",
+    "barcode": 4790,
+    "ehName": "Sugar Cane",
+    "zhName": "黑蔗"
   },
   {
-    "部门": "Fruit",
-    "条码": 7072,
-    "英文名": "Sugar Cane",
-    "中文名": "甘蔗"
+    "department": "Fruit",
+    "barcode": 7072,
+    "ehName": "Sugar Cane",
+    "zhName": "甘蔗"
   },
   {
-    "部门": "Fruit",
-    "条码": 4016,
-    "英文名": "Red Fruit",
-    "中文名": "红果"
+    "department": "Fruit",
+    "barcode": 4016,
+    "ehName": "Red Fruit",
+    "zhName": "红果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7651,
-    "英文名": "Vietnam Jujubee",
-    "中文名": "越南青枣"
+    "department": "Fruit",
+    "barcode": 7651,
+    "ehName": "Vietnam Jujubee",
+    "zhName": "越南青枣"
   },
   {
-    "部门": "Fruit",
-    "条码": 4388,
-    "英文名": "Florida Orange",
-    "中文名": "佛罗里达橙"
+    "department": "Fruit",
+    "barcode": 4388,
+    "ehName": "Florida Orange",
+    "zhName": "佛罗里达橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 7506,
-    "英文名": "Fresh Luo-Han-Guo",
-    "中文名": "新鲜罗汉果"
+    "department": "Fruit",
+    "barcode": 7506,
+    "ehName": "Fresh Luo-Han-Guo",
+    "zhName": "新鲜罗汉果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4308,
-    "英文名": "Loquat",
-    "中文名": "枇杷"
+    "department": "Fruit",
+    "barcode": 4308,
+    "ehName": "Loquat",
+    "zhName": "枇杷"
   },
   {
-    "部门": "Fruit",
-    "条码": 4260,
-    "英文名": "Green Coconut",
-    "中文名": "青椰子"
+    "department": "Fruit",
+    "barcode": 4260,
+    "ehName": "Green Coconut",
+    "zhName": "青椰子"
   },
   {
-    "部门": "Fruit",
-    "条码": 3101,
-    "英文名": "Santa Claus Melon-green",
-    "中文名": "青皮哈蜜瓜"
+    "department": "Fruit",
+    "barcode": 3101,
+    "ehName": "Santa Claus Melon-green",
+    "zhName": "青皮哈蜜瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 3278,
-    "英文名": "Flower Queen Plum",
-    "中文名": "花布罧"
+    "department": "Fruit",
+    "barcode": 3278,
+    "ehName": "Flower Queen Plum",
+    "zhName": "花布罧"
   },
   {
-    "部门": "Fruit",
-    "条码": 4055,
-    "英文名": "Tangerine(box)",
-    "中文名": "箱装甜橘"
+    "department": "Fruit",
+    "barcode": 4055,
+    "ehName": "Tangerine(box)",
+    "zhName": "箱装甜橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 4453,
-    "英文名": "Honey Mandarin",
-    "中文名": "中国芦柑"
+    "department": "Fruit",
+    "barcode": 4453,
+    "ehName": "Honey Mandarin",
+    "zhName": "中国芦柑"
   },
   {
-    "部门": "Fruit",
-    "条码": 4255,
-    "英文名": "Cactus",
-    "中文名": "仙人掌果"
+    "department": "Fruit",
+    "barcode": 4255,
+    "ehName": "Cactus",
+    "zhName": "仙人掌果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4383,
-    "英文名": "Minneola",
-    "中文名": "橙橘"
+    "department": "Fruit",
+    "barcode": 4383,
+    "ehName": "Minneola",
+    "zhName": "橙橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 4222,
-    "英文名": "Milk Fruit",
-    "中文名": "牛奶果"
+    "department": "Fruit",
+    "barcode": 4222,
+    "ehName": "Milk Fruit",
+    "zhName": "牛奶果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4243,
-    "英文名": "Golden Berries",
-    "中文名": "黄金啤梨"
+    "department": "Fruit",
+    "barcode": 4243,
+    "ehName": "Golden Berries",
+    "zhName": "黄金啤梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4435,
-    "英文名": "Green Plum",
-    "中文名": "青布霖"
+    "department": "Fruit",
+    "barcode": 4435,
+    "ehName": "Green Plum",
+    "zhName": "青布霖"
   },
   {
-    "部门": "Fruit",
-    "条码": 7079,
-    "英文名": "Jamica Date",
-    "中文名": "牙买加蜜枣"
+    "department": "Fruit",
+    "barcode": 7079,
+    "ehName": "Jamica Date",
+    "zhName": "牙买加蜜枣"
   },
   {
-    "部门": "Fruit",
-    "条码": 4303,
-    "英文名": "Fresh Kumquat",
-    "中文名": "金桔"
+    "department": "Fruit",
+    "barcode": 4303,
+    "ehName": "Fresh Kumquat",
+    "zhName": "金桔"
   },
   {
-    "部门": "Fruit",
-    "条码": 7012,
-    "英文名": "V.N Sour Mango",
-    "中文名": "越南酸芒果"
+    "department": "Fruit",
+    "barcode": 7012,
+    "ehName": "V.N Sour Mango",
+    "zhName": "越南酸芒果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7507,
-    "英文名": "V.N Sweet Mango",
-    "中文名": "越南百花芒"
+    "department": "Fruit",
+    "barcode": 7507,
+    "ehName": "V.N Sweet Mango",
+    "zhName": "越南百花芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 7010,
-    "英文名": "Thailand Mango",
-    "中文名": "泰国芒果"
+    "department": "Fruit",
+    "barcode": 7010,
+    "ehName": "Thailand Mango",
+    "zhName": "泰国芒果"
   },
   {
-    "部门": "Grocery",
-    "条码": 70001,
-    "英文名": "Mixed Nuts 50% PNTs. N/Salt",
-    "中文名": "无盐果仁"
+    "department": "Grocery",
+    "barcode": 70001,
+    "ehName": "Mixed Nuts 50% PNTs. N/Salt",
+    "zhName": "无盐果仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70003,
-    "英文名": "Almond Unblch Raw",
-    "中文名": "原味带皮杏仁"
+    "department": "Grocery",
+    "barcode": 70003,
+    "ehName": "Almond Unblch Raw",
+    "zhName": "原味带皮杏仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70004,
-    "英文名": "Almond Blanched Whole",
-    "中文名": "整粒去皮杏仁"
+    "department": "Grocery",
+    "barcode": 70004,
+    "ehName": "Almond Blanched Whole",
+    "zhName": "整粒去皮杏仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70006,
-    "英文名": "Almond Blanched Sliced",
-    "中文名": "去皮杏仁片"
+    "department": "Grocery",
+    "barcode": 70006,
+    "ehName": "Almond Blanched Sliced",
+    "zhName": "去皮杏仁片"
   },
   {
-    "部门": "Grocery",
-    "条码": 70008,
-    "英文名": "Cashews Raw",
-    "中文名": "生腰果"
+    "department": "Grocery",
+    "barcode": 70008,
+    "ehName": "Cashews Raw",
+    "zhName": "生腰果"
   },
   {
-    "部门": "Grocery",
-    "条码": 70009,
-    "英文名": "Cashews RST No Salt",
-    "中文名": "无盐烤腰果"
+    "department": "Grocery",
+    "barcode": 70009,
+    "ehName": "Cashews RST No Salt",
+    "zhName": "无盐烤腰果"
   },
   {
-    "部门": "Grocery",
-    "条码": 70012,
-    "英文名": "Peanut Chopped Dry RST N/S",
-    "中文名": "无盐花生粒"
+    "department": "Grocery",
+    "barcode": 70012,
+    "ehName": "Peanut Chopped Dry RST N/S",
+    "zhName": "无盐花生粒"
   },
   {
-    "部门": "Grocery",
-    "条码": 70013,
-    "英文名": "Sunflower Seeds RST",
-    "中文名": "原味葵花籽"
+    "department": "Grocery",
+    "barcode": 70013,
+    "ehName": "Sunflower Seeds RST",
+    "zhName": "原味葵花籽"
   },
   {
-    "部门": "Grocery",
-    "条码": 70014,
-    "英文名": "Sunflower Seeds Raw Hulled",
-    "中文名": "原味带壳葵花籽"
+    "department": "Grocery",
+    "barcode": 70014,
+    "ehName": "Sunflower Seeds Raw Hulled",
+    "zhName": "原味带壳葵花籽"
   },
   {
-    "部门": "Grocery",
-    "条码": 70017,
-    "英文名": "Walnut Halves",
-    "中文名": "加州核桃"
+    "department": "Grocery",
+    "barcode": 70017,
+    "ehName": "Walnut Halves",
+    "zhName": "加州核桃"
   },
   {
-    "部门": "Grocery",
-    "条码": 70018,
-    "英文名": "Brazil Nuts Whole Unlanched",
-    "中文名": "整颗巴西果"
+    "department": "Grocery",
+    "barcode": 70018,
+    "ehName": "Brazil Nuts Whole Unlanched",
+    "zhName": "整颗巴西果"
   },
   {
-    "部门": "Grocery",
-    "条码": 70019,
-    "英文名": "Filberts Natural",
-    "中文名": "天然榛子"
+    "department": "Grocery",
+    "barcode": 70019,
+    "ehName": "Filberts Natural",
+    "zhName": "天然榛子"
   },
   {
-    "部门": "Grocery",
-    "条码": 70020,
-    "英文名": "Pecan Halves Raw",
-    "中文名": "山核桃粒"
+    "department": "Grocery",
+    "barcode": 70020,
+    "ehName": "Pecan Halves Raw",
+    "zhName": "山核桃粒"
   },
   {
-    "部门": "Grocery",
-    "条码": 70022,
-    "英文名": "Pepitas Raw",
-    "中文名": "原味南瓜籽"
+    "department": "Grocery",
+    "barcode": 70022,
+    "ehName": "Pepitas Raw",
+    "zhName": "原味南瓜籽"
   },
   {
-    "部门": "Grocery",
-    "条码": 70023,
-    "英文名": "Pine Nuts",
-    "中文名": "松子仁"
+    "department": "Grocery",
+    "barcode": 70023,
+    "ehName": "Pine Nuts",
+    "zhName": "松子仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70030,
-    "英文名": "Raisins Sultana",
-    "中文名": "大粒葡萄乾"
+    "department": "Grocery",
+    "barcode": 70030,
+    "ehName": "Raisins Sultana",
+    "zhName": "大粒葡萄乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70031,
-    "英文名": "Raisins Golden",
-    "中文名": "黄金葡萄乾"
+    "department": "Grocery",
+    "barcode": 70031,
+    "ehName": "Raisins Golden",
+    "zhName": "黄金葡萄乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70037,
-    "英文名": "Apricot Dried",
-    "中文名": "杏果乾"
+    "department": "Grocery",
+    "barcode": 70037,
+    "ehName": "Apricot Dried",
+    "zhName": "杏果乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70038,
-    "英文名": "Cherries Dried",
-    "中文名": "樱桃乾"
+    "department": "Grocery",
+    "barcode": 70038,
+    "ehName": "Cherries Dried",
+    "zhName": "樱桃乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70044,
-    "英文名": "Cranberries Dried",
-    "中文名": "越梅乾"
+    "department": "Grocery",
+    "barcode": 70044,
+    "ehName": "Cranberries Dried",
+    "zhName": "越梅乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70045,
-    "英文名": "Papaya Chunks",
-    "中文名": "木瓜乾"
+    "department": "Grocery",
+    "barcode": 70045,
+    "ehName": "Papaya Chunks",
+    "zhName": "木瓜乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70046,
-    "英文名": "Pineapple Tidbits",
-    "中文名": "菠萝乾"
+    "department": "Grocery",
+    "barcode": 70046,
+    "ehName": "Pineapple Tidbits",
+    "zhName": "菠萝乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70047,
-    "英文名": "Mango SLC Regular",
-    "中文名": "芒果乾"
+    "department": "Grocery",
+    "barcode": 70047,
+    "ehName": "Mango SLC Regular",
+    "zhName": "芒果乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70049,
-    "英文名": "Prunes Pitted",
-    "中文名": "西梅乾"
+    "department": "Grocery",
+    "barcode": 70049,
+    "ehName": "Prunes Pitted",
+    "zhName": "西梅乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70050,
-    "英文名": "Ginger AUST Standard Chunk",
-    "中文名": "薑条乾"
+    "department": "Grocery",
+    "barcode": 70050,
+    "ehName": "Ginger AUST Standard Chunk",
+    "zhName": "薑条乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70051,
-    "英文名": "Pineapple Rings Dry",
-    "中文名": "菠萝圈乾"
+    "department": "Grocery",
+    "barcode": 70051,
+    "ehName": "Pineapple Rings Dry",
+    "zhName": "菠萝圈乾"
   },
   {
-    "部门": "Grocery",
-    "条码": 70141,
-    "英文名": "Mix Rice Org.",
-    "中文名": "混合米菓"
+    "department": "Grocery",
+    "barcode": 70141,
+    "ehName": "Mix Rice Org.",
+    "zhName": "混合米菓"
   },
   {
-    "部门": "Grocery",
-    "条码": 70143,
-    "英文名": "Mixed DeluxeTreat UNSA",
-    "中文名": "果仁杂锦"
+    "department": "Grocery",
+    "barcode": 70143,
+    "ehName": "Mixed DeluxeTreat UNSA",
+    "zhName": "果仁杂锦"
   },
   {
-    "部门": "Grocery",
-    "条码": 70150,
-    "英文名": "Mixed Nuts S Salt W 50% PNT",
-    "中文名": "带盐果仁"
+    "department": "Grocery",
+    "barcode": 70150,
+    "ehName": "Mixed Nuts S Salt W 50% PNT",
+    "zhName": "带盐果仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70156,
-    "英文名": "Almond Hickory Fla.",
-    "中文名": "核桃杏仁"
+    "department": "Grocery",
+    "barcode": 70156,
+    "ehName": "Almond Hickory Fla.",
+    "zhName": "核桃杏仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70161,
-    "英文名": "Peanut RST W/Salt",
-    "中文名": "带盐花生"
+    "department": "Grocery",
+    "barcode": 70161,
+    "ehName": "Peanut RST W/Salt",
+    "zhName": "带盐花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 70163,
-    "英文名": "Peanuts Honey ROST",
-    "中文名": "蜂蜜味花生"
+    "department": "Grocery",
+    "barcode": 70163,
+    "ehName": "Peanuts Honey ROST",
+    "zhName": "蜂蜜味花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 70165,
-    "英文名": "Praline Peanuts Wow Nuts",
-    "中文名": "啤酒花生"
+    "department": "Grocery",
+    "barcode": 70165,
+    "ehName": "Praline Peanuts Wow Nuts",
+    "zhName": "啤酒花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 70168,
-    "英文名": "Spicy Schezuan Peanuts",
-    "中文名": "川味花生"
+    "department": "Grocery",
+    "barcode": 70168,
+    "ehName": "Spicy Schezuan Peanuts",
+    "zhName": "川味花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 70169,
-    "英文名": "Sunflower Seeds RST　Ｗ/S",
-    "中文名": "带盐原味葵花籽"
+    "department": "Grocery",
+    "barcode": 70169,
+    "ehName": "Sunflower Seeds RST　Ｗ/S",
+    "zhName": "带盐原味葵花籽"
   },
   {
-    "部门": "Grocery",
-    "条码": 70173,
-    "英文名": "Pistachio CALIF Nat W/S",
-    "中文名": "加州开心果"
+    "department": "Grocery",
+    "barcode": 70173,
+    "ehName": "Pistachio CALIF Nat W/S",
+    "zhName": "加州开心果"
   },
   {
-    "部门": "Grocery",
-    "条码": 70176,
-    "英文名": "Banana Chips Sweetened",
-    "中文名": "甜香蕉片"
+    "department": "Grocery",
+    "barcode": 70176,
+    "ehName": "Banana Chips Sweetened",
+    "zhName": "甜香蕉片"
   },
   {
-    "部门": "Grocery",
-    "条码": 70184,
-    "英文名": "Plantain Chips Salted",
-    "中文名": "带盐香蕉片"
+    "department": "Grocery",
+    "barcode": 70184,
+    "ehName": "Plantain Chips Salted",
+    "zhName": "带盐香蕉片"
   },
   {
-    "部门": "Grocery",
-    "条码": 70192,
-    "英文名": "Roasted Corn Nuts Pica",
-    "中文名": "辣味炒玉米"
+    "department": "Grocery",
+    "barcode": 70192,
+    "ehName": "Roasted Corn Nuts Pica",
+    "zhName": "辣味炒玉米"
   },
   {
-    "部门": "Grocery",
-    "条码": 70199,
-    "英文名": "Green Peas RSTED W Salt",
-    "中文名": "含盐豌豆"
+    "department": "Grocery",
+    "barcode": 70199,
+    "ehName": "Green Peas RSTED W Salt",
+    "zhName": "含盐豌豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 70205,
-    "英文名": "Gummi Bears Allans (S)",
-    "中文名": "Allan小熊软糖(小)"
+    "department": "Grocery",
+    "barcode": 70205,
+    "ehName": "Gummi Bears Allans (S)",
+    "zhName": "Allan小熊软糖(小)"
   },
   {
-    "部门": "Grocery",
-    "条码": 70206,
-    "英文名": "Gummi Squirmies Allans",
-    "中文名": "Allan软糖"
+    "department": "Grocery",
+    "barcode": 70206,
+    "ehName": "Gummi Squirmies Allans",
+    "zhName": "Allan软糖"
   },
   {
-    "部门": "Grocery",
-    "条码": 70303,
-    "英文名": "Milk Chocolate Almonds",
-    "中文名": "杏仁牛奶巧克力"
+    "department": "Grocery",
+    "barcode": 70303,
+    "ehName": "Milk Chocolate Almonds",
+    "zhName": "杏仁牛奶巧克力"
   },
   {
-    "部门": "Grocery",
-    "条码": 70083,
-    "英文名": "Broad Bean",
-    "中文名": "生蚕豆"
+    "department": "Grocery",
+    "barcode": 70083,
+    "ehName": "Broad Bean",
+    "zhName": "生蚕豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 70429,
-    "英文名": "Roasted Broad Beans",
-    "中文名": "烤蚕豆"
+    "department": "Grocery",
+    "barcode": 70429,
+    "ehName": "Roasted Broad Beans",
+    "zhName": "烤蚕豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1201,
-    "英文名": "Red Bean",
-    "中文名": "天津红豆"
+    "department": "Grocery",
+    "barcode": 1201,
+    "ehName": "Red Bean",
+    "zhName": "天津红豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1203,
-    "英文名": "Green Beans",
-    "中文名": "绿豆"
+    "department": "Grocery",
+    "barcode": 1203,
+    "ehName": "Green Beans",
+    "zhName": "绿豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1204,
-    "英文名": "Peeled Green Beans",
-    "中文名": "去衣绿豆"
+    "department": "Grocery",
+    "barcode": 1204,
+    "ehName": "Peeled Green Beans",
+    "zhName": "去衣绿豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1205,
-    "英文名": "Black Beans",
-    "中文名": "黑豆"
+    "department": "Grocery",
+    "barcode": 1205,
+    "ehName": "Black Beans",
+    "zhName": "黑豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1206,
-    "英文名": "Black-Eye Beans",
-    "中文名": "眉豆"
+    "department": "Grocery",
+    "barcode": 1206,
+    "ehName": "Black-Eye Beans",
+    "zhName": "眉豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1207,
-    "英文名": "Red Peanuts",
-    "中文名": "红衣花生"
+    "department": "Grocery",
+    "barcode": 1207,
+    "ehName": "Red Peanuts",
+    "zhName": "红衣花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 1208,
-    "英文名": "Small Red Beans",
-    "中文名": "赤小豆"
+    "department": "Grocery",
+    "barcode": 1208,
+    "ehName": "Small Red Beans",
+    "zhName": "赤小豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1209,
-    "英文名": "Peanuts",
-    "中文名": "有衣花生"
+    "department": "Grocery",
+    "barcode": 1209,
+    "ehName": "Peanuts",
+    "zhName": "有衣花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 11209,
-    "英文名": "Peanuts (Small)",
-    "中文名": "珠豆花生"
+    "department": "Grocery",
+    "barcode": 11209,
+    "ehName": "Peanuts (Small)",
+    "zhName": "珠豆花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 1211,
-    "英文名": "Dried Salted Peanuts",
-    "中文名": "咸花生"
+    "department": "Grocery",
+    "barcode": 1211,
+    "ehName": "Dried Salted Peanuts",
+    "zhName": "咸花生"
   },
   {
-    "部门": "Grocery",
-    "条码": 1222,
-    "英文名": "Dried Lotus",
-    "中文名": "开边湘莲"
+    "department": "Grocery",
+    "barcode": 1222,
+    "ehName": "Dried Lotus",
+    "zhName": "开边湘莲"
   },
   {
-    "部门": "Grocery",
-    "条码": 1223,
-    "英文名": "Dried Lotus",
-    "中文名": "通心白莲子"
+    "department": "Grocery",
+    "barcode": 1223,
+    "ehName": "Dried Lotus",
+    "zhName": "通心白莲子"
   },
   {
-    "部门": "Grocery",
-    "条码": 1225,
-    "英文名": "Soya Beans",
-    "中文名": "黄豆"
+    "department": "Grocery",
+    "barcode": 1225,
+    "ehName": "Soya Beans",
+    "zhName": "黄豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 1229,
-    "英文名": "Preserved Dates",
-    "中文名": "蜜枣"
+    "department": "Grocery",
+    "barcode": 1229,
+    "ehName": "Preserved Dates",
+    "zhName": "蜜枣"
   },
   {
-    "部门": "Grocery",
-    "条码": 1233,
-    "英文名": "Seaweed",
-    "中文名": "海带结"
+    "department": "Grocery",
+    "barcode": 1233,
+    "ehName": "Seaweed",
+    "zhName": "海带结"
   },
   {
-    "部门": "Grocery",
-    "条码": 1236,
-    "英文名": "White Sesame",
-    "中文名": "白芝麻"
+    "department": "Grocery",
+    "barcode": 1236,
+    "ehName": "White Sesame",
+    "zhName": "白芝麻"
   },
   {
-    "部门": "Grocery",
-    "条码": 1237,
-    "英文名": "Black Sesame",
-    "中文名": "黑芝麻"
+    "department": "Grocery",
+    "barcode": 1237,
+    "ehName": "Black Sesame",
+    "zhName": "黑芝麻"
   },
   {
-    "部门": "Grocery",
-    "条码": 1238,
-    "英文名": "Dried Pearl Barley",
-    "中文名": "薏米"
+    "department": "Grocery",
+    "barcode": 1238,
+    "ehName": "Dried Pearl Barley",
+    "zhName": "薏米"
   },
   {
-    "部门": "Grocery",
-    "条码": 1240,
-    "英文名": "Fructus Lycil",
-    "中文名": "枸杞"
+    "department": "Grocery",
+    "barcode": 1240,
+    "ehName": "Fructus Lycil",
+    "zhName": "枸杞"
   },
   {
-    "部门": "Grocery",
-    "条码": 1241,
-    "英文名": "Seaweed",
-    "中文名": "海带丝"
+    "department": "Grocery",
+    "barcode": 1241,
+    "ehName": "Seaweed",
+    "zhName": "海带丝"
   },
   {
-    "部门": "Grocery",
-    "条码": 1244,
-    "英文名": "Golden Rice",
-    "中文名": "黄小米"
+    "department": "Grocery",
+    "barcode": 1244,
+    "ehName": "Golden Rice",
+    "zhName": "黄小米"
   },
   {
-    "部门": "Grocery",
-    "条码": 1503,
-    "英文名": "White Pumpkin Seed",
-    "中文名": "白瓜子"
+    "department": "Grocery",
+    "barcode": 1503,
+    "ehName": "White Pumpkin Seed",
+    "zhName": "白瓜子"
   },
   {
-    "部门": "Grocery",
-    "条码": 1504,
-    "英文名": "Red Melon Seed",
-    "中文名": "红瓜子"
+    "department": "Grocery",
+    "barcode": 1504,
+    "ehName": "Red Melon Seed",
+    "zhName": "红瓜子"
   },
   {
-    "部门": "Grocery",
-    "条码": 1505,
-    "英文名": "Black  Seed",
-    "中文名": "黑瓜子"
+    "department": "Grocery",
+    "barcode": 1505,
+    "ehName": "Black  Seed",
+    "zhName": "黑瓜子"
   },
   {
-    "部门": "Grocery",
-    "条码": 2,
-    "英文名": "Sweetened Winter Melon",
-    "中文名": "糖冬瓜"
+    "department": "Grocery",
+    "barcode": 2,
+    "ehName": "Sweetened Winter Melon",
+    "zhName": "糖冬瓜"
   },
   {
-    "部门": "Grocery",
-    "条码": 14,
-    "英文名": "Baby Duck Egg(Balut)",
-    "中文名": "鸭子蛋"
+    "department": "Grocery",
+    "barcode": 14,
+    "ehName": "Baby Duck Egg(Balut)",
+    "zhName": "鸭子蛋"
   },
   {
-    "部门": "Grocery",
-    "条码": 15,
-    "英文名": "Cooked Salted Duck Egg",
-    "中文名": "菲律宾熟咸蛋"
+    "department": "Grocery",
+    "barcode": 15,
+    "ehName": "Cooked Salted Duck Egg",
+    "zhName": "菲律宾熟咸蛋"
   },
   {
-    "部门": "Grocery",
-    "条码": 16,
-    "英文名": "Salted Duck Eggs",
-    "中文名": "散装咸蛋"
+    "department": "Grocery",
+    "barcode": 16,
+    "ehName": "Salted Duck Eggs",
+    "zhName": "散装咸蛋"
   },
   {
-    "部门": "Grocery",
-    "条码": 17,
-    "英文名": "Preserved Duck Eggs",
-    "中文名": "散装皮蛋"
+    "department": "Grocery",
+    "barcode": 17,
+    "ehName": "Preserved Duck Eggs",
+    "zhName": "散装皮蛋"
   },
   {
-    "部门": "Grocery",
-    "条码": 18,
-    "英文名": "Chicken Baby Egg",
-    "中文名": "鸡仔蛋"
+    "department": "Grocery",
+    "barcode": 18,
+    "ehName": "Chicken Baby Egg",
+    "zhName": "鸡仔蛋"
   },
   {
-    "部门": "Grocery",
-    "条码": 22,
-    "英文名": "Tofu In The Can",
-    "中文名": "铁桶豆腐"
+    "department": "Grocery",
+    "barcode": 22,
+    "ehName": "Tofu In The Can",
+    "zhName": "铁桶豆腐"
   },
   {
-    "部门": "Grocery",
-    "条码": 1911,
-    "英文名": "Ice River Spring Bottle Water",
-    "中文名": "矿泉水(24*500ml)"
+    "department": "Grocery",
+    "barcode": 1911,
+    "ehName": "Ice River Spring Bottle Water",
+    "zhName": "矿泉水(24*500ml)"
   },
   {
-    "部门": "Grocery",
-    "条码": 2911,
-    "英文名": "Aquafina Water",
-    "中文名": "矿泉水(24*500ml)"
+    "department": "Grocery",
+    "barcode": 2911,
+    "ehName": "Aquafina Water",
+    "zhName": "矿泉水(24*500ml)"
   },
   {
-    "部门": "Grocery",
-    "条码": 70200,
-    "英文名": "Wasabi Green Peas",
-    "中文名": "芥末豌豆"
+    "department": "Grocery",
+    "barcode": 70200,
+    "ehName": "Wasabi Green Peas",
+    "zhName": "芥末豌豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 70078,
-    "英文名": "Chia Seeds",
-    "中文名": "鼠尾草籽"
+    "department": "Grocery",
+    "barcode": 70078,
+    "ehName": "Chia Seeds",
+    "zhName": "鼠尾草籽"
   },
   {
-    "部门": "Grocery",
-    "条码": 70079,
-    "英文名": "Barley Pot",
-    "中文名": "大麦"
+    "department": "Grocery",
+    "barcode": 70079,
+    "ehName": "Barley Pot",
+    "zhName": "大麦"
   },
   {
-    "部门": "Grocery",
-    "条码": 70304,
-    "英文名": "Dark Chocolate with Almond",
-    "中文名": "杏仁黑巧克力"
+    "department": "Grocery",
+    "barcode": 70304,
+    "ehName": "Dark Chocolate with Almond",
+    "zhName": "杏仁黑巧克力"
   },
   {
-    "部门": "Grocery",
-    "条码": 1235,
-    "英文名": "Southern Almond",
-    "中文名": "南北杏"
+    "department": "Grocery",
+    "barcode": 1235,
+    "ehName": "Southern Almond",
+    "zhName": "南北杏"
   },
   {
-    "部门": "Grocery",
-    "条码": 70152,
-    "英文名": "Deluxe Mixed Nuts Roasted Unsalted",
-    "中文名": "无盐特大果仁"
+    "department": "Grocery",
+    "barcode": 70152,
+    "ehName": "Deluxe Mixed Nuts Roasted Unsalted",
+    "zhName": "无盐特大果仁"
   },
   {
-    "部门": "Grocery",
-    "条码": 70429,
-    "英文名": "Roasted Broad Beans",
-    "中文名": "烤蚕豆"
+    "department": "Grocery",
+    "barcode": 70429,
+    "ehName": "Roasted Broad Beans",
+    "zhName": "烤蚕豆"
   },
   {
-    "部门": "Grocery",
-    "条码": 70239,
-    "英文名": "Fruity Candy",
-    "中文名": "水果软糖"
+    "department": "Grocery",
+    "barcode": 70239,
+    "ehName": "Fruity Candy",
+    "zhName": "水果软糖"
   },
   {
-    "部门": "Grocery",
-    "条码": 1215,
-    "英文名": "Loose Dried Lily Bulb",
-    "中文名": "百合"
+    "department": "Grocery",
+    "barcode": 1215,
+    "ehName": "Loose Dried Lily Bulb",
+    "zhName": "百合"
   },
   {
-    "部门": "Grocery",
-    "条码": 1249,
-    "英文名": "Loose Dried Persimmon",
-    "中文名": "散装柿饼"
+    "department": "Grocery",
+    "barcode": 1249,
+    "ehName": "Loose Dried Persimmon",
+    "zhName": "散装柿饼"
   },
   {
-    "部门": "Meat",
-    "条码": 20386,
-    "英文名": "BEEF BONE",
-    "中文名": "牛骨"
+    "department": "Meat",
+    "barcode": 20386,
+    "ehName": "BEEF BONE",
+    "zhName": "牛骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20326,
-    "英文名": "BEEF EYE ROUND",
-    "中文名": "牛肉眼"
+    "department": "Meat",
+    "barcode": 20326,
+    "ehName": "BEEF EYE ROUND",
+    "zhName": "牛肉眼"
   },
   {
-    "部门": "Meat",
-    "条码": 20343,
-    "英文名": "BEEF EYE ROUND AAA",
-    "中文名": "牛肉眼"
+    "department": "Meat",
+    "barcode": 20343,
+    "ehName": "BEEF EYE ROUND AAA",
+    "zhName": "牛肉眼"
   },
   {
-    "部门": "Meat",
-    "条码": 20328,
-    "英文名": "BEEF EYE ROUND SLICED",
-    "中文名": "切片牛肉眼"
+    "department": "Meat",
+    "barcode": 20328,
+    "ehName": "BEEF EYE ROUND SLICED",
+    "zhName": "切片牛肉眼"
   },
   {
-    "部门": "Meat",
-    "条码": 20327,
-    "英文名": "BEEF FLANK",
-    "中文名": "牛腩"
+    "department": "Meat",
+    "barcode": 20327,
+    "ehName": "BEEF FLANK",
+    "zhName": "牛腩"
   },
   {
-    "部门": "Meat",
-    "条码": 20349,
-    "英文名": "BEEF FLANK STEAK",
-    "中文名": "炒牛肉"
+    "department": "Meat",
+    "barcode": 20349,
+    "ehName": "BEEF FLANK STEAK",
+    "zhName": "炒牛肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20330,
-    "英文名": "BEEF FRY STRIP",
-    "中文名": "切丝牛肉"
+    "department": "Meat",
+    "barcode": 20330,
+    "ehName": "BEEF FRY STRIP",
+    "zhName": "切丝牛肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20333,
-    "英文名": "BEEF HEART",
-    "中文名": "牛心"
+    "department": "Meat",
+    "barcode": 20333,
+    "ehName": "BEEF HEART",
+    "zhName": "牛心"
   },
   {
-    "部门": "Meat",
-    "条码": 20332,
-    "英文名": "BEEF KIDNEY",
-    "中文名": "牛腰"
+    "department": "Meat",
+    "barcode": 20332,
+    "ehName": "BEEF KIDNEY",
+    "zhName": "牛腰"
   },
   {
-    "部门": "Meat",
-    "条码": 20334,
-    "英文名": "BEEF LIVER",
-    "中文名": "牛肝"
+    "department": "Meat",
+    "barcode": 20334,
+    "ehName": "BEEF LIVER",
+    "zhName": "牛肝"
   },
   {
-    "部门": "Meat",
-    "条码": 20335,
-    "英文名": "BEEF LUNG",
-    "中文名": "牛肺"
+    "department": "Meat",
+    "barcode": 20335,
+    "ehName": "BEEF LUNG",
+    "zhName": "牛肺"
   },
   {
-    "部门": "Meat",
-    "条码": 20341,
-    "英文名": "BEEF OMASUM",
-    "中文名": "金钱肚"
+    "department": "Meat",
+    "barcode": 20341,
+    "ehName": "BEEF OMASUM",
+    "zhName": "金钱肚"
   },
   {
-    "部门": "Meat",
-    "条码": 20344,
-    "英文名": "BEEF RIB EYE",
-    "中文名": "肥牛"
+    "department": "Meat",
+    "barcode": 20344,
+    "ehName": "BEEF RIB EYE",
+    "zhName": "肥牛"
   },
   {
-    "部门": "Meat",
-    "条码": 20359,
-    "英文名": "BEEF RIB EYE STEAK",
-    "中文名": "肥牛扒"
+    "department": "Meat",
+    "barcode": 20359,
+    "ehName": "BEEF RIB EYE STEAK",
+    "zhName": "肥牛扒"
   },
   {
-    "部门": "Meat",
-    "条码": 20351,
-    "英文名": "BEEF SHANK BONE IN",
-    "中文名": "带骨牛展"
+    "department": "Meat",
+    "barcode": 20351,
+    "ehName": "BEEF SHANK BONE IN",
+    "zhName": "带骨牛展"
   },
   {
-    "部门": "Meat",
-    "条码": 20345,
-    "英文名": "BEEF SHANK BONELESS",
-    "中文名": "牛展"
+    "department": "Meat",
+    "barcode": 20345,
+    "ehName": "BEEF SHANK BONELESS",
+    "zhName": "牛展"
   },
   {
-    "部门": "Meat",
-    "条码": 20338,
-    "英文名": "BEEF SHANK SMALL",
-    "中文名": "金钱展"
+    "department": "Meat",
+    "barcode": 20338,
+    "ehName": "BEEF SHANK SMALL",
+    "zhName": "金钱展"
   },
   {
-    "部门": "Meat",
-    "条码": 20337,
-    "英文名": "BEEF SHANK STEAK",
-    "中文名": "牛展扒"
+    "department": "Meat",
+    "barcode": 20337,
+    "ehName": "BEEF SHANK STEAK",
+    "zhName": "牛展扒"
   },
   {
-    "部门": "Meat",
-    "条码": 20329,
-    "英文名": "BEEF SHORT RIB BONELESS",
-    "中文名": "牛坑腩（无骨牛仔骨）"
+    "department": "Meat",
+    "barcode": 20329,
+    "ehName": "BEEF SHORT RIB BONELESS",
+    "zhName": "牛坑腩（无骨牛仔骨）"
   },
   {
-    "部门": "Meat",
-    "条码": 20355,
-    "英文名": "BEEF SHORT SNOUTS SALTED",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20355,
+    "ehName": "BEEF SHORT SNOUTS SALTED",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20325,
-    "英文名": "BEEF SIRLOIN",
-    "中文名": "牛脾肉"
+    "department": "Meat",
+    "barcode": 20325,
+    "ehName": "BEEF SIRLOIN",
+    "zhName": "牛脾肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20324,
-    "英文名": "BEEF SPARE RIB",
-    "中文名": "牛排骨"
+    "department": "Meat",
+    "barcode": 20324,
+    "ehName": "BEEF SPARE RIB",
+    "zhName": "牛排骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20348,
-    "英文名": "BEEF SPARE RIB",
-    "中文名": "牛排骨"
+    "department": "Meat",
+    "barcode": 20348,
+    "ehName": "BEEF SPARE RIB",
+    "zhName": "牛排骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20336,
-    "英文名": "BEEF STRIP LOIN BONELESS",
-    "中文名": "纽约牛扒"
+    "department": "Meat",
+    "barcode": 20336,
+    "ehName": "BEEF STRIP LOIN BONELESS",
+    "zhName": "纽约牛扒"
   },
   {
-    "部门": "Meat",
-    "条码": 20339,
-    "英文名": "BEEF TAIL",
-    "中文名": "牛尾"
+    "department": "Meat",
+    "barcode": 20339,
+    "ehName": "BEEF TAIL",
+    "zhName": "牛尾"
   },
   {
-    "部门": "Meat",
-    "条码": 20294,
-    "英文名": "BEEF TENDON",
-    "中文名": "牛筋"
+    "department": "Meat",
+    "barcode": 20294,
+    "ehName": "BEEF TENDON",
+    "zhName": "牛筋"
   },
   {
-    "部门": "Meat",
-    "条码": 20377,
-    "英文名": "BEEF TENDON",
-    "中文名": "牛筋"
+    "department": "Meat",
+    "barcode": 20377,
+    "ehName": "BEEF TENDON",
+    "zhName": "牛筋"
   },
   {
-    "部门": "Meat",
-    "条码": 20331,
-    "英文名": "BEEF TONGUES",
-    "中文名": "牛舌头"
+    "department": "Meat",
+    "barcode": 20331,
+    "ehName": "BEEF TONGUES",
+    "zhName": "牛舌头"
   },
   {
-    "部门": "Meat",
-    "条码": 20358,
-    "英文名": "BEEF TOP BUTTS STEAK",
-    "中文名": "牛梅头扒"
+    "department": "Meat",
+    "barcode": 20358,
+    "ehName": "BEEF TOP BUTTS STEAK",
+    "zhName": "牛梅头扒"
   },
   {
-    "部门": "Meat",
-    "条码": 20340,
-    "英文名": "BEEF TRIPE",
-    "中文名": "牛百叶"
+    "department": "Meat",
+    "barcode": 20340,
+    "ehName": "BEEF TRIPE",
+    "zhName": "牛百叶"
   },
   {
-    "部门": "Meat",
-    "条码": 20356,
-    "英文名": "BF SIRLOIN AAA",
-    "中文名": "牛脾肉"
+    "department": "Meat",
+    "barcode": 20356,
+    "ehName": "BF SIRLOIN AAA",
+    "zhName": "牛脾肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20299,
-    "英文名": "CHICKEN BONE",
-    "中文名": "鸡骨"
+    "department": "Meat",
+    "barcode": 20299,
+    "ehName": "CHICKEN BONE",
+    "zhName": "鸡骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20316,
-    "英文名": "CHICKEN BONE",
-    "中文名": "鸡骨"
+    "department": "Meat",
+    "barcode": 20316,
+    "ehName": "CHICKEN BONE",
+    "zhName": "鸡骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20308,
-    "英文名": "CHICKEN BREAST BONELESS",
-    "中文名": "无骨鷄胸肉"
+    "department": "Meat",
+    "barcode": 20308,
+    "ehName": "CHICKEN BREAST BONELESS",
+    "zhName": "无骨鷄胸肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20310,
-    "英文名": "CHICKEN BREAST UNCUT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20310,
+    "ehName": "CHICKEN BREAST UNCUT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20309,
-    "英文名": "CHICKEN BREAST WITH BONE",
-    "中文名": "带骨鷄胸"
+    "department": "Meat",
+    "barcode": 20309,
+    "ehName": "CHICKEN BREAST WITH BONE",
+    "zhName": "带骨鷄胸"
   },
   {
-    "部门": "Meat",
-    "条码": 22482,
-    "英文名": "CHICKEN DRUM STICK SKIN-OFF",
-    "中文名": "去皮鸡小腿"
+    "department": "Meat",
+    "barcode": 22482,
+    "ehName": "CHICKEN DRUM STICK SKIN-OFF",
+    "zhName": "去皮鸡小腿"
   },
   {
-    "部门": "Meat",
-    "条码": 20319,
-    "英文名": "CHICKEN DRUM STICKS",
-    "中文名": "小鸡腿"
+    "department": "Meat",
+    "barcode": 20319,
+    "ehName": "CHICKEN DRUM STICKS",
+    "zhName": "小鸡腿"
   },
   {
-    "部门": "Meat",
-    "条码": 20303,
-    "英文名": "CHICKEN FEET",
-    "中文名": "鸡爪"
+    "department": "Meat",
+    "barcode": 20303,
+    "ehName": "CHICKEN FEET",
+    "zhName": "鸡爪"
   },
   {
-    "部门": "Meat",
-    "条码": 20306,
-    "英文名": "CHICKEN GIZZARD",
-    "中文名": "鸡肾"
+    "department": "Meat",
+    "barcode": 20306,
+    "ehName": "CHICKEN GIZZARD",
+    "zhName": "鸡肾"
   },
   {
-    "部门": "Meat",
-    "条码": 20304,
-    "英文名": "CHICKEN HEARTS",
-    "中文名": "鸡心"
+    "department": "Meat",
+    "barcode": 20304,
+    "ehName": "CHICKEN HEARTS",
+    "zhName": "鸡心"
   },
   {
-    "部门": "Meat",
-    "条码": 20307,
-    "英文名": "CHICKEN LEG BONELESS",
-    "中文名": "无骨鸡腱肉"
+    "department": "Meat",
+    "barcode": 20307,
+    "ehName": "CHICKEN LEG BONELESS",
+    "zhName": "无骨鸡腱肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20320,
-    "英文名": "CHICKEN LEG LARGE",
-    "中文名": "大鸡腿"
+    "department": "Meat",
+    "barcode": 20320,
+    "ehName": "CHICKEN LEG LARGE",
+    "zhName": "大鸡腿"
   },
   {
-    "部门": "Meat",
-    "条码": 20305,
-    "英文名": "CHICKEN LIVER",
-    "中文名": "鸡肝"
+    "department": "Meat",
+    "barcode": 20305,
+    "ehName": "CHICKEN LIVER",
+    "zhName": "鸡肝"
   },
   {
-    "部门": "Meat",
-    "条码": 20314,
-    "英文名": "CHICKEN TENDERLOIN",
-    "中文名": "鸡柳"
+    "department": "Meat",
+    "barcode": 20314,
+    "ehName": "CHICKEN TENDERLOIN",
+    "zhName": "鸡柳"
   },
   {
-    "部门": "Meat",
-    "条码": 20322,
-    "英文名": "CHICKEN THIGH BONE IN",
-    "中文名": "鸡扒"
+    "department": "Meat",
+    "barcode": 20322,
+    "ehName": "CHICKEN THIGH BONE IN",
+    "zhName": "鸡扒"
   },
   {
-    "部门": "Meat",
-    "条码": 20298,
-    "英文名": "CHICKEN THIGH SKIN OFF",
-    "中文名": "去皮鸡扒"
+    "department": "Meat",
+    "barcode": 20298,
+    "ehName": "CHICKEN THIGH SKIN OFF",
+    "zhName": "去皮鸡扒"
   },
   {
-    "部门": "Meat",
-    "条码": 20342,
-    "英文名": "COW FEET WHOLE",
-    "中文名": "牛脚"
+    "department": "Meat",
+    "barcode": 20342,
+    "ehName": "COW FEET WHOLE",
+    "zhName": "牛脚"
   },
   {
-    "部门": "Meat",
-    "条码": 21260,
-    "英文名": "DRUG FREE PIG BLOOD",
-    "中文名": "猪血"
+    "department": "Meat",
+    "barcode": 21260,
+    "ehName": "DRUG FREE PIG BLOOD",
+    "zhName": "猪血"
   },
   {
-    "部门": "Meat",
-    "条码": 22430,
-    "英文名": "DUCK BREAST BONELESS",
-    "中文名": "无骨鸭胸"
+    "department": "Meat",
+    "barcode": 22430,
+    "ehName": "DUCK BREAST BONELESS",
+    "zhName": "无骨鸭胸"
   },
   {
-    "部门": "Meat",
-    "条码": 20317,
-    "英文名": "DUCK WING CUTTED",
-    "中文名": "鸭翅（切）"
+    "department": "Meat",
+    "barcode": 20317,
+    "ehName": "DUCK WING CUTTED",
+    "zhName": "鸭翅（切）"
   },
   {
-    "部门": "Meat",
-    "条码": 20372,
-    "英文名": "FRESH BEEF NECK BONE",
-    "中文名": "牛颈骨"
+    "department": "Meat",
+    "barcode": 20372,
+    "ehName": "FRESH BEEF NECK BONE",
+    "zhName": "牛颈骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20353,
-    "英文名": "FRESH BEEF SHORT",
-    "中文名": "新鲜牛仔骨"
+    "department": "Meat",
+    "barcode": 20353,
+    "ehName": "FRESH BEEF SHORT",
+    "zhName": "新鲜牛仔骨"
   },
   {
-    "部门": "Meat",
-    "条码": 20370,
-    "英文名": "FRESH BEEF SHORT RIBS",
-    "中文名": "新鲜牛仔骨"
+    "department": "Meat",
+    "barcode": 20370,
+    "ehName": "FRESH BEEF SHORT RIBS",
+    "zhName": "新鲜牛仔骨"
   },
   {
-    "部门": "Meat",
-    "条码": 22479,
-    "英文名": "FRESH SILKIE CHICKEN",
-    "中文名": "竹丝鸡"
+    "department": "Meat",
+    "barcode": 22479,
+    "ehName": "FRESH SILKIE CHICKEN",
+    "zhName": "竹丝鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 22480,
-    "英文名": "FRESH CHICKEN BREAST BONE-IN",
-    "中文名": "带骨鸡胸"
+    "department": "Meat",
+    "barcode": 22480,
+    "ehName": "FRESH CHICKEN BREAST BONE-IN",
+    "zhName": "带骨鸡胸"
   },
   {
-    "部门": "Meat",
-    "条码": 20321,
-    "英文名": "FRESH CHICKEN WINGS",
-    "中文名": "鷄翅"
+    "department": "Meat",
+    "barcode": 20321,
+    "ehName": "FRESH CHICKEN WINGS",
+    "zhName": "鷄翅"
   },
   {
-    "部门": "Meat",
-    "条码": 20346,
-    "英文名": "FRESH COW FLANK",
-    "中文名": "牛腩"
+    "department": "Meat",
+    "barcode": 20346,
+    "ehName": "FRESH COW FLANK",
+    "zhName": "牛腩"
   },
   {
-    "部门": "Meat",
-    "条码": 20376,
-    "英文名": "FRESH COW SKIN",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20376,
+    "ehName": "FRESH COW SKIN",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 22483,
-    "英文名": "FRESH DUCK",
-    "中文名": "鸭"
+    "department": "Meat",
+    "barcode": 22483,
+    "ehName": "FRESH DUCK",
+    "zhName": "鸭"
   },
   {
-    "部门": "Meat",
-    "条码": 22487,
-    "英文名": "FRESH DUCK FEET",
-    "中文名": "鸭爪"
+    "department": "Meat",
+    "barcode": 22487,
+    "ehName": "FRESH DUCK FEET",
+    "zhName": "鸭爪"
   },
   {
-    "部门": "Meat",
-    "条码": 20318,
-    "英文名": "FRESH DUCK GIZZARD",
-    "中文名": "鸭肾"
+    "department": "Meat",
+    "barcode": 20318,
+    "ehName": "FRESH DUCK GIZZARD",
+    "zhName": "鸭肾"
   },
   {
-    "部门": "Meat",
-    "条码": 22486,
-    "英文名": "FRESH DUCK HEART",
-    "中文名": "鸭心"
+    "department": "Meat",
+    "barcode": 22486,
+    "ehName": "FRESH DUCK HEART",
+    "zhName": "鸭心"
   },
   {
-    "部门": "Meat",
-    "条码": 22485,
-    "英文名": "FRESH DUCK LIVER",
-    "中文名": "鸭肝"
+    "department": "Meat",
+    "barcode": 22485,
+    "ehName": "FRESH DUCK LIVER",
+    "zhName": "鸭肝"
   },
   {
-    "部门": "Meat",
-    "条码": 23592,
-    "英文名": "FRESH GOAT BELLY",
-    "中文名": "羊腩"
+    "department": "Meat",
+    "barcode": 23592,
+    "ehName": "FRESH GOAT BELLY",
+    "zhName": "羊腩"
   },
   {
-    "部门": "Meat",
-    "条码": 23594,
-    "英文名": "FRESH GOAT FEET",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23594,
+    "ehName": "FRESH GOAT FEET",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23613,
-    "英文名": "FRESH GOAT KIDNEY",
-    "中文名": "羊腰"
+    "department": "Meat",
+    "barcode": 23613,
+    "ehName": "FRESH GOAT KIDNEY",
+    "zhName": "羊腰"
   },
   {
-    "部门": "Meat",
-    "条码": 23580,
-    "英文名": "FRESH GOAT LEG",
-    "中文名": "新鲜羊腿"
+    "department": "Meat",
+    "barcode": 23580,
+    "ehName": "FRESH GOAT LEG",
+    "zhName": "新鲜羊腿"
   },
   {
-    "部门": "Meat",
-    "条码": 23615,
-    "英文名": "FRESH GOAT LIVER",
-    "中文名": "羊心"
+    "department": "Meat",
+    "barcode": 23615,
+    "ehName": "FRESH GOAT LIVER",
+    "zhName": "羊心"
   },
   {
-    "部门": "Meat",
-    "条码": 23614,
-    "英文名": "FRESH GOAT LUNG",
-    "中文名": "羊肺"
+    "department": "Meat",
+    "barcode": 23614,
+    "ehName": "FRESH GOAT LUNG",
+    "zhName": "羊肺"
   },
   {
-    "部门": "Meat",
-    "条码": 23591,
-    "英文名": "FRESH GOAT MEAT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23591,
+    "ehName": "FRESH GOAT MEAT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23593,
-    "英文名": "FRESH GOAT NECK",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23593,
+    "ehName": "FRESH GOAT NECK",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23581,
-    "英文名": "FRESH GOAT SHOULDER",
-    "中文名": "新鲜羊肩"
+    "department": "Meat",
+    "barcode": 23581,
+    "ehName": "FRESH GOAT SHOULDER",
+    "zhName": "新鲜羊肩"
   },
   {
-    "部门": "Meat",
-    "条码": 23589,
-    "英文名": "FRESH GOAT TRIP",
-    "中文名": "羊肚"
+    "department": "Meat",
+    "barcode": 23589,
+    "ehName": "FRESH GOAT TRIP",
+    "zhName": "羊肚"
   },
   {
-    "部门": "Meat",
-    "条码": 23602,
-    "英文名": "FRESH LAMB BELLY",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23602,
+    "ehName": "FRESH LAMB BELLY",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23603,
-    "英文名": "FRESH LAMB LEG BONELESS",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23603,
+    "ehName": "FRESH LAMB LEG BONELESS",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23609,
-    "英文名": "FRESH LAMB MEAT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23609,
+    "ehName": "FRESH LAMB MEAT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23617,
-    "英文名": "FRESH LAMB SHANKS",
-    "中文名": "羊腱"
+    "department": "Meat",
+    "barcode": 23617,
+    "ehName": "FRESH LAMB SHANKS",
+    "zhName": "羊腱"
   },
   {
-    "部门": "Meat",
-    "条码": 23604,
-    "英文名": "FRESH LAMB SHOULDER BONELESS",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23604,
+    "ehName": "FRESH LAMB SHOULDER BONELESS",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23616,
-    "英文名": "FRESH LAMB TRIP",
-    "中文名": "羊肚"
+    "department": "Meat",
+    "barcode": 23616,
+    "ehName": "FRESH LAMB TRIP",
+    "zhName": "羊肚"
   },
   {
-    "部门": "Meat",
-    "条码": 20352,
-    "英文名": "FRESH OX TAIL",
-    "中文名": "新鲜牛尾"
+    "department": "Meat",
+    "barcode": 20352,
+    "ehName": "FRESH OX TAIL",
+    "zhName": "新鲜牛尾"
   },
   {
-    "部门": "Meat",
-    "条码": 21269,
-    "英文名": "FRESH PORK HOCK BONELESS",
-    "中文名": "无骨猪踭"
+    "department": "Meat",
+    "barcode": 21269,
+    "ehName": "FRESH PORK HOCK BONELESS",
+    "zhName": "无骨猪踭"
   },
   {
-    "部门": "Meat",
-    "条码": 21268,
-    "英文名": "FRESH PORK SHANK",
-    "中文名": "猪展"
+    "department": "Meat",
+    "barcode": 21268,
+    "ehName": "FRESH PORK SHANK",
+    "zhName": "猪展"
   },
   {
-    "部门": "Meat",
-    "条码": 21270,
-    "英文名": "FRESH PORK SHOULDER BUTT BONELESS",
-    "中文名": "无骨梅头"
+    "department": "Meat",
+    "barcode": 21270,
+    "ehName": "FRESH PORK SHOULDER BUTT BONELESS",
+    "zhName": "无骨梅头"
   },
   {
-    "部门": "Meat",
-    "条码": 21257,
-    "英文名": "FRESH PORK SNOUTS",
-    "中文名": "猪嘴"
+    "department": "Meat",
+    "barcode": 21257,
+    "ehName": "FRESH PORK SNOUTS",
+    "zhName": "猪嘴"
   },
   {
-    "部门": "Meat",
-    "条码": 21266,
-    "英文名": "FRESH PORK SOUP MEAT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 21266,
+    "ehName": "FRESH PORK SOUP MEAT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20302,
-    "英文名": "FRESH STEWING HEN",
-    "中文名": "老鸡"
+    "department": "Meat",
+    "barcode": 20302,
+    "ehName": "FRESH STEWING HEN",
+    "zhName": "老鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 20371,
-    "英文名": "FROZEN BEEF ROLL",
-    "中文名": "牛肉卷"
+    "department": "Meat",
+    "barcode": 20371,
+    "ehName": "FROZEN BEEF ROLL",
+    "zhName": "牛肉卷"
   },
   {
-    "部门": "Meat",
-    "条码": 22488,
-    "英文名": "FROZEN CHICKEN SLICED",
-    "中文名": "鷄肉片"
+    "department": "Meat",
+    "barcode": 22488,
+    "ehName": "FROZEN CHICKEN SLICED",
+    "zhName": "鷄肉片"
   },
   {
-    "部门": "Meat",
-    "条码": 20295,
-    "英文名": "FROZEN COW SKIN",
-    "中文名": "牛皮"
+    "department": "Meat",
+    "barcode": 20295,
+    "ehName": "FROZEN COW SKIN",
+    "zhName": "牛皮"
   },
   {
-    "部门": "Meat",
-    "条码": 22484,
-    "英文名": "FROZEN DUCK",
-    "中文名": "急冻鸭"
+    "department": "Meat",
+    "barcode": 22484,
+    "ehName": "FROZEN DUCK",
+    "zhName": "急冻鸭"
   },
   {
-    "部门": "Meat",
-    "条码": 23596,
-    "英文名": "FROZEN GOAT BELLY",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23596,
+    "ehName": "FROZEN GOAT BELLY",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23597,
-    "英文名": "FROZEN GOAT LEG",
-    "中文名": "羊腿"
+    "department": "Meat",
+    "barcode": 23597,
+    "ehName": "FROZEN GOAT LEG",
+    "zhName": "羊腿"
   },
   {
-    "部门": "Meat",
-    "条码": 23595,
-    "英文名": "FROZEN GOAT MEAT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23595,
+    "ehName": "FROZEN GOAT MEAT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23582,
-    "英文名": "FROZEN GOAT SHOULDER CUTTED",
-    "中文名": "羊肩肉"
+    "department": "Meat",
+    "barcode": 23582,
+    "ehName": "FROZEN GOAT SHOULDER CUTTED",
+    "zhName": "羊肩肉"
   },
   {
-    "部门": "Meat",
-    "条码": 23607,
-    "英文名": "FROZEN LAMB BELLY",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23607,
+    "ehName": "FROZEN LAMB BELLY",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23608,
-    "英文名": "FROZEN LAMB LEG",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23608,
+    "ehName": "FROZEN LAMB LEG",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23605,
-    "英文名": "FROZEN LAMB MEAT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23605,
+    "ehName": "FROZEN LAMB MEAT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23588,
-    "英文名": "FROZEN LAMB ROLL",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23588,
+    "ehName": "FROZEN LAMB ROLL",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23606,
-    "英文名": "FROZEN LAMB SHOULDER",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23606,
+    "ehName": "FROZEN LAMB SHOULDER",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23599,
-    "英文名": "FROZEN MUTTON LEG",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23599,
+    "ehName": "FROZEN MUTTON LEG",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23598,
-    "英文名": "FROZEN MUTTON MEAT",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23598,
+    "ehName": "FROZEN MUTTON MEAT",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23590,
-    "英文名": "FROZEN MUTTON SHOULDER",
-    "中文名": "羊肩肉"
+    "department": "Meat",
+    "barcode": 23590,
+    "ehName": "FROZEN MUTTON SHOULDER",
+    "zhName": "羊肩肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20373,
-    "英文名": "FROZEN OX TAIL PACKAGE",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20373,
+    "ehName": "FROZEN OX TAIL PACKAGE",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 21267,
-    "英文名": "FROZEN PORK ROLL",
-    "中文名": "猪肉卷"
+    "department": "Meat",
+    "barcode": 21267,
+    "ehName": "FROZEN PORK ROLL",
+    "zhName": "猪肉卷"
   },
   {
-    "部门": "Meat",
-    "条码": 20297,
-    "英文名": "FRYER RABBIT SKIN OFF",
-    "中文名": "兔肉"
+    "department": "Meat",
+    "barcode": 20297,
+    "ehName": "FRYER RABBIT SKIN OFF",
+    "zhName": "兔肉"
   },
   {
-    "部门": "Meat",
-    "条码": 23610,
-    "英文名": "GOAT BELLY WITH SKIN",
-    "中文名": "有皮羊腩"
+    "department": "Meat",
+    "barcode": 23610,
+    "ehName": "GOAT BELLY WITH SKIN",
+    "zhName": "有皮羊腩"
   },
   {
-    "部门": "Meat",
-    "条码": 23611,
-    "英文名": "GOAT LEG WITH SKIN",
-    "中文名": "有皮羊腿"
+    "department": "Meat",
+    "barcode": 23611,
+    "ehName": "GOAT LEG WITH SKIN",
+    "zhName": "有皮羊腿"
   },
   {
-    "部门": "Meat",
-    "条码": 23612,
-    "英文名": "GOAT SHOULDER WITH SKIN",
-    "中文名": "有皮羊肩"
+    "department": "Meat",
+    "barcode": 23612,
+    "ehName": "GOAT SHOULDER WITH SKIN",
+    "zhName": "有皮羊肩"
   },
   {
-    "部门": "Meat",
-    "条码": 20350,
-    "英文名": "GROUND BEEF",
-    "中文名": "牛肉碎"
+    "department": "Meat",
+    "barcode": 20350,
+    "ehName": "GROUND BEEF",
+    "zhName": "牛肉碎"
   },
   {
-    "部门": "Meat",
-    "条码": 20315,
-    "英文名": "GROUND CHICKEN",
-    "中文名": "鷄肉碎"
+    "department": "Meat",
+    "barcode": 20315,
+    "ehName": "GROUND CHICKEN",
+    "zhName": "鷄肉碎"
   },
   {
-    "部门": "Meat",
-    "条码": 21248,
-    "英文名": "GROUND LEAN PORK",
-    "中文名": "瘦肉碎"
+    "department": "Meat",
+    "barcode": 21248,
+    "ehName": "GROUND LEAN PORK",
+    "zhName": "瘦肉碎"
   },
   {
-    "部门": "Meat",
-    "条码": 21247,
-    "英文名": "GROUND PORK",
-    "中文名": "猪肉碎"
+    "department": "Meat",
+    "barcode": 21247,
+    "ehName": "GROUND PORK",
+    "zhName": "猪肉碎"
   },
   {
-    "部门": "Meat",
-    "条码": 20296,
-    "英文名": "KING COLE DUCK WITH GIBLETS",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20296,
+    "ehName": "KING COLE DUCK WITH GIBLETS",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20387,
-    "英文名": "LEAN GROUND BEEF",
-    "中文名": "瘦牛肉"
+    "department": "Meat",
+    "barcode": 20387,
+    "ehName": "LEAN GROUND BEEF",
+    "zhName": "瘦牛肉"
   },
   {
-    "部门": "Meat",
-    "条码": 21244,
-    "英文名": "LEAN PROK",
-    "中文名": "瘦肉"
+    "department": "Meat",
+    "barcode": 21244,
+    "ehName": "LEAN PROK",
+    "zhName": "瘦肉"
   },
   {
-    "部门": "Meat",
-    "条码": 22428,
-    "英文名": "LONG KONG CHICKEN",
-    "中文名": "龙岗鸡"
+    "department": "Meat",
+    "barcode": 22428,
+    "ehName": "LONG KONG CHICKEN",
+    "zhName": "龙岗鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 21256,
-    "英文名": "MEAT/FISH BALL MIX",
-    "中文名": "鱼丸"
+    "department": "Meat",
+    "barcode": 21256,
+    "ehName": "MEAT/FISH BALL MIX",
+    "zhName": "鱼丸"
   },
   {
-    "部门": "Meat",
-    "条码": 20301,
-    "英文名": "OLD CHICKEN HALF",
-    "中文名": "半老嫩鷄"
+    "department": "Meat",
+    "barcode": 20301,
+    "ehName": "OLD CHICKEN HALF",
+    "zhName": "半老嫩鷄"
   },
   {
-    "部门": "Meat",
-    "条码": 21235,
-    "英文名": "PHILIPPINES SAUSAGE",
-    "中文名": "菲律宾肠"
+    "department": "Meat",
+    "barcode": 21235,
+    "ehName": "PHILIPPINES SAUSAGE",
+    "zhName": "菲律宾肠"
   },
   {
-    "部门": "Meat",
-    "条码": 21245,
-    "英文名": "PORK BABY BACK RIB",
-    "中文名": "肉排"
+    "department": "Meat",
+    "barcode": 21245,
+    "ehName": "PORK BABY BACK RIB",
+    "zhName": "肉排"
   },
   {
-    "部门": "Meat",
-    "条码": 21273,
-    "英文名": "PORK BACK BONE",
-    "中文名": "猪后踭"
+    "department": "Meat",
+    "barcode": 21273,
+    "ehName": "PORK BACK BONE",
+    "zhName": "猪后踭"
   },
   {
-    "部门": "Meat",
-    "条码": 21237,
-    "英文名": "PORK BACK HOCK",
-    "中文名": "猪后踭"
+    "department": "Meat",
+    "barcode": 21237,
+    "ehName": "PORK BACK HOCK",
+    "zhName": "猪后踭"
   },
   {
-    "部门": "Meat",
-    "条码": 21233,
-    "英文名": "PORK BELLIES",
-    "中文名": "猪腩"
+    "department": "Meat",
+    "barcode": 21233,
+    "ehName": "PORK BELLIES",
+    "zhName": "猪腩"
   },
   {
-    "部门": "Meat",
-    "条码": 21241,
-    "英文名": "PORK BELLY BONELESS",
-    "中文名": "无骨猪腩"
+    "department": "Meat",
+    "barcode": 21241,
+    "ehName": "PORK BELLY BONELESS",
+    "zhName": "无骨猪腩"
   },
   {
-    "部门": "Meat",
-    "条码": 21251,
-    "英文名": "PORK BELLY WITH RIBS",
-    "中文名": "带骨猪腩"
+    "department": "Meat",
+    "barcode": 21251,
+    "ehName": "PORK BELLY WITH RIBS",
+    "zhName": "带骨猪腩"
   },
   {
-    "部门": "Meat",
-    "条码": 21220,
-    "英文名": "PORK BIG STOMATCH",
-    "中文名": "猪肚"
+    "department": "Meat",
+    "barcode": 21220,
+    "ehName": "PORK BIG STOMATCH",
+    "zhName": "猪肚"
   },
   {
-    "部门": "Meat",
-    "条码": 21249,
-    "英文名": "PORK BUTT",
-    "中文名": "梅头"
+    "department": "Meat",
+    "barcode": 21249,
+    "ehName": "PORK BUTT",
+    "zhName": "梅头"
   },
   {
-    "部门": "Meat",
-    "条码": 21225,
-    "英文名": "PORK BUTT SHOULDER BONELESS",
-    "中文名": "猪梅头"
+    "department": "Meat",
+    "barcode": 21225,
+    "ehName": "PORK BUTT SHOULDER BONELESS",
+    "zhName": "猪梅头"
   },
   {
-    "部门": "Meat",
-    "条码": 21230,
-    "英文名": "PORK CENTRE CHOP",
-    "中文名": "猪扒"
+    "department": "Meat",
+    "barcode": 21230,
+    "ehName": "PORK CENTRE CHOP",
+    "zhName": "猪扒"
   },
   {
-    "部门": "Meat",
-    "条码": 21226,
-    "英文名": "PORK CENTRE RIBS",
-    "中文名": "上排肉"
+    "department": "Meat",
+    "barcode": 21226,
+    "ehName": "PORK CENTRE RIBS",
+    "zhName": "上排肉"
   },
   {
-    "部门": "Meat",
-    "条码": 21242,
-    "英文名": "PORK CHOP LARGE",
-    "中文名": "猪扒"
+    "department": "Meat",
+    "barcode": 21242,
+    "ehName": "PORK CHOP LARGE",
+    "zhName": "猪扒"
   },
   {
-    "部门": "Meat",
-    "条码": 21228,
-    "英文名": "PORK CHOP SLICED",
-    "中文名": "切片猪扒"
+    "department": "Meat",
+    "barcode": 21228,
+    "ehName": "PORK CHOP SLICED",
+    "zhName": "切片猪扒"
   },
   {
-    "部门": "Meat",
-    "条码": 21218,
-    "英文名": "PORK EAR",
-    "中文名": "猪耳朵"
+    "department": "Meat",
+    "barcode": 21218,
+    "ehName": "PORK EAR",
+    "zhName": "猪耳朵"
   },
   {
-    "部门": "Meat",
-    "条码": 21229,
-    "英文名": "PORK FEET",
-    "中文名": "猪手"
+    "department": "Meat",
+    "barcode": 21229,
+    "ehName": "PORK FEET",
+    "zhName": "猪手"
   },
   {
-    "部门": "Meat",
-    "条码": 21253,
-    "英文名": "PORK FEET SALTED",
-    "中文名": "盐猪手"
+    "department": "Meat",
+    "barcode": 21253,
+    "ehName": "PORK FEET SALTED",
+    "zhName": "盐猪手"
   },
   {
-    "部门": "Meat",
-    "条码": 21232,
-    "英文名": "PORK FRY STRIP",
-    "中文名": "猪肉丝"
+    "department": "Meat",
+    "barcode": 21232,
+    "ehName": "PORK FRY STRIP",
+    "zhName": "猪肉丝"
   },
   {
-    "部门": "Meat",
-    "条码": 21250,
-    "英文名": "PORK HAM",
-    "中文名": "猪腱"
+    "department": "Meat",
+    "barcode": 21250,
+    "ehName": "PORK HAM",
+    "zhName": "猪腱"
   },
   {
-    "部门": "Meat",
-    "条码": 21258,
-    "英文名": "PORK HEARTS",
-    "中文名": "猪心"
+    "department": "Meat",
+    "barcode": 21258,
+    "ehName": "PORK HEARTS",
+    "zhName": "猪心"
   },
   {
-    "部门": "Meat",
-    "条码": 21231,
-    "英文名": "PORK HOCK",
-    "中文名": "猪踭"
+    "department": "Meat",
+    "barcode": 21231,
+    "ehName": "PORK HOCK",
+    "zhName": "猪踭"
   },
   {
-    "部门": "Meat",
-    "条码": 21238,
-    "英文名": "PORK HOCK",
-    "中文名": "猪踭"
+    "department": "Meat",
+    "barcode": 21238,
+    "ehName": "PORK HOCK",
+    "zhName": "猪踭"
   },
   {
-    "部门": "Meat",
-    "条码": 21272,
-    "英文名": "PORK HOCK BONELESS",
-    "中文名": "无骨猪踭"
+    "department": "Meat",
+    "barcode": 21272,
+    "ehName": "PORK HOCK BONELESS",
+    "zhName": "无骨猪踭"
   },
   {
-    "部门": "Meat",
-    "条码": 21222,
-    "英文名": "PORK HUNG",
-    "中文名": "猪大肠"
+    "department": "Meat",
+    "barcode": 21222,
+    "ehName": "PORK HUNG",
+    "zhName": "猪大肠"
   },
   {
-    "部门": "Meat",
-    "条码": 21224,
-    "英文名": "PORK KIDNEY",
-    "中文名": "猪腰"
+    "department": "Meat",
+    "barcode": 21224,
+    "ehName": "PORK KIDNEY",
+    "zhName": "猪腰"
   },
   {
-    "部门": "Meat",
-    "条码": 21219,
-    "英文名": "PORK LIVER",
-    "中文名": "猪肝"
+    "department": "Meat",
+    "barcode": 21219,
+    "ehName": "PORK LIVER",
+    "zhName": "猪肝"
   },
   {
-    "部门": "Meat",
-    "条码": 21246,
-    "英文名": "PORK LOIN BONELESS",
-    "中文名": "猪肉眼"
+    "department": "Meat",
+    "barcode": 21246,
+    "ehName": "PORK LOIN BONELESS",
+    "zhName": "猪肉眼"
   },
   {
-    "部门": "Meat",
-    "条码": 21259,
-    "英文名": "PORK MEAT SALTED",
-    "中文名": "盐猪肉"
+    "department": "Meat",
+    "barcode": 21259,
+    "ehName": "PORK MEAT SALTED",
+    "zhName": "盐猪肉"
   },
   {
-    "部门": "Meat",
-    "条码": 21234,
-    "英文名": "PORK NECK BONE",
-    "中文名": "猪骨"
+    "department": "Meat",
+    "barcode": 21234,
+    "ehName": "PORK NECK BONE",
+    "zhName": "猪骨"
   },
   {
-    "部门": "Meat",
-    "条码": 21243,
-    "英文名": "PORK PICNIC",
-    "中文名": "不见天"
+    "department": "Meat",
+    "barcode": 21243,
+    "ehName": "PORK PICNIC",
+    "zhName": "不见天"
   },
   {
-    "部门": "Meat",
-    "条码": 21227,
-    "英文名": "PORK RIBLETS",
-    "中文名": "切粒排骨"
+    "department": "Meat",
+    "barcode": 21227,
+    "ehName": "PORK RIBLETS",
+    "zhName": "切粒排骨"
   },
   {
-    "部门": "Meat",
-    "条码": 21239,
-    "英文名": "PORK SIDE RIB",
-    "中文名": "猪排骨"
+    "department": "Meat",
+    "barcode": 21239,
+    "ehName": "PORK SIDE RIB",
+    "zhName": "猪排骨"
   },
   {
-    "部门": "Meat",
-    "条码": 21240,
-    "英文名": "PORK SIDE RIB BBQ",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 21240,
+    "ehName": "PORK SIDE RIB BBQ",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 21254,
-    "英文名": "PORK SNOUTS SALTED",
-    "中文名": "盐猪嘴"
+    "department": "Meat",
+    "barcode": 21254,
+    "ehName": "PORK SNOUTS SALTED",
+    "zhName": "盐猪嘴"
   },
   {
-    "部门": "Meat",
-    "条码": 21255,
-    "英文名": "PORK SOUP BONE",
-    "中文名": "煲汤肉"
+    "department": "Meat",
+    "barcode": 21255,
+    "ehName": "PORK SOUP BONE",
+    "zhName": "煲汤肉"
   },
   {
-    "部门": "Meat",
-    "条码": 21223,
-    "英文名": "PORK TAIL",
-    "中文名": "猪尾"
+    "department": "Meat",
+    "barcode": 21223,
+    "ehName": "PORK TAIL",
+    "zhName": "猪尾"
   },
   {
-    "部门": "Meat",
-    "条码": 21252,
-    "英文名": "PORK TAIL SALTED",
-    "中文名": "盐猪尾"
+    "department": "Meat",
+    "barcode": 21252,
+    "ehName": "PORK TAIL SALTED",
+    "zhName": "盐猪尾"
   },
   {
-    "部门": "Meat",
-    "条码": 21236,
-    "英文名": "PORK TENDERLOIN",
-    "中文名": "猪柳"
+    "department": "Meat",
+    "barcode": 21236,
+    "ehName": "PORK TENDERLOIN",
+    "zhName": "猪柳"
   },
   {
-    "部门": "Meat",
-    "条码": 21221,
-    "英文名": "PORK TONGUES",
-    "中文名": "猪舌头"
+    "department": "Meat",
+    "barcode": 21221,
+    "ehName": "PORK TONGUES",
+    "zhName": "猪舌头"
   },
   {
-    "部门": "Meat",
-    "条码": 23576,
-    "英文名": "SPRING LAMB FRENCH LAMB RACK",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23576,
+    "ehName": "SPRING LAMB FRENCH LAMB RACK",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23577,
-    "英文名": "SPRING LAMB LAMB SHOULDER",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23577,
+    "ehName": "SPRING LAMB LAMB SHOULDER",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23578,
-    "英文名": "SPRING LAMB LAMB SHOULDER BONELESS",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23578,
+    "ehName": "SPRING LAMB LAMB SHOULDER BONELESS",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 23579,
-    "英文名": "SPRING LAMB WHOLE LAMG LEG",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 23579,
+    "ehName": "SPRING LAMB WHOLE LAMG LEG",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20323,
-    "英文名": "STEWING BEEF SLICED MEDIUM",
-    "中文名": "焖牛肉"
+    "department": "Meat",
+    "barcode": 20323,
+    "ehName": "STEWING BEEF SLICED MEDIUM",
+    "zhName": "焖牛肉"
   },
   {
-    "部门": "Meat",
-    "条码": 20357,
-    "英文名": "STEWING BF SLICED MEDIUM",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20357,
+    "ehName": "STEWING BF SLICED MEDIUM",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20347,
-    "英文名": "STEWING BF SLICED SMALL",
-    "中文名": "牛肉块"
+    "department": "Meat",
+    "barcode": 20347,
+    "ehName": "STEWING BF SLICED SMALL",
+    "zhName": "牛肉块"
   },
   {
-    "部门": "Meat",
-    "条码": 20354,
-    "英文名": "STIR FRY BEEF",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 20354,
+    "ehName": "STIR FRY BEEF",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 20313,
-    "英文名": "TURKEY DRUMSTICK SLICED",
-    "中文名": "火鷄腱"
+    "department": "Meat",
+    "barcode": 20313,
+    "ehName": "TURKEY DRUMSTICK SLICED",
+    "zhName": "火鷄腱"
   },
   {
-    "部门": "Meat",
-    "条码": 20312,
-    "英文名": "TURKEY NECK SKIN OFF",
-    "中文名": "火鷄脖"
+    "department": "Meat",
+    "barcode": 20312,
+    "ehName": "TURKEY NECK SKIN OFF",
+    "zhName": "火鷄脖"
   },
   {
-    "部门": "Meat",
-    "条码": 20300,
-    "英文名": "WHOLE CKICKEN FREE RUN",
-    "中文名": "黄油走地鷄"
+    "department": "Meat",
+    "barcode": 20300,
+    "ehName": "WHOLE CKICKEN FREE RUN",
+    "zhName": "黄油走地鷄"
   },
   {
-    "部门": "Meat",
-    "条码": 20311,
-    "英文名": "WHOLE YOUNG CKICKEN",
-    "中文名": "嫩鷄"
+    "department": "Meat",
+    "barcode": 20311,
+    "ehName": "WHOLE YOUNG CKICKEN",
+    "zhName": "嫩鷄"
   },
   {
-    "部门": "Meat",
-    "条码": 22429,
-    "英文名": "WINGTAT WHOLE CHICKEN",
-    "中文名": ""
+    "department": "Meat",
+    "barcode": 22429,
+    "ehName": "WINGTAT WHOLE CHICKEN",
+    "zhName": ""
   },
   {
-    "部门": "Meat",
-    "条码": 22430,
-    "英文名": "BONE IN PORK BLADE",
-    "中文名": "西施骨"
+    "department": "Meat",
+    "barcode": 22430,
+    "ehName": "BONE IN PORK BLADE",
+    "zhName": "西施骨"
   },
   {
-    "部门": "Meat",
-    "条码": 3161,
-    "英文名": "Mature Chicken",
-    "中文名": "半老嫩鸡"
+    "department": "Meat",
+    "barcode": 3161,
+    "ehName": "Mature Chicken",
+    "zhName": "半老嫩鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 3167,
-    "英文名": "Silkie Chicken",
-    "中文名": "黑鸡"
+    "department": "Meat",
+    "barcode": 3167,
+    "ehName": "Silkie Chicken",
+    "zhName": "黑鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 3169,
-    "英文名": "Cornish Chicken",
-    "中文名": "童子鸡"
+    "department": "Meat",
+    "barcode": 3169,
+    "ehName": "Cornish Chicken",
+    "zhName": "童子鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 3170,
-    "英文名": "Valley Young Duck",
-    "中文名": "急冻走地鸭"
+    "department": "Meat",
+    "barcode": 3170,
+    "ehName": "Valley Young Duck",
+    "zhName": "急冻走地鸭"
   },
   {
-    "部门": "Meat",
-    "条码": 3172,
-    "英文名": "Frozen Specialty Chicken",
-    "中文名": "急冻龙岗鸡"
+    "department": "Meat",
+    "barcode": 3172,
+    "ehName": "Frozen Specialty Chicken",
+    "zhName": "急冻龙岗鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 3309,
-    "英文名": "Stew Chicken",
-    "中文名": "老鸡"
+    "department": "Meat",
+    "barcode": 3309,
+    "ehName": "Stew Chicken",
+    "zhName": "老鸡"
   },
   {
-    "部门": "Meat",
-    "条码": 3505,
-    "英文名": "Hala Mutton Leg",
-    "中文名": "羊腿"
+    "department": "Meat",
+    "barcode": 3505,
+    "ehName": "Hala Mutton Leg",
+    "zhName": "羊腿"
   },
   {
-    "部门": "Meat",
-    "条码": 3508,
-    "英文名": "Beef Rib Eye Cliced",
-    "中文名": "肥牛肉片"
+    "department": "Meat",
+    "barcode": 3508,
+    "ehName": "Beef Rib Eye Cliced",
+    "zhName": "肥牛肉片"
   },
   {
-    "部门": "Meat",
-    "条码": 3724,
-    "英文名": "Prok Bone",
-    "中文名": "猪骨"
+    "department": "Meat",
+    "barcode": 3724,
+    "ehName": "Prok Bone",
+    "zhName": "猪骨"
   },
   {
-    "部门": "Meat",
-    "条码": 3725,
-    "英文名": "Prok Skin",
-    "中文名": "猪皮"
+    "department": "Meat",
+    "barcode": 3725,
+    "ehName": "Prok Skin",
+    "zhName": "猪皮"
   },
   {
-    "部门": "Meat",
-    "条码": 3801,
-    "英文名": "Chicken Drum Sticks",
-    "中文名": "小鸡腿"
+    "department": "Meat",
+    "barcode": 3801,
+    "ehName": "Chicken Drum Sticks",
+    "zhName": "小鸡腿"
   },
   {
-    "部门": "Meat",
-    "条码": 3802,
-    "英文名": "Chicken Leg",
-    "中文名": "大鸡腿"
+    "department": "Meat",
+    "barcode": 3802,
+    "ehName": "Chicken Leg",
+    "zhName": "大鸡腿"
   },
   {
-    "部门": "Meat",
-    "条码": 3804,
-    "英文名": "Chicken Wings",
-    "中文名": "鸡翅"
+    "department": "Meat",
+    "barcode": 3804,
+    "ehName": "Chicken Wings",
+    "zhName": "鸡翅"
   },
   {
-    "部门": "Meat",
-    "条码": 3805,
-    "英文名": "Beef Tongue",
-    "中文名": "牛舌"
+    "department": "Meat",
+    "barcode": 3805,
+    "ehName": "Beef Tongue",
+    "zhName": "牛舌"
   },
   {
-    "部门": "Meat",
-    "条码": 3824,
-    "英文名": "Beef Tendon",
-    "中文名": "牛筋"
+    "department": "Meat",
+    "barcode": 3824,
+    "ehName": "Beef Tendon",
+    "zhName": "牛筋"
   },
   {
-    "部门": "Meat",
-    "条码": 3825,
-    "英文名": "Chicken Bone",
-    "中文名": "鸡骨"
+    "department": "Meat",
+    "barcode": 3825,
+    "ehName": "Chicken Bone",
+    "zhName": "鸡骨"
   },
   {
-    "部门": "Meat",
-    "条码": 3835,
-    "英文名": "Skin Goat Leg-Skin Goat Shoulder",
-    "中文名": "有皮羊腿/有皮羊肩"
+    "department": "Meat",
+    "barcode": 3835,
+    "ehName": "Skin Goat Leg-Skin Goat Shoulder",
+    "zhName": "有皮羊腿/有皮羊肩"
   },
   {
-    "部门": "Meat",
-    "条码": 3836,
-    "英文名": "Hala Mutton Shoulder Meat",
-    "中文名": "羊肩肉"
+    "department": "Meat",
+    "barcode": 3836,
+    "ehName": "Hala Mutton Shoulder Meat",
+    "zhName": "羊肩肉"
   },
   {
-    "部门": "Meat",
-    "条码": 3837,
-    "英文名": "Skin Goat Flank",
-    "中文名": "有皮羊腩"
+    "department": "Meat",
+    "barcode": 3837,
+    "ehName": "Skin Goat Flank",
+    "zhName": "有皮羊腩"
   },
   {
-    "部门": "Meat",
-    "条码": 3838,
-    "英文名": "Boneless Lamb Shoulder",
-    "中文名": "无骨羊肩肉"
+    "department": "Meat",
+    "barcode": 3838,
+    "ehName": "Boneless Lamb Shoulder",
+    "zhName": "无骨羊肩肉"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7133,
-    "英文名": "Red Potatoes(10lb)",
-    "中文名": "10磅装红薯仔"
+    "department": "Vegetable",
+    "barcode": 7133,
+    "ehName": "Red Potatoes(10lb)",
+    "zhName": "10磅装红薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4074,
-    "英文名": "Mini Yam",
-    "中文名": "小甜番薯"
+    "department": "Vegetable",
+    "barcode": 4074,
+    "ehName": "Mini Yam",
+    "zhName": "小甜番薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7123,
-    "英文名": "Sweet Yam (S)",
-    "中文名": "甜蕃薯(小)"
+    "department": "Vegetable",
+    "barcode": 7123,
+    "ehName": "Sweet Yam (S)",
+    "zhName": "甜蕃薯(小)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7501,
-    "英文名": "Dashee",
-    "中文名": "西人芋头"
+    "department": "Vegetable",
+    "barcode": 7501,
+    "ehName": "Dashee",
+    "zhName": "西人芋头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4795,
-    "英文名": "Eddoes",
-    "中文名": "大陆芋头"
+    "department": "Vegetable",
+    "barcode": 4795,
+    "ehName": "Eddoes",
+    "zhName": "大陆芋头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3177,
-    "英文名": "Winter Melon",
-    "中文名": "开刀冬瓜"
+    "department": "Vegetable",
+    "barcode": 3177,
+    "ehName": "Winter Melon",
+    "zhName": "开刀冬瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7145,
-    "英文名": "Purple Onion",
-    "中文名": "紫洋葱(10LB)"
+    "department": "Vegetable",
+    "barcode": 7145,
+    "ehName": "Purple Onion",
+    "zhName": "紫洋葱(10LB)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4662,
-    "英文名": "Shallot (S)",
-    "中文名": "本地红葱头"
+    "department": "Vegetable",
+    "barcode": 4662,
+    "ehName": "Shallot (S)",
+    "zhName": "本地红葱头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7523,
-    "英文名": "Green Leaf Lettuce",
-    "中文名": "唐生菜(扎红绳)"
+    "department": "Vegetable",
+    "barcode": 7523,
+    "ehName": "Green Leaf Lettuce",
+    "zhName": "唐生菜(扎红绳)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7524,
-    "英文名": "Green Ton Choy",
-    "中文名": "越南青通"
+    "department": "Vegetable",
+    "barcode": 7524,
+    "ehName": "Green Ton Choy",
+    "zhName": "越南青通"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7125,
-    "英文名": "Spinach",
-    "中文名": "菠 菜(有头)"
+    "department": "Vegetable",
+    "barcode": 7125,
+    "ehName": "Spinach",
+    "zhName": "菠 菜(有头)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7102,
-    "英文名": "Malabar Spinach",
-    "中文名": "潺菜"
+    "department": "Vegetable",
+    "barcode": 7102,
+    "ehName": "Malabar Spinach",
+    "zhName": "潺菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7136,
-    "英文名": "White  Potatoes (10 Lbs)",
-    "中文名": "10磅白薯仔"
+    "department": "Vegetable",
+    "barcode": 7136,
+    "ehName": "White  Potatoes (10 Lbs)",
+    "zhName": "10磅白薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7104,
-    "英文名": "Ton Ho Choy",
-    "中文名": "蓎蒿菜(大叶)"
+    "department": "Vegetable",
+    "barcode": 7104,
+    "ehName": "Ton Ho Choy",
+    "zhName": "蓎蒿菜(大叶)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7115,
-    "英文名": "Garlic Meat",
-    "中文名": "蒜肉"
+    "department": "Vegetable",
+    "barcode": 7115,
+    "ehName": "Garlic Meat",
+    "zhName": "蒜肉"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4665,
-    "英文名": "Onion (10 lbs) (S)",
-    "中文名": "袋装洋葱"
+    "department": "Vegetable",
+    "barcode": 4665,
+    "ehName": "Onion (10 lbs) (S)",
+    "zhName": "袋装洋葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7525,
-    "英文名": "Yellow Potatoes (10 Lbs)",
-    "中文名": "10磅黄薯仔"
+    "department": "Vegetable",
+    "barcode": 7525,
+    "ehName": "Yellow Potatoes (10 Lbs)",
+    "zhName": "10磅黄薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4689,
-    "英文名": "Yellow Pepper",
-    "中文名": "黄椒"
+    "department": "Vegetable",
+    "barcode": 4689,
+    "ehName": "Yellow Pepper",
+    "zhName": "黄椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7513,
-    "英文名": "Bitter Melon",
-    "中文名": "(散装)苦瓜"
+    "department": "Vegetable",
+    "barcode": 7513,
+    "ehName": "Bitter Melon",
+    "zhName": "(散装)苦瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4734,
-    "英文名": "Small Pumpkin",
-    "中文名": "小南瓜"
+    "department": "Vegetable",
+    "barcode": 4734,
+    "ehName": "Small Pumpkin",
+    "zhName": "小南瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7113,
-    "英文名": "Garlic Stem",
-    "中文名": "蒜苔"
+    "department": "Vegetable",
+    "barcode": 7113,
+    "ehName": "Garlic Stem",
+    "zhName": "蒜苔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4697,
-    "英文名": "Long Red Pepper",
-    "中文名": "长红椒"
+    "department": "Vegetable",
+    "barcode": 4697,
+    "ehName": "Long Red Pepper",
+    "zhName": "长红椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7114,
-    "英文名": "White Skin Purple Heart Yam",
-    "中文名": "白皮紫芯番薯"
+    "department": "Vegetable",
+    "barcode": 7114,
+    "ehName": "White Skin Purple Heart Yam",
+    "zhName": "白皮紫芯番薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4625,
-    "英文名": "Shanghai Xin",
-    "中文名": "上海芯"
+    "department": "Vegetable",
+    "barcode": 4625,
+    "ehName": "Shanghai Xin",
+    "zhName": "上海芯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3164,
-    "英文名": "Yu Choy",
-    "中文名": "本地油菜"
+    "department": "Vegetable",
+    "barcode": 3164,
+    "ehName": "Yu Choy",
+    "zhName": "本地油菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7148,
-    "英文名": "Gai Lan",
-    "中文名": "芥兰"
+    "department": "Vegetable",
+    "barcode": 7148,
+    "ehName": "Gai Lan",
+    "zhName": "芥兰"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4664,
-    "英文名": "Hydroponic Tomato",
-    "中文名": "有枝番茄"
+    "department": "Vegetable",
+    "barcode": 4664,
+    "ehName": "Hydroponic Tomato",
+    "zhName": "有枝番茄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7130,
-    "英文名": "BIG EGGPLANT",
-    "中文名": "意大利茄瓜"
+    "department": "Vegetable",
+    "barcode": 7130,
+    "ehName": "BIG EGGPLANT",
+    "zhName": "意大利茄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4901,
-    "英文名": "Little Bear Plain Parsley (#4901)",
-    "中文名": "西 人芫茜(大业)"
+    "department": "Vegetable",
+    "barcode": 4901,
+    "ehName": "Little Bear Plain Parsley (#4901)",
+    "zhName": "西 人芫茜(大业)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3146,
-    "英文名": "Sweet Greenhouse Tomato",
-    "中文名": "盒装沙拉番茄"
+    "department": "Vegetable",
+    "barcode": 3146,
+    "ehName": "Sweet Greenhouse Tomato",
+    "zhName": "盒装沙拉番茄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4612,
-    "英文名": "Ginger",
-    "中文名": "生薑"
+    "department": "Vegetable",
+    "barcode": 4612,
+    "ehName": "Ginger",
+    "zhName": "生薑"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4889,
-    "英文名": "Corriander",
-    "中文名": "芫 茜"
+    "department": "Vegetable",
+    "barcode": 4889,
+    "ehName": "Corriander",
+    "zhName": "芫 茜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4583,
-    "英文名": "Celery",
-    "中文名": "西 芹"
+    "department": "Vegetable",
+    "barcode": 4583,
+    "ehName": "Celery",
+    "zhName": "西 芹"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4607,
-    "英文名": "Mustard",
-    "中文名": "大芥菜"
+    "department": "Vegetable",
+    "barcode": 4607,
+    "ehName": "Mustard",
+    "zhName": "大芥菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7127,
-    "英文名": "Baby Mustard",
-    "中文名": "芥菜仔"
+    "department": "Vegetable",
+    "barcode": 7127,
+    "ehName": "Baby Mustard",
+    "zhName": "芥菜仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4725,
-    "英文名": "Baking Potatoes",
-    "中文名": "灰薯仔"
+    "department": "Vegetable",
+    "barcode": 4725,
+    "ehName": "Baking Potatoes",
+    "zhName": "灰薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4073,
-    "英文名": "Red Potatoes",
-    "中文名": "红薯仔"
+    "department": "Vegetable",
+    "barcode": 4073,
+    "ehName": "Red Potatoes",
+    "zhName": "红薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7062,
-    "英文名": "Jumbo Yam",
-    "中文名": "大黄皮番薯"
+    "department": "Vegetable",
+    "barcode": 7062,
+    "ehName": "Jumbo Yam",
+    "zhName": "大黄皮番薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3334,
-    "英文名": "Sweet Yam (L)",
-    "中文名": "甜番薯(大)"
+    "department": "Vegetable",
+    "barcode": 3334,
+    "ehName": "Sweet Yam (L)",
+    "zhName": "甜番薯(大)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4626,
-    "英文名": "Jicama",
-    "中文名": "沙  葛"
+    "department": "Vegetable",
+    "barcode": 4626,
+    "ehName": "Jicama",
+    "zhName": "沙  葛"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4503,
-    "英文名": "Kudzu",
-    "中文名": "粉葛"
+    "department": "Vegetable",
+    "barcode": 4503,
+    "ehName": "Kudzu",
+    "zhName": "粉葛"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7502,
-    "英文名": "Taro",
-    "中文名": "大芋头"
+    "department": "Vegetable",
+    "barcode": 7502,
+    "ehName": "Taro",
+    "zhName": "大芋头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4794,
-    "英文名": "Eddos",
-    "中文名": "南美小芋仔"
+    "department": "Vegetable",
+    "barcode": 4794,
+    "ehName": "Eddos",
+    "zhName": "南美小芋仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4819,
-    "英文名": "Cassava",
-    "中文名": "木 薯"
+    "department": "Vegetable",
+    "barcode": 4819,
+    "ehName": "Cassava",
+    "zhName": "木 薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4593,
-    "英文名": "English Cucumber",
-    "中文名": "长青瓜"
+    "department": "Vegetable",
+    "barcode": 4593,
+    "ehName": "English Cucumber",
+    "zhName": "长青瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3177,
-    "英文名": "Winter Melon (Round)",
-    "中文名": "冬  瓜 (圆形)"
+    "department": "Vegetable",
+    "barcode": 3177,
+    "ehName": "Winter Melon (Round)",
+    "zhName": "冬  瓜 (圆形)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4562,
-    "英文名": "Carrot",
-    "中文名": "红萝卜"
+    "department": "Vegetable",
+    "barcode": 4562,
+    "ehName": "Carrot",
+    "zhName": "红萝卜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4619,
-    "英文名": "Green Turnip",
-    "中文名": "青箩卜"
+    "department": "Vegetable",
+    "barcode": 4619,
+    "ehName": "Green Turnip",
+    "zhName": "青箩卜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4555,
-    "英文名": "Cabbage",
-    "中文名": "椰 菜"
+    "department": "Vegetable",
+    "barcode": 4555,
+    "ehName": "Cabbage",
+    "zhName": "椰 菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4556,
-    "英文名": "Korean Cabbage",
-    "中文名": "高丽菜(包装)"
+    "department": "Vegetable",
+    "barcode": 4556,
+    "ehName": "Korean Cabbage",
+    "zhName": "高丽菜(包装)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3099,
-    "英文名": "Lotus Roots",
-    "中文名": "莲  藕"
+    "department": "Vegetable",
+    "barcode": 3099,
+    "ehName": "Lotus Roots",
+    "zhName": "莲  藕"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4093,
-    "英文名": "Spanish Onion",
-    "中文名": "大洋葱"
+    "department": "Vegetable",
+    "barcode": 4093,
+    "ehName": "Spanish Onion",
+    "zhName": "大洋葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4082,
-    "英文名": "Purple Onion",
-    "中文名": "紫洋葱"
+    "department": "Vegetable",
+    "barcode": 4082,
+    "ehName": "Purple Onion",
+    "zhName": "紫洋葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4663,
-    "英文名": "White Onion",
-    "中文名": "白洋葱"
+    "department": "Vegetable",
+    "barcode": 4663,
+    "ehName": "White Onion",
+    "zhName": "白洋葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4662,
-    "英文名": "Red Shallot (L)",
-    "中文名": "红葱头"
+    "department": "Vegetable",
+    "barcode": 4662,
+    "ehName": "Red Shallot (L)",
+    "zhName": "红葱头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4894,
-    "英文名": "Lemon Grass",
-    "中文名": "香  茅"
+    "department": "Vegetable",
+    "barcode": 4894,
+    "ehName": "Lemon Grass",
+    "zhName": "香  茅"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4070,
-    "英文名": "Chinese Celery",
-    "中文名": "唐芹"
+    "department": "Vegetable",
+    "barcode": 4070,
+    "ehName": "Chinese Celery",
+    "zhName": "唐芹"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4629,
-    "英文名": "Leek",
-    "中文名": "西人大蒜"
+    "department": "Vegetable",
+    "barcode": 4629,
+    "ehName": "Leek",
+    "zhName": "西人大蒜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4613,
-    "英文名": "Young Ginger",
-    "中文名": "子薑"
+    "department": "Vegetable",
+    "barcode": 4613,
+    "ehName": "Young Ginger",
+    "zhName": "子薑"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4669,
-    "英文名": "Peking Green Onion",
-    "中文名": "京 葱"
+    "department": "Vegetable",
+    "barcode": 4669,
+    "ehName": "Peking Green Onion",
+    "zhName": "京 葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7601,
-    "英文名": "Fresh Napa",
-    "中文名": "绍菜"
+    "department": "Vegetable",
+    "barcode": 7601,
+    "ehName": "Fresh Napa",
+    "zhName": "绍菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7107,
-    "英文名": "Long Nappa",
-    "中文名": "长绍菜"
+    "department": "Vegetable",
+    "barcode": 7107,
+    "ehName": "Long Nappa",
+    "zhName": "长绍菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4545,
-    "英文名": "Big Bok Choy",
-    "中文名": "大白菜"
+    "department": "Vegetable",
+    "barcode": 4545,
+    "ehName": "Big Bok Choy",
+    "zhName": "大白菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4888,
-    "英文名": "Chive",
-    "中文名": "韭 菜"
+    "department": "Vegetable",
+    "barcode": 4888,
+    "ehName": "Chive",
+    "zhName": "韭 菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3462,
-    "英文名": "Chive Flower",
-    "中文名": "韭菜花"
+    "department": "Vegetable",
+    "barcode": 3462,
+    "ehName": "Chive Flower",
+    "zhName": "韭菜花"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4640,
-    "英文名": "Romaine Lettuce",
-    "中文名": "西生菜"
+    "department": "Vegetable",
+    "barcode": 4640,
+    "ehName": "Romaine Lettuce",
+    "zhName": "西生菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4076,
-    "英文名": "Green Leaf Lettuce",
-    "中文名": "唐生菜"
+    "department": "Vegetable",
+    "barcode": 4076,
+    "ehName": "Green Leaf Lettuce",
+    "zhName": "唐生菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3162,
-    "英文名": "Green Ton Choy",
-    "中文名": "青通"
+    "department": "Vegetable",
+    "barcode": 3162,
+    "ehName": "Green Ton Choy",
+    "zhName": "青通"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7100,
-    "英文名": "White Ton Choy",
-    "中文名": "本地白通菜"
+    "department": "Vegetable",
+    "barcode": 7100,
+    "ehName": "White Ton Choy",
+    "zhName": "本地白通菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4910,
-    "英文名": "Amaranth (Red Stripe)",
-    "中文名": "本地红苋菜"
+    "department": "Vegetable",
+    "barcode": 4910,
+    "ehName": "Amaranth (Red Stripe)",
+    "zhName": "本地红苋菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4749,
-    "英文名": "Spinach",
-    "中文名": "菠菜(扎)"
+    "department": "Vegetable",
+    "barcode": 4749,
+    "ehName": "Spinach",
+    "zhName": "菠菜(扎)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7102,
-    "英文名": "Malabar Spinach",
-    "中文名": "越南潺菜"
+    "department": "Vegetable",
+    "barcode": 7102,
+    "ehName": "Malabar Spinach",
+    "zhName": "越南潺菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7106,
-    "英文名": "A A Choy",
-    "中文名": "A A 菜"
+    "department": "Vegetable",
+    "barcode": 7106,
+    "ehName": "A A Choy",
+    "zhName": "A A 菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4675,
-    "英文名": "Sugar Snap Peas",
-    "中文名": "蜜  豆"
+    "department": "Vegetable",
+    "barcode": 4675,
+    "ehName": "Sugar Snap Peas",
+    "zhName": "蜜  豆"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4080,
-    "英文名": "Asparagus",
-    "中文名": "新鲜芦笋"
+    "department": "Vegetable",
+    "barcode": 4080,
+    "ehName": "Asparagus",
+    "zhName": "新鲜芦笋"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7135,
-    "英文名": "White Potatoes",
-    "中文名": "白薯仔"
+    "department": "Vegetable",
+    "barcode": 7135,
+    "ehName": "White Potatoes",
+    "zhName": "白薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4931,
-    "英文名": "Fresh Peanut",
-    "中文名": "新鲜花生"
+    "department": "Vegetable",
+    "barcode": 4931,
+    "ehName": "Fresh Peanut",
+    "zhName": "新鲜花生"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7098,
-    "英文名": "Choy Mue Shanghai",
-    "中文名": "上海苗"
+    "department": "Vegetable",
+    "barcode": 7098,
+    "ehName": "Choy Mue Shanghai",
+    "zhName": "上海苗"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7103,
-    "英文名": "Ton Ho Choy",
-    "中文名": "蓎蒿菜(小叶)"
+    "department": "Vegetable",
+    "barcode": 7103,
+    "ehName": "Ton Ho Choy",
+    "zhName": "蓎蒿菜(小叶)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7086,
-    "英文名": "Gai Lan Tips",
-    "中文名": "芥兰苗"
+    "department": "Vegetable",
+    "barcode": 7086,
+    "ehName": "Gai Lan Tips",
+    "zhName": "芥兰苗"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7099,
-    "英文名": "Long Bok Choy Sum",
-    "中文名": "白菜芯"
+    "department": "Vegetable",
+    "barcode": 7099,
+    "ehName": "Long Bok Choy Sum",
+    "zhName": "白菜芯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7117,
-    "英文名": "Coco Yam",
-    "中文名": "山芋仔"
+    "department": "Vegetable",
+    "barcode": 7117,
+    "ehName": "Coco Yam",
+    "zhName": "山芋仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7122,
-    "英文名": "Garlic",
-    "中文名": "蒜头"
+    "department": "Vegetable",
+    "barcode": 7122,
+    "ehName": "Garlic",
+    "zhName": "蒜头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7526,
-    "英文名": "Regular Onion (10LB)",
-    "中文名": "袋装洋葱(10磅)"
+    "department": "Vegetable",
+    "barcode": 7526,
+    "ehName": "Regular Onion (10LB)",
+    "zhName": "袋装洋葱(10磅)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4557,
-    "英文名": "AA Choy Sum",
-    "中文名": "莴笋"
+    "department": "Vegetable",
+    "barcode": 4557,
+    "ehName": "AA Choy Sum",
+    "zhName": "莴笋"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7137,
-    "英文名": "Yellow Potatoes",
-    "中文名": "黄薯仔"
+    "department": "Vegetable",
+    "barcode": 7137,
+    "ehName": "Yellow Potatoes",
+    "zhName": "黄薯仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7034,
-    "英文名": "Sweet Potato Leaves",
-    "中文名": "蕃薯叶"
+    "department": "Vegetable",
+    "barcode": 7034,
+    "ehName": "Sweet Potato Leaves",
+    "zhName": "蕃薯叶"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4761,
-    "英文名": "Chayote",
-    "中文名": "合掌瓜"
+    "department": "Vegetable",
+    "barcode": 4761,
+    "ehName": "Chayote",
+    "zhName": "合掌瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4065,
-    "英文名": "Green Pepper",
-    "中文名": "青 椒"
+    "department": "Vegetable",
+    "barcode": 4065,
+    "ehName": "Green Pepper",
+    "zhName": "青 椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4656,
-    "英文名": "Chinese Okra",
-    "中文名": "胜瓜"
+    "department": "Vegetable",
+    "barcode": 4656,
+    "ehName": "Chinese Okra",
+    "zhName": "胜瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4783,
-    "英文名": "Bitter Melon",
-    "中文名": "苦瓜"
+    "department": "Vegetable",
+    "barcode": 4783,
+    "ehName": "Bitter Melon",
+    "zhName": "苦瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4081,
-    "英文名": "Eggplant",
-    "中文名": "茄瓜"
+    "department": "Vegetable",
+    "barcode": 4081,
+    "ehName": "Eggplant",
+    "zhName": "茄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4735,
-    "英文名": "Pumpkin",
-    "中文名": "南 瓜"
+    "department": "Vegetable",
+    "barcode": 4735,
+    "ehName": "Pumpkin",
+    "zhName": "南 瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3141,
-    "英文名": "Long Squash",
-    "中文名": "水  瓜"
+    "department": "Vegetable",
+    "barcode": 3141,
+    "ehName": "Long Squash",
+    "zhName": "水  瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4610,
-    "英文名": "Garlic Stem",
-    "中文名": "蒜  芯"
+    "department": "Vegetable",
+    "barcode": 4610,
+    "ehName": "Garlic Stem",
+    "zhName": "蒜  芯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4654,
-    "英文名": "King Mushroom",
-    "中文名": "袋装皇子菇"
+    "department": "Vegetable",
+    "barcode": 4654,
+    "ehName": "King Mushroom",
+    "zhName": "袋装皇子菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4395,
-    "英文名": "Green Papaya",
-    "中文名": "青木瓜"
+    "department": "Vegetable",
+    "barcode": 4395,
+    "ehName": "Green Papaya",
+    "zhName": "青木瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4088,
-    "英文名": "Red  Pepper",
-    "中文名": "红椒"
+    "department": "Vegetable",
+    "barcode": 4088,
+    "ehName": "Red  Pepper",
+    "zhName": "红椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7140,
-    "英文名": "Sweet Potato",
-    "中文名": "南美蕃薯"
+    "department": "Vegetable",
+    "barcode": 7140,
+    "ehName": "Sweet Potato",
+    "zhName": "南美蕃薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7096,
-    "英文名": "Local Taiwan Bok Choy",
-    "中文名": "台湾白菜"
+    "department": "Vegetable",
+    "barcode": 7096,
+    "ehName": "Local Taiwan Bok Choy",
+    "zhName": "台湾白菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3288,
-    "英文名": "Purple Heart Sweet Potato",
-    "中文名": "紫芯蕃薯"
+    "department": "Vegetable",
+    "barcode": 3288,
+    "ehName": "Purple Heart Sweet Potato",
+    "zhName": "紫芯蕃薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7101,
-    "英文名": "Yu Choi Tip",
-    "中文名": "油菜苗"
+    "department": "Vegetable",
+    "barcode": 7101,
+    "ehName": "Yu Choi Tip",
+    "zhName": "油菜苗"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3082,
-    "英文名": "Broccoli-Headless",
-    "中文名": "无茎西兰花"
+    "department": "Vegetable",
+    "barcode": 3082,
+    "ehName": "Broccoli-Headless",
+    "zhName": "无茎西兰花"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7503,
-    "英文名": "Packed Taro",
-    "中文名": "包装大芋头"
+    "department": "Vegetable",
+    "barcode": 7503,
+    "ehName": "Packed Taro",
+    "zhName": "包装大芋头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7085,
-    "英文名": "Bean Sprout",
-    "中文名": "芽  菜"
+    "department": "Vegetable",
+    "barcode": 7085,
+    "ehName": "Bean Sprout",
+    "zhName": "芽  菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3163,
-    "英文名": "Choy Sum Shanghai",
-    "中文名": "上海白(包装)"
+    "department": "Vegetable",
+    "barcode": 3163,
+    "ehName": "Choy Sum Shanghai",
+    "zhName": "上海白(包装)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7097,
-    "英文名": "Bok Choy",
-    "中文名": "奶油白菜"
+    "department": "Vegetable",
+    "barcode": 7097,
+    "ehName": "Bok Choy",
+    "zhName": "奶油白菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3164,
-    "英文名": "Yu Choy",
-    "中文名": "油菜"
+    "department": "Vegetable",
+    "barcode": 3164,
+    "ehName": "Yu Choy",
+    "zhName": "油菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7148,
-    "英文名": "Gai Lan",
-    "中文名": "本地芥兰"
+    "department": "Vegetable",
+    "barcode": 7148,
+    "ehName": "Gai Lan",
+    "zhName": "本地芥兰"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4068,
-    "英文名": "Green Onion",
-    "中文名": "青葱"
+    "department": "Vegetable",
+    "barcode": 4068,
+    "ehName": "Green Onion",
+    "zhName": "青葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4815,
-    "英文名": "Water Cress",
-    "中文名": "西洋菜"
+    "department": "Vegetable",
+    "barcode": 4815,
+    "ehName": "Water Cress",
+    "zhName": "西洋菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4680,
-    "英文名": "Golden Pepper",
-    "中文名": "金黄椒"
+    "department": "Vegetable",
+    "barcode": 4680,
+    "ehName": "Golden Pepper",
+    "zhName": "金黄椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4634,
-    "英文名": "Head Lettuce(pack)",
-    "中文名": "圆 生 菜"
+    "department": "Vegetable",
+    "barcode": 4634,
+    "ehName": "Head Lettuce(pack)",
+    "zhName": "圆 生 菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4066,
-    "英文名": "Green Bean (Bag)",
-    "中文名": "豆仔(袋装)"
+    "department": "Vegetable",
+    "barcode": 4066,
+    "ehName": "Green Bean (Bag)",
+    "zhName": "豆仔(袋装)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7124,
-    "英文名": "Bok choy Tip",
-    "中文名": "一级奶油苗"
+    "department": "Vegetable",
+    "barcode": 7124,
+    "ehName": "Bok choy Tip",
+    "zhName": "一级奶油苗"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3250,
-    "英文名": "Fuzzy Squash",
-    "中文名": "毛瓜"
+    "department": "Vegetable",
+    "barcode": 3250,
+    "ehName": "Fuzzy Squash",
+    "zhName": "毛瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4079,
-    "英文名": "Cauliflower",
-    "中文名": "椰菜花"
+    "department": "Vegetable",
+    "barcode": 4079,
+    "ehName": "Cauliflower",
+    "zhName": "椰菜花"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4064,
-    "英文名": "U.S Tomatoes",
-    "中文名": "美国番茄"
+    "department": "Vegetable",
+    "barcode": 4064,
+    "ehName": "U.S Tomatoes",
+    "zhName": "美国番茄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7116,
-    "英文名": "Snow Pea Tip",
-    "中文名": "豆 苗"
+    "department": "Vegetable",
+    "barcode": 7116,
+    "ehName": "Snow Pea Tip",
+    "zhName": "豆 苗"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4743,
-    "英文名": "White Radish",
-    "中文名": "白萝卜"
+    "department": "Vegetable",
+    "barcode": 4743,
+    "ehName": "White Radish",
+    "zhName": "白萝卜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4806,
-    "英文名": "Salad Tomatoes",
-    "中文名": "沙拉蕃茄"
+    "department": "Vegetable",
+    "barcode": 4806,
+    "ehName": "Salad Tomatoes",
+    "zhName": "沙拉蕃茄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3089,
-    "英文名": "Big Eggplant",
-    "中文名": "意大利花茄瓜"
+    "department": "Vegetable",
+    "barcode": 3089,
+    "ehName": "Big Eggplant",
+    "zhName": "意大利花茄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7036,
-    "英文名": "Sugar Cane Imperatae",
-    "中文名": "竹蔗矛根"
+    "department": "Vegetable",
+    "barcode": 7036,
+    "ehName": "Sugar Cane Imperatae",
+    "zhName": "竹蔗矛根"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4538,
-    "英文名": "Purple Turnips",
-    "中文名": "紫色菜头"
+    "department": "Vegetable",
+    "barcode": 4538,
+    "ehName": "Purple Turnips",
+    "zhName": "紫色菜头"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7119,
-    "英文名": "GREEN MANGO",
-    "中文名": "青芒果"
+    "department": "Vegetable",
+    "barcode": 7119,
+    "ehName": "GREEN MANGO",
+    "zhName": "青芒果"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3089,
-    "英文名": "BIG EGGPLANT",
-    "中文名": "大茄瓜"
+    "department": "Vegetable",
+    "barcode": 3089,
+    "ehName": "BIG EGGPLANT",
+    "zhName": "大茄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4812,
-    "英文名": "Indian Turnip",
-    "中文名": "印度白萝卜"
+    "department": "Vegetable",
+    "barcode": 4812,
+    "ehName": "Indian Turnip",
+    "zhName": "印度白萝卜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4530,
-    "英文名": "Drum Sticks",
-    "中文名": "印度羊角豆"
+    "department": "Vegetable",
+    "barcode": 4530,
+    "ehName": "Drum Sticks",
+    "zhName": "印度羊角豆"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4554,
-    "英文名": "Purple Cabbage",
-    "中文名": "紫椰菜"
+    "department": "Vegetable",
+    "barcode": 4554,
+    "ehName": "Purple Cabbage",
+    "zhName": "紫椰菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4087,
-    "英文名": "Roma Tomato",
-    "中文名": "罗马番茄"
+    "department": "Vegetable",
+    "barcode": 4087,
+    "ehName": "Roma Tomato",
+    "zhName": "罗马番茄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3287,
-    "英文名": "Plantain (yellow)",
-    "中文名": "黄大蕉"
+    "department": "Vegetable",
+    "barcode": 3287,
+    "ehName": "Plantain (yellow)",
+    "zhName": "黄大蕉"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4235,
-    "英文名": "Plantain (Green)",
-    "中文名": "青大蕉"
+    "department": "Vegetable",
+    "barcode": 4235,
+    "ehName": "Plantain (Green)",
+    "zhName": "青大蕉"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4899,
-    "英文名": "Little Bear Curly Parsley",
-    "中文名": "西人芫茜(小叶)"
+    "department": "Vegetable",
+    "barcode": 4899,
+    "ehName": "Little Bear Curly Parsley",
+    "zhName": "西人芫茜(小叶)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7128,
-    "英文名": "Pickle Cucumber",
-    "中文名": "散装小青瓜仔"
+    "department": "Vegetable",
+    "barcode": 7128,
+    "ehName": "Pickle Cucumber",
+    "zhName": "散装小青瓜仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7527,
-    "英文名": "Onion (2LBS)",
-    "中文名": "2磅装洋葱"
+    "department": "Vegetable",
+    "barcode": 7527,
+    "ehName": "Onion (2LBS)",
+    "zhName": "2磅装洋葱"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4691,
-    "英文名": "Red Orange & Green Peppers",
-    "中文名": "什色椒(红橙绿)"
+    "department": "Vegetable",
+    "barcode": 4691,
+    "ehName": "Red Orange & Green Peppers",
+    "zhName": "什色椒(红橙绿)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7532,
-    "英文名": "Taro Leaves",
-    "中文名": "芋 叶"
+    "department": "Vegetable",
+    "barcode": 7532,
+    "ehName": "Taro Leaves",
+    "zhName": "芋 叶"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3091,
-    "英文名": "Fresh Burdook",
-    "中文名": "牛 榜"
+    "department": "Vegetable",
+    "barcode": 3091,
+    "ehName": "Fresh Burdook",
+    "zhName": "牛 榜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4091,
-    "英文名": "India White Yam",
-    "中文名": "白  薯"
+    "department": "Vegetable",
+    "barcode": 4091,
+    "ehName": "India White Yam",
+    "zhName": "白  薯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7095,
-    "英文名": "Carrots (2LB)",
-    "中文名": "袋装红萝卜(2lb)"
+    "department": "Vegetable",
+    "barcode": 7095,
+    "ehName": "Carrots (2LB)",
+    "zhName": "袋装红萝卜(2lb)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4891,
-    "英文名": "Dill",
-    "中文名": "茴  香"
+    "department": "Vegetable",
+    "barcode": 4891,
+    "ehName": "Dill",
+    "zhName": "茴  香"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7039,
-    "英文名": "Banana Flower",
-    "中文名": "香蕉花"
+    "department": "Vegetable",
+    "barcode": 7039,
+    "ehName": "Banana Flower",
+    "zhName": "香蕉花"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4909,
-    "英文名": "Yam",
-    "中文名": "淮山"
+    "department": "Vegetable",
+    "barcode": 4909,
+    "ehName": "Yam",
+    "zhName": "淮山"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3064,
-    "英文名": "Fresh Aloe",
-    "中文名": "新鲜芦荟"
+    "department": "Vegetable",
+    "barcode": 3064,
+    "ehName": "Fresh Aloe",
+    "zhName": "新鲜芦荟"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4799,
-    "英文名": "House Tomato",
-    "中文名": "温室番茄"
+    "department": "Vegetable",
+    "barcode": 4799,
+    "ehName": "House Tomato",
+    "zhName": "温室番茄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4759,
-    "英文名": "Butternut Squash",
-    "中文名": "葫芦瓜"
+    "department": "Vegetable",
+    "barcode": 4759,
+    "ehName": "Butternut Squash",
+    "zhName": "葫芦瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4053,
-    "英文名": "Lemon",
-    "中文名": "黄柠檬"
+    "department": "Vegetable",
+    "barcode": 4053,
+    "ehName": "Lemon",
+    "zhName": "黄柠檬"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4048,
-    "英文名": "Lime",
-    "中文名": "青柠檬"
+    "department": "Vegetable",
+    "barcode": 4048,
+    "ehName": "Lime",
+    "zhName": "青柠檬"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7109,
-    "英文名": "Coconut",
-    "中文名": "老椰子"
+    "department": "Vegetable",
+    "barcode": 7109,
+    "ehName": "Coconut",
+    "zhName": "老椰子"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7621,
-    "英文名": "Cinamon Basil",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7621,
+    "ehName": "Cinamon Basil",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 4896,
-    "英文名": "Finger Mint",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 4896,
+    "ehName": "Finger Mint",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7623,
-    "英文名": "Water Mint",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7623,
+    "ehName": "Water Mint",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7624,
-    "英文名": "Culantro",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7624,
+    "ehName": "Culantro",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7043,
-    "英文名": "Tarostem",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7043,
+    "ehName": "Tarostem",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7625,
-    "英文名": "Fish Mint",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7625,
+    "ehName": "Fish Mint",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7508,
-    "英文名": "Mint",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7508,
+    "ehName": "Mint",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7626,
-    "英文名": "Peppermint",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7626,
+    "ehName": "Peppermint",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7627,
-    "英文名": "Red Mint",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7627,
+    "ehName": "Red Mint",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7628,
-    "英文名": "Lemon Balm",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7628,
+    "ehName": "Lemon Balm",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7629,
-    "英文名": "Pananous",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7629,
+    "ehName": "Pananous",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7631,
-    "英文名": "Pocket Leaves",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7631,
+    "ehName": "Pocket Leaves",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7632,
-    "英文名": "Penny Wort",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7632,
+    "ehName": "Penny Wort",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7037,
-    "英文名": "Yute Leaves",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7037,
+    "ehName": "Yute Leaves",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7635,
-    "英文名": "Par Wan",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7635,
+    "ehName": "Par Wan",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7655,
-    "英文名": "Chinese Glory",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7655,
+    "ehName": "Chinese Glory",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7636,
-    "英文名": "Water Celery",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7636,
+    "ehName": "Water Celery",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7637,
-    "英文名": "Banana Flower Slices",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7637,
+    "ehName": "Banana Flower Slices",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7638,
-    "英文名": "Turmaric",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7638,
+    "ehName": "Turmaric",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7639,
-    "英文名": "Galanga",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7639,
+    "ehName": "Galanga",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7642,
-    "英文名": "Lemon Leaves",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7642,
+    "ehName": "Lemon Leaves",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 4599,
-    "英文名": "Baby Eggplant",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 4599,
+    "ehName": "Baby Eggplant",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7634,
-    "英文名": "Thyme",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7634,
+    "ehName": "Thyme",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7643,
-    "英文名": "Wing Bean",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7643,
+    "ehName": "Wing Bean",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7644,
-    "英文名": "Mimosa",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7644,
+    "ehName": "Mimosa",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7646,
-    "英文名": "Balingale",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7646,
+    "ehName": "Balingale",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7647,
-    "英文名": "Small Red Hot Chili",
-    "中文名": "红小辣椒"
+    "department": "Vegetable",
+    "barcode": 7647,
+    "ehName": "Small Red Hot Chili",
+    "zhName": "红小辣椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3119,
-    "英文名": "Jamacai Pepper",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 3119,
+    "ehName": "Jamacai Pepper",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7509,
-    "英文名": "Kalamandin",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7509,
+    "ehName": "Kalamandin",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7510,
-    "英文名": "Bitter Nut",
-    "中文名": ""
+    "department": "Vegetable",
+    "barcode": 7510,
+    "ehName": "Bitter Nut",
+    "zhName": ""
   },
   {
-    "部门": "Vegetable",
-    "条码": 7089,
-    "英文名": "Lily",
-    "中文名": "百合花"
+    "department": "Vegetable",
+    "barcode": 7089,
+    "ehName": "Lily",
+    "zhName": "百合花"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4069,
-    "英文名": "Savoy Cabbage",
-    "中文名": "西人椰菜"
+    "department": "Vegetable",
+    "barcode": 4069,
+    "ehName": "Savoy Cabbage",
+    "zhName": "西人椰菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4628,
-    "英文名": "Corabi(Leaves)",
-    "中文名": "有叶菜果"
+    "department": "Vegetable",
+    "barcode": 4628,
+    "ehName": "Corabi(Leaves)",
+    "zhName": "有叶菜果"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4086,
-    "英文名": "Zucchini",
-    "中文名": "花色意大利瓜"
+    "department": "Vegetable",
+    "barcode": 4086,
+    "ehName": "Zucchini",
+    "zhName": "花色意大利瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4060,
-    "英文名": "Broccoli (Head-on)",
-    "中文名": "有头西兰花"
+    "department": "Vegetable",
+    "barcode": 4060,
+    "ehName": "Broccoli (Head-on)",
+    "zhName": "有头西兰花"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7128,
-    "英文名": "Pickle Cucumber",
-    "中文名": "吊瓜"
+    "department": "Vegetable",
+    "barcode": 7128,
+    "ehName": "Pickle Cucumber",
+    "zhName": "吊瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 434,
-    "英文名": "Halloween Big Pumpkin",
-    "中文名": "万圣节大南瓜"
+    "department": "Vegetable",
+    "barcode": 434,
+    "ehName": "Halloween Big Pumpkin",
+    "zhName": "万圣节大南瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4610,
-    "英文名": "Garlic Stem Tip",
-    "中文名": "蒜芯苗"
+    "department": "Vegetable",
+    "barcode": 4610,
+    "ehName": "Garlic Stem Tip",
+    "zhName": "蒜芯苗"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7520,
-    "英文名": "Bong Hue",
-    "中文名": "剑兰"
+    "department": "Vegetable",
+    "barcode": 7520,
+    "ehName": "Bong Hue",
+    "zhName": "剑兰"
   },
   {
-    "部门": "Vegetable",
-    "条码": 435,
-    "英文名": "Halloween Small Pumpkin",
-    "中文名": "万圣节小南瓜"
+    "department": "Vegetable",
+    "barcode": 435,
+    "ehName": "Halloween Small Pumpkin",
+    "zhName": "万圣节小南瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7052,
-    "英文名": "Cucumber",
-    "中文名": "本地黄瓜"
+    "department": "Vegetable",
+    "barcode": 7052,
+    "ehName": "Cucumber",
+    "zhName": "本地黄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4814,
-    "英文名": "Water Chestnut Pack",
-    "中文名": "网袋装马蹄"
+    "department": "Vegetable",
+    "barcode": 4814,
+    "ehName": "Water Chestnut Pack",
+    "zhName": "网袋装马蹄"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4927,
-    "英文名": "Chestnut",
-    "中文名": "栗子"
+    "department": "Vegetable",
+    "barcode": 4927,
+    "ehName": "Chestnut",
+    "zhName": "栗子"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7602,
-    "英文名": "Corabi",
-    "中文名": "菜果"
+    "department": "Vegetable",
+    "barcode": 7602,
+    "ehName": "Corabi",
+    "zhName": "菜果"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7115,
-    "英文名": "Peeled Garlic",
-    "中文名": "蒜肉"
+    "department": "Vegetable",
+    "barcode": 7115,
+    "ehName": "Peeled Garlic",
+    "zhName": "蒜肉"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7108,
-    "英文名": "Chinese Leek",
-    "中文名": "糖蒜"
+    "department": "Vegetable",
+    "barcode": 7108,
+    "ehName": "Chinese Leek",
+    "zhName": "糖蒜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4625,
-    "英文名": "Choy Sum Shanghai",
-    "中文名": "上海芯"
+    "department": "Vegetable",
+    "barcode": 4625,
+    "ehName": "Choy Sum Shanghai",
+    "zhName": "上海芯"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7105,
-    "英文名": "Shanghai Tak Choy",
-    "中文名": "上海塔菜"
+    "department": "Vegetable",
+    "barcode": 7105,
+    "ehName": "Shanghai Tak Choy",
+    "zhName": "上海塔菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4092,
-    "英文名": "Snow Pea",
-    "中文名": "雪豆"
+    "department": "Vegetable",
+    "barcode": 4092,
+    "ehName": "Snow Pea",
+    "zhName": "雪豆"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7046,
-    "英文名": "Kingo Nut",
-    "中文名": "白果"
+    "department": "Vegetable",
+    "barcode": 7046,
+    "ehName": "Kingo Nut",
+    "zhName": "白果"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7093,
-    "英文名": "Winter Bamboo Shoot",
-    "中文名": "冬笋"
+    "department": "Vegetable",
+    "barcode": 7093,
+    "ehName": "Winter Bamboo Shoot",
+    "zhName": "冬笋"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7511,
-    "英文名": "BaiLing Mushroom",
-    "中文名": "白灵菇"
+    "department": "Vegetable",
+    "barcode": 7511,
+    "ehName": "BaiLing Mushroom",
+    "zhName": "白灵菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7094,
-    "英文名": "Arrowhead",
-    "中文名": "茨菇"
+    "department": "Vegetable",
+    "barcode": 7094,
+    "ehName": "Arrowhead",
+    "zhName": "茨菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7091,
-    "英文名": "Cow Kee",
-    "中文名": "枸杞"
+    "department": "Vegetable",
+    "barcode": 7091,
+    "ehName": "Cow Kee",
+    "zhName": "枸杞"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7512,
-    "英文名": "Lin kock",
-    "中文名": "菱角"
+    "department": "Vegetable",
+    "barcode": 7512,
+    "ehName": "Lin kock",
+    "zhName": "菱角"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3103,
-    "英文名": "Enoki Mushroom",
-    "中文名": "金针菇"
+    "department": "Vegetable",
+    "barcode": 3103,
+    "ehName": "Enoki Mushroom",
+    "zhName": "金针菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4067,
-    "英文名": "Zucchini",
-    "中文名": "意大利瓜"
+    "department": "Vegetable",
+    "barcode": 4067,
+    "ehName": "Zucchini",
+    "zhName": "意大利瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7031,
-    "英文名": "Lily Bulb",
-    "中文名": "鲜百合"
+    "department": "Vegetable",
+    "barcode": 7031,
+    "ehName": "Lily Bulb",
+    "zhName": "鲜百合"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4655,
-    "英文名": "Okra",
-    "中文名": "羊角豆"
+    "department": "Vegetable",
+    "barcode": 4655,
+    "ehName": "Okra",
+    "zhName": "羊角豆"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7084,
-    "英文名": "White Long Bean",
-    "中文名": "长白豆角"
+    "department": "Vegetable",
+    "barcode": 7084,
+    "ehName": "White Long Bean",
+    "zhName": "长白豆角"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4590,
-    "英文名": "Fresh Corns",
-    "中文名": "新鲜玉米"
+    "department": "Vegetable",
+    "barcode": 4590,
+    "ehName": "Fresh Corns",
+    "zhName": "新鲜玉米"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7126,
-    "英文名": "Finger Green Hot Chili",
-    "中文名": "牛角椒"
+    "department": "Vegetable",
+    "barcode": 7126,
+    "ehName": "Finger Green Hot Chili",
+    "zhName": "牛角椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4527,
-    "英文名": "Green Long Bean",
-    "中文名": "长青豆角"
+    "department": "Vegetable",
+    "barcode": 4527,
+    "ehName": "Green Long Bean",
+    "zhName": "长青豆角"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4649,
-    "英文名": "Oyster Mushroom",
-    "中文名": "蚝菇"
+    "department": "Vegetable",
+    "barcode": 4649,
+    "ehName": "Oyster Mushroom",
+    "zhName": "蚝菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7087,
-    "英文名": "Taiwan Okra",
-    "中文名": "台湾胜瓜"
+    "department": "Vegetable",
+    "barcode": 7087,
+    "ehName": "Taiwan Okra",
+    "zhName": "台湾胜瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4696,
-    "英文名": "Green Long Chili",
-    "中文名": "粗长辣椒"
+    "department": "Vegetable",
+    "barcode": 4696,
+    "ehName": "Green Long Chili",
+    "zhName": "粗长辣椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4686,
-    "英文名": "Small Green Hot Chili",
-    "中文名": "青小辣椒"
+    "department": "Vegetable",
+    "barcode": 4686,
+    "ehName": "Small Green Hot Chili",
+    "zhName": "青小辣椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4650,
-    "英文名": "Flower Mushroom",
-    "中文名": "花菇"
+    "department": "Vegetable",
+    "barcode": 4650,
+    "ehName": "Flower Mushroom",
+    "zhName": "花菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3048,
-    "英文名": "South American Bean",
-    "中文名": "南美扁豆"
+    "department": "Vegetable",
+    "barcode": 3048,
+    "ehName": "South American Bean",
+    "zhName": "南美扁豆"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4645,
-    "英文名": "White Mushroom",
-    "中文名": "白蘑菇"
+    "department": "Vegetable",
+    "barcode": 4645,
+    "ehName": "White Mushroom",
+    "zhName": "白蘑菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3140,
-    "英文名": "Snake Squash",
-    "中文名": "蛇瓜"
+    "department": "Vegetable",
+    "barcode": 3140,
+    "ehName": "Snake Squash",
+    "zhName": "蛇瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4627,
-    "英文名": "Little Bear Kale",
-    "中文名": "西人芥兰"
+    "department": "Vegetable",
+    "barcode": 4627,
+    "ehName": "Little Bear Kale",
+    "zhName": "西人芥兰"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4528,
-    "英文名": "Broad Bean",
-    "中文名": "扁豆"
+    "department": "Vegetable",
+    "barcode": 4528,
+    "ehName": "Broad Bean",
+    "zhName": "扁豆"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7112,
-    "英文名": "Indian Bitter Melon",
-    "中文名": "印度苦瓜"
+    "department": "Vegetable",
+    "barcode": 7112,
+    "ehName": "Indian Bitter Melon",
+    "zhName": "印度苦瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7514,
-    "英文名": "BR. SPROUTS",
-    "中文名": "青椰菜仔"
+    "department": "Vegetable",
+    "barcode": 7514,
+    "ehName": "BR. SPROUTS",
+    "zhName": "青椰菜仔"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7118,
-    "英文名": "Wild Stripe",
-    "中文名": "野苋菜(马齿苋)"
+    "department": "Vegetable",
+    "barcode": 7118,
+    "ehName": "Wild Stripe",
+    "zhName": "野苋菜(马齿苋)"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4075,
-    "英文名": "Red Leaf Lettuce",
-    "中文名": "红生菜"
+    "department": "Vegetable",
+    "barcode": 4075,
+    "ehName": "Red Leaf Lettuce",
+    "zhName": "红生菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 3090,
-    "英文名": "Thai Eggplant",
-    "中文名": "泰国茄瓜"
+    "department": "Vegetable",
+    "barcode": 3090,
+    "ehName": "Thai Eggplant",
+    "zhName": "泰国茄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7604,
-    "英文名": "Methi",
-    "中文名": "印度香菜"
+    "department": "Vegetable",
+    "barcode": 7604,
+    "ehName": "Methi",
+    "zhName": "印度香菜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4254,
-    "英文名": "Bread Fruit",
-    "中文名": "麵包果"
+    "department": "Vegetable",
+    "barcode": 4254,
+    "ehName": "Bread Fruit",
+    "zhName": "麵包果"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4603,
-    "英文名": "Indian Eggplant",
-    "中文名": "印度茄瓜"
+    "department": "Vegetable",
+    "barcode": 4603,
+    "ehName": "Indian Eggplant",
+    "zhName": "印度茄瓜"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7515,
-    "英文名": "Lucky Bamboo",
-    "中文名": "富贵竹"
+    "department": "Vegetable",
+    "barcode": 7515,
+    "ehName": "Lucky Bamboo",
+    "zhName": "富贵竹"
   },
   {
-    "部门": "Vegetable",
-    "条码": 4648,
-    "英文名": "Coffee Mushrrom",
-    "中文名": "咖啡菇"
+    "department": "Vegetable",
+    "barcode": 4648,
+    "ehName": "Coffee Mushrrom",
+    "zhName": "咖啡菇"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7516,
-    "英文名": "Little Bear Methleaf",
-    "中文名": "印度香草"
+    "department": "Vegetable",
+    "barcode": 7516,
+    "ehName": "Little Bear Methleaf",
+    "zhName": "印度香草"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7517,
-    "英文名": "Big Habanero Chile Pepper",
-    "中文名": "古巴大椒"
+    "department": "Vegetable",
+    "barcode": 7517,
+    "ehName": "Big Habanero Chile Pepper",
+    "zhName": "古巴大椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7518,
-    "英文名": "Small Habanero Chile Pepper",
-    "中文名": "古巴小椒"
+    "department": "Vegetable",
+    "barcode": 7518,
+    "ehName": "Small Habanero Chile Pepper",
+    "zhName": "古巴小椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 7519,
-    "英文名": "Green Round Pepper",
-    "中文名": "青圆椒"
+    "department": "Vegetable",
+    "barcode": 7519,
+    "ehName": "Green Round Pepper",
+    "zhName": "青圆椒"
   },
   {
-    "部门": "Vegetable",
-    "条码": 2000,
-    "英文名": "Vegetable in Bag",
-    "中文名": "打包水果"
+    "department": "Vegetable",
+    "barcode": 2000,
+    "ehName": "Vegetable in Bag",
+    "zhName": "打包水果"
   },
   {
-    "部门": "Fish",
-    "条码": 24471,
-    "英文名": "LIVE VANCOUVER CRAB",
-    "中文名": "温哥华蟹"
+    "department": "Fish",
+    "barcode": 24471,
+    "ehName": "LIVE VANCOUVER CRAB",
+    "zhName": "温哥华蟹"
   },
   {
-    "部门": "Fish",
-    "条码": 24472,
-    "英文名": "LIVE ROCK CRAB",
-    "中文名": "石蟹"
+    "department": "Fish",
+    "barcode": 24472,
+    "ehName": "LIVE ROCK CRAB",
+    "zhName": "石蟹"
   },
   {
-    "部门": "Fish",
-    "条码": 24473,
-    "英文名": "FRESH RED SNAPPER",
-    "中文名": "新鲜红鸡"
+    "department": "Fish",
+    "barcode": 24473,
+    "ehName": "FRESH RED SNAPPER",
+    "zhName": "新鲜红鸡"
   },
   {
-    "部门": "Fish",
-    "条码": 24474,
-    "英文名": "FRESH SHARK",
-    "中文名": "鲨鱼"
+    "department": "Fish",
+    "barcode": 24474,
+    "ehName": "FRESH SHARK",
+    "zhName": "鲨鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24475,
-    "英文名": "FRESH YELLOW POMFRET",
-    "中文名": "黄立鲳"
+    "department": "Fish",
+    "barcode": 24475,
+    "ehName": "FRESH YELLOW POMFRET",
+    "zhName": "黄立鲳"
   },
   {
-    "部门": "Fish",
-    "条码": 24476,
-    "英文名": "FRESH SPANISH MACKEREL",
-    "中文名": "花鲛"
+    "department": "Fish",
+    "barcode": 24476,
+    "ehName": "FRESH SPANISH MACKEREL",
+    "zhName": "花鲛"
   },
   {
-    "部门": "Fish",
-    "条码": 24477,
-    "英文名": "FRESH BLUE FISH",
-    "中文名": "马友"
+    "department": "Fish",
+    "barcode": 24477,
+    "ehName": "FRESH BLUE FISH",
+    "zhName": "马友"
   },
   {
-    "部门": "Fish",
-    "条码": 24478,
-    "英文名": "FRESH SEA BREAM",
-    "中文名": "海银立"
+    "department": "Fish",
+    "barcode": 24478,
+    "ehName": "FRESH SEA BREAM",
+    "zhName": "海银立"
   },
   {
-    "部门": "Fish",
-    "条码": 24479,
-    "英文名": "FRESH SEA BASS",
-    "中文名": "海青斑"
+    "department": "Fish",
+    "barcode": 24479,
+    "ehName": "FRESH SEA BASS",
+    "zhName": "海青斑"
   },
   {
-    "部门": "Fish",
-    "条码": 24480,
-    "英文名": "FRESH SKATE FISH",
-    "中文名": "斑翅"
+    "department": "Fish",
+    "barcode": 24480,
+    "ehName": "FRESH SKATE FISH",
+    "zhName": "斑翅"
   },
   {
-    "部门": "Fish",
-    "条码": 24481,
-    "英文名": "FRESH TILAPIA",
-    "中文名": "新鲜立鱼"
+    "department": "Fish",
+    "barcode": 24481,
+    "ehName": "FRESH TILAPIA",
+    "zhName": "新鲜立鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24482,
-    "英文名": "FRESH MILK FISH",
-    "中文名": "牛奶鱼"
+    "department": "Fish",
+    "barcode": 24482,
+    "ehName": "FRESH MILK FISH",
+    "zhName": "牛奶鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24483,
-    "英文名": "FRESH HERRING",
-    "中文名": "青鳞"
+    "department": "Fish",
+    "barcode": 24483,
+    "ehName": "FRESH HERRING",
+    "zhName": "青鳞"
   },
   {
-    "部门": "Fish",
-    "条码": 24484,
-    "英文名": "LIVE SNAIL",
-    "中文名": "石螺"
+    "department": "Fish",
+    "barcode": 24484,
+    "ehName": "LIVE SNAIL",
+    "zhName": "石螺"
   },
   {
-    "部门": "Fish",
-    "条码": 24485,
-    "英文名": "LIVE PASTA CLAM",
-    "中文名": "美国蚬"
+    "department": "Fish",
+    "barcode": 24485,
+    "ehName": "LIVE PASTA CLAM",
+    "zhName": "美国蚬"
   },
   {
-    "部门": "Fish",
-    "条码": 24486,
-    "英文名": "FRESH CARP FISH",
-    "中文名": "鲤鱼"
+    "department": "Fish",
+    "barcode": 24486,
+    "ehName": "FRESH CARP FISH",
+    "zhName": "鲤鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24487,
-    "英文名": "LIVE STRIPED BASS",
-    "中文名": "鲈鱼"
+    "department": "Fish",
+    "barcode": 24487,
+    "ehName": "LIVE STRIPED BASS",
+    "zhName": "鲈鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24488,
-    "英文名": "FRESH SILMON STEAK",
-    "中文名": "新鲜三文鱼块"
+    "department": "Fish",
+    "barcode": 24488,
+    "ehName": "FRESH SILMON STEAK",
+    "zhName": "新鲜三文鱼块"
   },
   {
-    "部门": "Fish",
-    "条码": 24489,
-    "英文名": "GRADE A LIVE LOBSTER",
-    "中文名": "A级龙虾"
+    "department": "Fish",
+    "barcode": 24489,
+    "ehName": "GRADE A LIVE LOBSTER",
+    "zhName": "A级龙虾"
   },
   {
-    "部门": "Fish",
-    "条码": 24490,
-    "英文名": "LIVE RAINBOW FISH",
-    "中文名": "游水鳟鱼"
+    "department": "Fish",
+    "barcode": 24490,
+    "ehName": "LIVE RAINBOW FISH",
+    "zhName": "游水鳟鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24491,
-    "英文名": "FRESH SALMON FILLET",
-    "中文名": "三文鱼肉"
+    "department": "Fish",
+    "barcode": 24491,
+    "ehName": "FRESH SALMON FILLET",
+    "zhName": "三文鱼肉"
   },
   {
-    "部门": "Fish",
-    "条码": 24492,
-    "英文名": "FRESH YELLOW GROUPER",
-    "中文名": "黄旗斑"
+    "department": "Fish",
+    "barcode": 24492,
+    "ehName": "FRESH YELLOW GROUPER",
+    "zhName": "黄旗斑"
   },
   {
-    "部门": "Fish",
-    "条码": 24493,
-    "英文名": "FRESH WHITING FISH",
-    "中文名": "竹签鱼"
+    "department": "Fish",
+    "barcode": 24493,
+    "ehName": "FRESH WHITING FISH",
+    "zhName": "竹签鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24494,
-    "英文名": "FRESH SMELT",
-    "中文名": "雪鱼仔"
+    "department": "Fish",
+    "barcode": 24494,
+    "ehName": "FRESH SMELT",
+    "zhName": "雪鱼仔"
   },
   {
-    "部门": "Fish",
-    "条码": 24495,
-    "英文名": "LIVE CAT FISH",
-    "中文名": "鲶鱼"
+    "department": "Fish",
+    "barcode": 24495,
+    "ehName": "LIVE CAT FISH",
+    "zhName": "鲶鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24496,
-    "英文名": "LIVE LANE SNAPPER",
-    "中文名": "游水火点"
+    "department": "Fish",
+    "barcode": 24496,
+    "ehName": "LIVE LANE SNAPPER",
+    "zhName": "游水火点"
   },
   {
-    "部门": "Fish",
-    "条码": 24497,
-    "英文名": "LIVE MANILA CLAM",
-    "中文名": "温哥华蚬"
+    "department": "Fish",
+    "barcode": 24497,
+    "ehName": "LIVE MANILA CLAM",
+    "zhName": "温哥华蚬"
   },
   {
-    "部门": "Fish",
-    "条码": 24498,
-    "英文名": "FRESH WHITE SHRIMP WITH HEAD",
-    "中文名": "南美有头虾"
+    "department": "Fish",
+    "barcode": 24498,
+    "ehName": "FRESH WHITE SHRIMP WITH HEAD",
+    "zhName": "南美有头虾"
   },
   {
-    "部门": "Fish",
-    "条码": 24499,
-    "英文名": "LIVE CHERRY STONE CLAM",
-    "中文名": "大蚬"
+    "department": "Fish",
+    "barcode": 24499,
+    "ehName": "LIVE CHERRY STONE CLAM",
+    "zhName": "大蚬"
   },
   {
-    "部门": "Fish",
-    "条码": 24500,
-    "英文名": "LIVE OYSTER IN SHELL",
-    "中文名": "壳蚝"
+    "department": "Fish",
+    "barcode": 24500,
+    "ehName": "LIVE OYSTER IN SHELL",
+    "zhName": "壳蚝"
   },
   {
-    "部门": "Fish",
-    "条码": 24501,
-    "英文名": "FROZEN WHOLE SQUID",
-    "中文名": "冰鲜鱿鱼"
+    "department": "Fish",
+    "barcode": 24501,
+    "ehName": "FROZEN WHOLE SQUID",
+    "zhName": "冰鲜鱿鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24502,
-    "英文名": "FRESH KING FISH",
-    "中文名": "马鲛"
+    "department": "Fish",
+    "barcode": 24502,
+    "ehName": "FRESH KING FISH",
+    "zhName": "马鲛"
   },
   {
-    "部门": "Fish",
-    "条码": 24503,
-    "英文名": "FRESH FLUKE",
-    "中文名": "七日鲜"
+    "department": "Fish",
+    "barcode": 24503,
+    "ehName": "FRESH FLUKE",
+    "zhName": "七日鲜"
   },
   {
-    "部门": "Fish",
-    "条码": 24504,
-    "英文名": "FRESH YELLOW TAIL SNAPPER",
-    "中文名": "黄尾立"
+    "department": "Fish",
+    "barcode": 24504,
+    "ehName": "FRESH YELLOW TAIL SNAPPER",
+    "zhName": "黄尾立"
   },
   {
-    "部门": "Fish",
-    "条码": 24505,
-    "英文名": "FRESH LANE SNAPPER",
-    "中文名": "新鲜火点"
+    "department": "Fish",
+    "barcode": 24505,
+    "ehName": "FRESH LANE SNAPPER",
+    "zhName": "新鲜火点"
   },
   {
-    "部门": "Fish",
-    "条码": 24506,
-    "英文名": "FRESH TILAPIA FILLET",
-    "中文名": "立鱼肉"
+    "department": "Fish",
+    "barcode": 24506,
+    "ehName": "FRESH TILAPIA FILLET",
+    "zhName": "立鱼肉"
   },
   {
-    "部门": "Fish",
-    "条码": 24507,
-    "英文名": "FRESH JACK FISH",
-    "中文名": "金枪"
+    "department": "Fish",
+    "barcode": 24507,
+    "ehName": "FRESH JACK FISH",
+    "zhName": "金枪"
   },
   {
-    "部门": "Fish",
-    "条码": 24508,
-    "英文名": "LIVE DOG FISH",
-    "中文名": "生鱼"
+    "department": "Fish",
+    "barcode": 24508,
+    "ehName": "LIVE DOG FISH",
+    "zhName": "生鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24509,
-    "英文名": "LIVE CARP FISH",
-    "中文名": "游水鲤鱼"
+    "department": "Fish",
+    "barcode": 24509,
+    "ehName": "LIVE CARP FISH",
+    "zhName": "游水鲤鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24510,
-    "英文名": "FRESH TILE GROUPER STEAK",
-    "中文名": "金马头块"
+    "department": "Fish",
+    "barcode": 24510,
+    "ehName": "FRESH TILE GROUPER STEAK",
+    "zhName": "金马头块"
   },
   {
-    "部门": "Fish",
-    "条码": 24511,
-    "英文名": "TILE GROUPER TAILS",
-    "中文名": "马头尾"
+    "department": "Fish",
+    "barcode": 24511,
+    "ehName": "TILE GROUPER TAILS",
+    "zhName": "马头尾"
   },
   {
-    "部门": "Fish",
-    "条码": 24512,
-    "英文名": "TILE GROUPER HEADS",
-    "中文名": "马头"
+    "department": "Fish",
+    "barcode": 24512,
+    "ehName": "TILE GROUPER HEADS",
+    "zhName": "马头"
   },
   {
-    "部门": "Fish",
-    "条码": 24513,
-    "英文名": "FRESH TUNA FISH",
-    "中文名": "吞拿"
+    "department": "Fish",
+    "barcode": 24513,
+    "ehName": "FRESH TUNA FISH",
+    "zhName": "吞拿"
   },
   {
-    "部门": "Fish",
-    "条码": 24514,
-    "英文名": "FRESH RAINBOW TROUT FISH EGGS",
-    "中文名": "鱼籽（蛋）"
+    "department": "Fish",
+    "barcode": 24514,
+    "ehName": "FRESH RAINBOW TROUT FISH EGGS",
+    "zhName": "鱼籽（蛋）"
   },
   {
-    "部门": "Fish",
-    "条码": 24515,
-    "英文名": "FRESH COD FILLET",
-    "中文名": "马友（肉）"
+    "department": "Fish",
+    "barcode": 24515,
+    "ehName": "FRESH COD FILLET",
+    "zhName": "马友（肉）"
   },
   {
-    "部门": "Fish",
-    "条码": 24516,
-    "英文名": "ATLANTIC WHOLE SALMON",
-    "中文名": "整条三文鱼"
+    "department": "Fish",
+    "barcode": 24516,
+    "ehName": "ATLANTIC WHOLE SALMON",
+    "zhName": "整条三文鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24517,
-    "英文名": "FRESH GOAT FISH",
-    "中文名": "海则"
+    "department": "Fish",
+    "barcode": 24517,
+    "ehName": "FRESH GOAT FISH",
+    "zhName": "海则"
   },
   {
-    "部门": "Fish",
-    "条码": 24518,
-    "英文名": "FRESH STRAWBERRY GROUPER",
-    "中文名": "士多啤梨斑"
+    "department": "Fish",
+    "barcode": 24518,
+    "ehName": "FRESH STRAWBERRY GROUPER",
+    "zhName": "士多啤梨斑"
   },
   {
-    "部门": "Fish",
-    "条码": 24519,
-    "英文名": "FRESH RED MULLET",
-    "中文名": "红乌头"
+    "department": "Fish",
+    "barcode": 24519,
+    "ehName": "FRESH RED MULLET",
+    "zhName": "红乌头"
   },
   {
-    "部门": "Fish",
-    "条码": 24520,
-    "英文名": "FRESH MULLET",
-    "中文名": "乌头"
+    "department": "Fish",
+    "barcode": 24520,
+    "ehName": "FRESH MULLET",
+    "zhName": "乌头"
   },
   {
-    "部门": "Fish",
-    "条码": 24521,
-    "英文名": "FRESH HILSA",
-    "中文名": "三泥"
+    "department": "Fish",
+    "barcode": 24521,
+    "ehName": "FRESH HILSA",
+    "zhName": "三泥"
   },
   {
-    "部门": "Fish",
-    "条码": 24522,
-    "英文名": "LIVE BANAMUDI",
-    "中文名": "游水桂花鱼"
+    "department": "Fish",
+    "barcode": 24522,
+    "ehName": "LIVE BANAMUDI",
+    "zhName": "游水桂花鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24523,
-    "英文名": "FRESH CROKER",
-    "中文名": "新鲜黄花鱼"
+    "department": "Fish",
+    "barcode": 24523,
+    "ehName": "FRESH CROKER",
+    "zhName": "新鲜黄花鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24524,
-    "英文名": "FRESH PORGIE FISH",
-    "中文名": "新鲜海立鱼"
+    "department": "Fish",
+    "barcode": 24524,
+    "ehName": "FRESH PORGIE FISH",
+    "zhName": "新鲜海立鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24525,
-    "英文名": "FRESH GROUPER MEAT CUTTED",
-    "中文名": "东斑块"
+    "department": "Fish",
+    "barcode": 24525,
+    "ehName": "FRESH GROUPER MEAT CUTTED",
+    "zhName": "东斑块"
   },
   {
-    "部门": "Fish",
-    "条码": 24526,
-    "英文名": "FRESH RED GROUPER STEAK",
-    "中文名": "红斑块"
+    "department": "Fish",
+    "barcode": 24526,
+    "ehName": "FRESH RED GROUPER STEAK",
+    "zhName": "红斑块"
   },
   {
-    "部门": "Fish",
-    "条码": 24527,
-    "英文名": "FRESH RED GROUPER TAIL",
-    "中文名": "红斑尾"
+    "department": "Fish",
+    "barcode": 24527,
+    "ehName": "FRESH RED GROUPER TAIL",
+    "zhName": "红斑尾"
   },
   {
-    "部门": "Fish",
-    "条码": 24528,
-    "英文名": "FRESH RED GROUPER BELLY",
-    "中文名": "红斑腩"
+    "department": "Fish",
+    "barcode": 24528,
+    "ehName": "FRESH RED GROUPER BELLY",
+    "zhName": "红斑腩"
   },
   {
-    "部门": "Fish",
-    "条码": 24529,
-    "英文名": "FRESH RED GROUPER HEAD",
-    "中文名": "红斑头"
+    "department": "Fish",
+    "barcode": 24529,
+    "ehName": "FRESH RED GROUPER HEAD",
+    "zhName": "红斑头"
   },
   {
-    "部门": "Fish",
-    "条码": 24530,
-    "英文名": "FRESH SALMON FISH STEAK",
-    "中文名": "三文鱼块"
+    "department": "Fish",
+    "barcode": 24530,
+    "ehName": "FRESH SALMON FISH STEAK",
+    "zhName": "三文鱼块"
   },
   {
-    "部门": "Fish",
-    "条码": 24531,
-    "英文名": "FRESH SALMON FISH TAIL",
-    "中文名": "三文鱼尾"
+    "department": "Fish",
+    "barcode": 24531,
+    "ehName": "FRESH SALMON FISH TAIL",
+    "zhName": "三文鱼尾"
   },
   {
-    "部门": "Fish",
-    "条码": 24532,
-    "英文名": "FRESH SALMON FISH HEAD",
-    "中文名": "三文鱼头"
+    "department": "Fish",
+    "barcode": 24532,
+    "ehName": "FRESH SALMON FISH HEAD",
+    "zhName": "三文鱼头"
   },
   {
-    "部门": "Fish",
-    "条码": 24533,
-    "英文名": "FRESH YELLOW GROUPER STEAK",
-    "中文名": "黄旗斑块"
+    "department": "Fish",
+    "barcode": 24533,
+    "ehName": "FRESH YELLOW GROUPER STEAK",
+    "zhName": "黄旗斑块"
   },
   {
-    "部门": "Fish",
-    "条码": 24534,
-    "英文名": "FRESH YELLOW GROUPER TAIL",
-    "中文名": "黄旗斑尾"
+    "department": "Fish",
+    "barcode": 24534,
+    "ehName": "FRESH YELLOW GROUPER TAIL",
+    "zhName": "黄旗斑尾"
   },
   {
-    "部门": "Fish",
-    "条码": 24535,
-    "英文名": "FRESH YELLOW GROUPER BELLY",
-    "中文名": "黄旗斑腩"
+    "department": "Fish",
+    "barcode": 24535,
+    "ehName": "FRESH YELLOW GROUPER BELLY",
+    "zhName": "黄旗斑腩"
   },
   {
-    "部门": "Fish",
-    "条码": 24536,
-    "英文名": "FRESH YELLOW GROUPER HEAD",
-    "中文名": "黄旗斑头"
+    "department": "Fish",
+    "barcode": 24536,
+    "ehName": "FRESH YELLOW GROUPER HEAD",
+    "zhName": "黄旗斑头"
   },
   {
-    "部门": "Fish",
-    "条码": 24537,
-    "英文名": "FRESH KING FISH STEAK",
-    "中文名": "马交块"
+    "department": "Fish",
+    "barcode": 24537,
+    "ehName": "FRESH KING FISH STEAK",
+    "zhName": "马交块"
   },
   {
-    "部门": "Fish",
-    "条码": 24538,
-    "英文名": "FRESH KING FISH TAIL",
-    "中文名": "马交尾"
+    "department": "Fish",
+    "barcode": 24538,
+    "ehName": "FRESH KING FISH TAIL",
+    "zhName": "马交尾"
   },
   {
-    "部门": "Fish",
-    "条码": 24539,
-    "英文名": "FRESH KING FISH HEAD",
-    "中文名": "马交头"
+    "department": "Fish",
+    "barcode": 24539,
+    "ehName": "FRESH KING FISH HEAD",
+    "zhName": "马交头"
   },
   {
-    "部门": "Fish",
-    "条码": 24540,
-    "英文名": "FRESH SHEEPSHEAD",
-    "中文名": "四间立"
+    "department": "Fish",
+    "barcode": 24540,
+    "ehName": "FRESH SHEEPSHEAD",
+    "zhName": "四间立"
   },
   {
-    "部门": "Fish",
-    "条码": 24541,
-    "英文名": "FRESH WHITE BASS",
-    "中文名": "三綫鱼"
+    "department": "Fish",
+    "barcode": 24541,
+    "ehName": "FRESH WHITE BASS",
+    "zhName": "三綫鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24542,
-    "英文名": "FRESH WHITE PERCH",
-    "中文名": "单綫鱼"
+    "department": "Fish",
+    "barcode": 24542,
+    "ehName": "FRESH WHITE PERCH",
+    "zhName": "单綫鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24543,
-    "英文名": "FRESH RED SNAPPER",
-    "中文名": "红鸡"
+    "department": "Fish",
+    "barcode": 24543,
+    "ehName": "FRESH RED SNAPPER",
+    "zhName": "红鸡"
   },
   {
-    "部门": "Fish",
-    "条码": 24544,
-    "英文名": "FRESH TILAPIA",
-    "中文名": "新鲜立鱼"
+    "department": "Fish",
+    "barcode": 24544,
+    "ehName": "FRESH TILAPIA",
+    "zhName": "新鲜立鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24545,
-    "英文名": "FRESH AUST. BASS",
-    "中文名": "上水桂花鱼"
+    "department": "Fish",
+    "barcode": 24545,
+    "ehName": "FRESH AUST. BASS",
+    "zhName": "上水桂花鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24546,
-    "英文名": "FRESH GREEN BASS",
-    "中文名": "上水青斑"
+    "department": "Fish",
+    "barcode": 24546,
+    "ehName": "FRESH GREEN BASS",
+    "zhName": "上水青斑"
   },
   {
-    "部门": "Fish",
-    "条码": 24547,
-    "英文名": "FRESH STRIPED BASS",
-    "中文名": "上水鲈鱼"
+    "department": "Fish",
+    "barcode": 24547,
+    "ehName": "FRESH STRIPED BASS",
+    "zhName": "上水鲈鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24548,
-    "英文名": "FRESH DOCTOR FISH",
-    "中文名": "医生鱼"
+    "department": "Fish",
+    "barcode": 24548,
+    "ehName": "FRESH DOCTOR FISH",
+    "zhName": "医生鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24549,
-    "英文名": "FRESH MANGROVE SNAPPER",
-    "中文名": "深水火点"
+    "department": "Fish",
+    "barcode": 24549,
+    "ehName": "FRESH MANGROVE SNAPPER",
+    "zhName": "深水火点"
   },
   {
-    "部门": "Fish",
-    "条码": 24550,
-    "英文名": "FRESH SHINNER",
-    "中文名": "银则"
+    "department": "Fish",
+    "barcode": 24550,
+    "ehName": "FRESH SHINNER",
+    "zhName": "银则"
   },
   {
-    "部门": "Fish",
-    "条码": 24551,
-    "英文名": "US BLUE CRAB",
-    "中文名": "青蟹仔"
+    "department": "Fish",
+    "barcode": 24551,
+    "ehName": "US BLUE CRAB",
+    "zhName": "青蟹仔"
   },
   {
-    "部门": "Fish",
-    "条码": 24552,
-    "英文名": "FRESH MUSSEL",
-    "中文名": "青口"
+    "department": "Fish",
+    "barcode": 24552,
+    "ehName": "FRESH MUSSEL",
+    "zhName": "青口"
   },
   {
-    "部门": "Fish",
-    "条码": 24553,
-    "英文名": "FRESH HALIBUT FISH",
-    "中文名": "比目鱼"
+    "department": "Fish",
+    "barcode": 24553,
+    "ehName": "FRESH HALIBUT FISH",
+    "zhName": "比目鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24554,
-    "英文名": "FRESH PARROT FISH",
-    "中文名": "青衣"
+    "department": "Fish",
+    "barcode": 24554,
+    "ehName": "FRESH PARROT FISH",
+    "zhName": "青衣"
   },
   {
-    "部门": "Fish",
-    "条码": 24555,
-    "英文名": "FRESH BABY RED GROUPER",
-    "中文名": "红斑仔"
+    "department": "Fish",
+    "barcode": 24555,
+    "ehName": "FRESH BABY RED GROUPER",
+    "zhName": "红斑仔"
   },
   {
-    "部门": "Fish",
-    "条码": 24556,
-    "英文名": "FRESH BELT FISH",
-    "中文名": "牙带"
+    "department": "Fish",
+    "barcode": 24556,
+    "ehName": "FRESH BELT FISH",
+    "zhName": "牙带"
   },
   {
-    "部门": "Fish",
-    "条码": 24557,
-    "英文名": "FRESH SNOOK FISH",
-    "中文名": "鸭嘴鱼"
+    "department": "Fish",
+    "barcode": 24557,
+    "ehName": "FRESH SNOOK FISH",
+    "zhName": "鸭嘴鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24558,
-    "英文名": "FRESH WHITE FISH",
-    "中文名": "白鱼"
+    "department": "Fish",
+    "barcode": 24558,
+    "ehName": "FRESH WHITE FISH",
+    "zhName": "白鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24559,
-    "英文名": "FRESH GRUNTS",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24559,
+    "ehName": "FRESH GRUNTS",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24560,
-    "英文名": "FRESH CHILLER",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24560,
+    "ehName": "FRESH CHILLER",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24561,
-    "英文名": "FRESH MACKERAL",
-    "中文名": "花鲛"
+    "department": "Fish",
+    "barcode": 24561,
+    "ehName": "FRESH MACKERAL",
+    "zhName": "花鲛"
   },
   {
-    "部门": "Fish",
-    "条码": 24562,
-    "英文名": "FRESH PICKERAL",
-    "中文名": "碧古鱼"
+    "department": "Fish",
+    "barcode": 24562,
+    "ehName": "FRESH PICKERAL",
+    "zhName": "碧古鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24563,
-    "英文名": "FRESH BONITO",
-    "中文名": "猪仔鱼"
+    "department": "Fish",
+    "barcode": 24563,
+    "ehName": "FRESH BONITO",
+    "zhName": "猪仔鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24564,
-    "英文名": "FRESH WHITE SNAPPER",
-    "中文名": "白鲫"
+    "department": "Fish",
+    "barcode": 24564,
+    "ehName": "FRESH WHITE SNAPPER",
+    "zhName": "白鲫"
   },
   {
-    "部门": "Fish",
-    "条码": 24565,
-    "英文名": "FRESH ROSE FISH",
-    "中文名": "石九公"
+    "department": "Fish",
+    "barcode": 24565,
+    "ehName": "FRESH ROSE FISH",
+    "zhName": "石九公"
   },
   {
-    "部门": "Fish",
-    "条码": 24566,
-    "英文名": "FRESH BUTTER FISH",
-    "中文名": "瓜子鲳"
+    "department": "Fish",
+    "barcode": 24566,
+    "ehName": "FRESH BUTTER FISH",
+    "zhName": "瓜子鲳"
   },
   {
-    "部门": "Fish",
-    "条码": 24567,
-    "英文名": "FRESH FLOUNDER",
-    "中文名": "龙利"
+    "department": "Fish",
+    "barcode": 24567,
+    "ehName": "FRESH FLOUNDER",
+    "zhName": "龙利"
   },
   {
-    "部门": "Fish",
-    "条码": 24568,
-    "英文名": "FRESH BUFFALO CARP",
-    "中文名": "美国鲩鱼"
+    "department": "Fish",
+    "barcode": 24568,
+    "ehName": "FRESH BUFFALO CARP",
+    "zhName": "美国鲩鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24569,
-    "英文名": "FRESH MOON FISH",
-    "中文名": "月光鲳"
+    "department": "Fish",
+    "barcode": 24569,
+    "ehName": "FRESH MOON FISH",
+    "zhName": "月光鲳"
   },
   {
-    "部门": "Fish",
-    "条码": 24570,
-    "英文名": "FRESH AMBER JACK HEAD",
-    "中文名": "琥珀鱼头"
+    "department": "Fish",
+    "barcode": 24570,
+    "ehName": "FRESH AMBER JACK HEAD",
+    "zhName": "琥珀鱼头"
   },
   {
-    "部门": "Fish",
-    "条码": 24571,
-    "英文名": "FRESH AMBER JACK STICK",
-    "中文名": "琥珀鱼块"
+    "department": "Fish",
+    "barcode": 24571,
+    "ehName": "FRESH AMBER JACK STICK",
+    "zhName": "琥珀鱼块"
   },
   {
-    "部门": "Fish",
-    "条码": 24572,
-    "英文名": "FRESH AMBER JACK TAIL",
-    "中文名": "琥珀鱼尾"
+    "department": "Fish",
+    "barcode": 24572,
+    "ehName": "FRESH AMBER JACK TAIL",
+    "zhName": "琥珀鱼尾"
   },
   {
-    "部门": "Fish",
-    "条码": 24573,
-    "英文名": "FRESH ANCHOVY",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24573,
+    "ehName": "FRESH ANCHOVY",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24574,
-    "英文名": "FRESH BLACK POMFRET",
-    "中文名": "黑鲳"
+    "department": "Fish",
+    "barcode": 24574,
+    "ehName": "FRESH BLACK POMFRET",
+    "zhName": "黑鲳"
   },
   {
-    "部门": "Fish",
-    "条码": 24575,
-    "英文名": "FRESH BLACK KINGFISH",
-    "中文名": "印度马交"
+    "department": "Fish",
+    "barcode": 24575,
+    "ehName": "FRESH BLACK KINGFISH",
+    "zhName": "印度马交"
   },
   {
-    "部门": "Fish",
-    "条码": 24576,
-    "英文名": "FRESH EMPEROR",
-    "中文名": "白鲫"
+    "department": "Fish",
+    "barcode": 24576,
+    "ehName": "FRESH EMPEROR",
+    "zhName": "白鲫"
   },
   {
-    "部门": "Fish",
-    "条码": 24577,
-    "英文名": "FRESH INDIAN MACKREL",
-    "中文名": "印度池鱼"
+    "department": "Fish",
+    "barcode": 24577,
+    "ehName": "FRESH INDIAN MACKREL",
+    "zhName": "印度池鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24578,
-    "英文名": "FRESH KALAI FISH",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24578,
+    "ehName": "FRESH KALAI FISH",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24579,
-    "英文名": "FRESH MURAL",
-    "中文名": "尖嘴鱼"
+    "department": "Fish",
+    "barcode": 24579,
+    "ehName": "FRESH MURAL",
+    "zhName": "尖嘴鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24580,
-    "英文名": "FRESH RABBITFISH",
-    "中文名": "泥孟"
+    "department": "Fish",
+    "barcode": 24580,
+    "ehName": "FRESH RABBITFISH",
+    "zhName": "泥孟"
   },
   {
-    "部门": "Fish",
-    "条码": 24581,
-    "英文名": "FRESH RAY FISH",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24581,
+    "ehName": "FRESH RAY FISH",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24582,
-    "英文名": "FRESH SUWAPPARAI",
-    "中文名": "黄綫鱼"
+    "department": "Fish",
+    "barcode": 24582,
+    "ehName": "FRESH SUWAPPARAI",
+    "zhName": "黄綫鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24583,
-    "英文名": "FRESH SEA BASS",
-    "中文名": "印度海鲈鱼"
+    "department": "Fish",
+    "barcode": 24583,
+    "ehName": "FRESH SEA BASS",
+    "zhName": "印度海鲈鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24584,
-    "英文名": "FRESH SEELA",
-    "中文名": "沙追"
+    "department": "Fish",
+    "barcode": 24584,
+    "ehName": "FRESH SEELA",
+    "zhName": "沙追"
   },
   {
-    "部门": "Fish",
-    "条码": 24585,
-    "英文名": "FRESH SARDINE",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24585,
+    "ehName": "FRESH SARDINE",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24586,
-    "英文名": "FRESH THALAPATH",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24586,
+    "ehName": "FRESH THALAPATH",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24587,
-    "英文名": "FRESH TRIVELLI",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24587,
+    "ehName": "FRESH TRIVELLI",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24588,
-    "英文名": "FRESH THULUMANDAI",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24588,
+    "ehName": "FRESH THULUMANDAI",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24589,
-    "英文名": "FRESH VALAI",
-    "中文名": ""
+    "department": "Fish",
+    "barcode": 24589,
+    "ehName": "FRESH VALAI",
+    "zhName": ""
   },
   {
-    "部门": "Fish",
-    "条码": 24590,
-    "英文名": "LIVE GREEN BASS",
-    "中文名": "游水青斑"
+    "department": "Fish",
+    "barcode": 24590,
+    "ehName": "LIVE GREEN BASS",
+    "zhName": "游水青斑"
   },
   {
-    "部门": "Fish",
-    "条码": 24591,
-    "英文名": "Live Long Clam",
-    "中文名": "竹圣"
+    "department": "Fish",
+    "barcode": 24591,
+    "ehName": "Live Long Clam",
+    "zhName": "竹圣"
   },
   {
-    "部门": "Fish",
-    "条码": 24592,
-    "英文名": "Black Grouper",
-    "中文名": "黑鲳"
+    "department": "Fish",
+    "barcode": 24592,
+    "ehName": "Black Grouper",
+    "zhName": "黑鲳"
   },
   {
-    "部门": "Fish",
-    "条码": 24593,
-    "英文名": "Warsaw Grouper",
-    "中文名": "龙趸"
+    "department": "Fish",
+    "barcode": 24593,
+    "ehName": "Warsaw Grouper",
+    "zhName": "龙趸"
   },
   {
-    "部门": "Fish",
-    "条码": 24594,
-    "英文名": "Surf Clam",
-    "中文名": "桂花蚌"
+    "department": "Fish",
+    "barcode": 24594,
+    "ehName": "Surf Clam",
+    "zhName": "桂花蚌"
   },
   {
-    "部门": "Fish",
-    "条码": 24595,
-    "英文名": "Amer Kam Red Snapper",
-    "中文名": "红友"
+    "department": "Fish",
+    "barcode": 24595,
+    "ehName": "Amer Kam Red Snapper",
+    "zhName": "红友"
   },
   {
-    "部门": "Fish",
-    "条码": 24596,
-    "英文名": "Geoduck Clam",
-    "中文名": "象拔蚌"
+    "department": "Fish",
+    "barcode": 24596,
+    "ehName": "Geoduck Clam",
+    "zhName": "象拔蚌"
   },
   {
-    "部门": "Fish",
-    "条码": 24597,
-    "英文名": "Jack Fish",
-    "中文名": "白果鲳"
+    "department": "Fish",
+    "barcode": 24597,
+    "ehName": "Jack Fish",
+    "zhName": "白果鲳"
   },
   {
-    "部门": "Fish",
-    "条码": 24598,
-    "英文名": "White Pomfret",
-    "中文名": "白鲳鱼"
+    "department": "Fish",
+    "barcode": 24598,
+    "ehName": "White Pomfret",
+    "zhName": "白鲳鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24599,
-    "英文名": "Live Bullhead",
-    "中文名": "游水塘虱"
+    "department": "Fish",
+    "barcode": 24599,
+    "ehName": "Live Bullhead",
+    "zhName": "游水塘虱"
   },
   {
-    "部门": "Fish",
-    "条码": 24600,
-    "英文名": "Seafood",
-    "中文名": "海鲜部"
+    "department": "Fish",
+    "barcode": 24600,
+    "ehName": "Seafood",
+    "zhName": "海鲜部"
   },
   {
-    "部门": "Fish",
-    "条码": 24601,
-    "英文名": "Rock Bass",
-    "中文名": "石鲫"
+    "department": "Fish",
+    "barcode": 24601,
+    "ehName": "Rock Bass",
+    "zhName": "石鲫"
   },
   {
-    "部门": "Fish",
-    "条码": 24602,
-    "英文名": "Live Sun Fish",
-    "中文名": "游水太阳鲫"
+    "department": "Fish",
+    "barcode": 24602,
+    "ehName": "Live Sun Fish",
+    "zhName": "游水太阳鲫"
   },
   {
-    "部门": "Fish",
-    "条码": 24603,
-    "英文名": "Live Texas Snapper",
-    "中文名": "游水金凤鱼"
+    "department": "Fish",
+    "barcode": 24603,
+    "ehName": "Live Texas Snapper",
+    "zhName": "游水金凤鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24604,
-    "英文名": "Big Head",
-    "中文名": "游水崇鱼"
+    "department": "Fish",
+    "barcode": 24604,
+    "ehName": "Big Head",
+    "zhName": "游水崇鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24605,
-    "英文名": "Live Clam",
-    "中文名": "柳子"
+    "department": "Fish",
+    "barcode": 24605,
+    "ehName": "Live Clam",
+    "zhName": "柳子"
   },
   {
-    "部门": "Fish",
-    "条码": 24606,
-    "英文名": "Gimat Salaamander",
-    "中文名": "野生娃娃鱼"
+    "department": "Fish",
+    "barcode": 24606,
+    "ehName": "Gimat Salaamander",
+    "zhName": "野生娃娃鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24607,
-    "英文名": "Sliver Maliet",
-    "中文名": "济鱼"
+    "department": "Fish",
+    "barcode": 24607,
+    "ehName": "Sliver Maliet",
+    "zhName": "济鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24608,
-    "英文名": "White Eel",
-    "中文名": "白鳝"
+    "department": "Fish",
+    "barcode": 24608,
+    "ehName": "White Eel",
+    "zhName": "白鳝"
   },
   {
-    "部门": "Fish",
-    "条码": 24609,
-    "英文名": "Grouper Strawberry",
-    "中文名": "士多啤梨斑"
+    "department": "Fish",
+    "barcode": 24609,
+    "ehName": "Grouper Strawberry",
+    "zhName": "士多啤梨斑"
   },
   {
-    "部门": "Fish",
-    "条码": 24610,
-    "英文名": "Grey Sole",
-    "中文名": "左口"
+    "department": "Fish",
+    "barcode": 24610,
+    "ehName": "Grey Sole",
+    "zhName": "左口"
   },
   {
-    "部门": "Fish",
-    "条码": 24611,
-    "英文名": "Salmon Fillet",
-    "中文名": "三文鱼柳"
+    "department": "Fish",
+    "barcode": 24611,
+    "ehName": "Salmon Fillet",
+    "zhName": "三文鱼柳"
   },
   {
-    "部门": "Fish",
-    "条码": 24612,
-    "英文名": "Live Turbot",
-    "中文名": "金多宝"
+    "department": "Fish",
+    "barcode": 24612,
+    "ehName": "Live Turbot",
+    "zhName": "金多宝"
   },
   {
-    "部门": "Fish",
-    "条码": 24613,
-    "英文名": "Lobster",
-    "中文名": "大龙虾双钳"
+    "department": "Fish",
+    "barcode": 24613,
+    "ehName": "Lobster",
+    "zhName": "大龙虾双钳"
   },
   {
-    "部门": "Fish",
-    "条码": 24614,
-    "英文名": "Live B.C. Crab",
-    "中文名": "温哥华肉蟹"
+    "department": "Fish",
+    "barcode": 24614,
+    "ehName": "Live B.C. Crab",
+    "zhName": "温哥华肉蟹"
   },
   {
-    "部门": "Fish",
-    "条码": 24615,
-    "英文名": "Yellow Eel",
-    "中文名": "野生黄鳝"
+    "department": "Fish",
+    "barcode": 24615,
+    "ehName": "Yellow Eel",
+    "zhName": "野生黄鳝"
   },
   {
-    "部门": "Fish",
-    "条码": 24616,
-    "英文名": "Salmon Belly",
-    "中文名": "三文鱼腩"
+    "department": "Fish",
+    "barcode": 24616,
+    "ehName": "Salmon Belly",
+    "zhName": "三文鱼腩"
   },
   {
-    "部门": "Fish",
-    "条码": 24617,
-    "英文名": "Grapple Fish",
-    "中文名": "大花鲗"
+    "department": "Fish",
+    "barcode": 24617,
+    "ehName": "Grapple Fish",
+    "zhName": "大花鲗"
   },
   {
-    "部门": "Fish",
-    "条码": 24618,
-    "英文名": "Yellow Snapper",
-    "中文名": "黄线鲫"
+    "department": "Fish",
+    "barcode": 24618,
+    "ehName": "Yellow Snapper",
+    "zhName": "黄线鲫"
   },
   {
-    "部门": "Fish",
-    "条码": 24619,
-    "英文名": "Monk Fish Head",
-    "中文名": "发财头"
+    "department": "Fish",
+    "barcode": 24619,
+    "ehName": "Monk Fish Head",
+    "zhName": "发财头"
   },
   {
-    "部门": "Fish",
-    "条码": 24620,
-    "英文名": "Tang Shan Fish",
-    "中文名": "唐山鲫"
+    "department": "Fish",
+    "barcode": 24620,
+    "ehName": "Tang Shan Fish",
+    "zhName": "唐山鲫"
   },
   {
-    "部门": "Fish",
-    "条码": 24621,
-    "英文名": "Fresh Sea Cucumber",
-    "中文名": "新鲜海参"
+    "department": "Fish",
+    "barcode": 24621,
+    "ehName": "Fresh Sea Cucumber",
+    "zhName": "新鲜海参"
   },
   {
-    "部门": "Fish",
-    "条码": 24622,
-    "英文名": "Fresh Conch",
-    "中文名": "新鲜响螺"
+    "department": "Fish",
+    "barcode": 24622,
+    "ehName": "Fresh Conch",
+    "zhName": "新鲜响螺"
   },
   {
-    "部门": "Fish",
-    "条码": 24623,
-    "英文名": "FRESH BLUE RUNNER",
-    "中文名": "新鲜温布拿"
+    "department": "Fish",
+    "barcode": 24623,
+    "ehName": "FRESH BLUE RUNNER",
+    "zhName": "新鲜温布拿"
   },
   {
-    "部门": "Fish",
-    "条码": 24624,
-    "英文名": "FRESH OCTOPUS",
-    "中文名": "新鲜墨鱼"
+    "department": "Fish",
+    "barcode": 24624,
+    "ehName": "FRESH OCTOPUS",
+    "zhName": "新鲜墨鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24625,
-    "英文名": "Fresh Blood Clam",
-    "中文名": "新鲜毛堪"
+    "department": "Fish",
+    "barcode": 24625,
+    "ehName": "Fresh Blood Clam",
+    "zhName": "新鲜毛堪"
   },
   {
-    "部门": "Fish",
-    "条码": 24626,
-    "英文名": "JELLY FISH HEAD",
-    "中文名": "海蜇头"
+    "department": "Fish",
+    "barcode": 24626,
+    "ehName": "JELLY FISH HEAD",
+    "zhName": "海蜇头"
   },
   {
-    "部门": "Fish",
-    "条码": 24627,
-    "英文名": "JELLY FISH SLICE",
-    "中文名": "海蜇丝"
+    "department": "Fish",
+    "barcode": 24627,
+    "ehName": "JELLY FISH SLICE",
+    "zhName": "海蜇丝"
   },
   {
-    "部门": "Fish",
-    "条码": 24628,
-    "英文名": "FRESH WHOLE SQUID",
-    "中文名": "新鲜鱿鱼"
+    "department": "Fish",
+    "barcode": 24628,
+    "ehName": "FRESH WHOLE SQUID",
+    "zhName": "新鲜鱿鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24629,
-    "英文名": "HEADLESS TIGER SHRIMP",
-    "中文名": "无头老虎虾"
+    "department": "Fish",
+    "barcode": 24629,
+    "ehName": "HEADLESS TIGER SHRIMP",
+    "zhName": "无头老虎虾"
   },
   {
-    "部门": "Fish",
-    "条码": 24630,
-    "英文名": "THREADFIN BREAM",
-    "中文名": "红衫鱼"
+    "department": "Fish",
+    "barcode": 24630,
+    "ehName": "THREADFIN BREAM",
+    "zhName": "红衫鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24484,
-    "英文名": "LIVE SNAIL",
-    "中文名": "石螺"
+    "department": "Fish",
+    "barcode": 24484,
+    "ehName": "LIVE SNAIL",
+    "zhName": "石螺"
   },
   {
-    "部门": "Fish",
-    "条码": 24500,
-    "英文名": "LIVE OYSTER IN SHELL",
-    "中文名": "壳蚝"
+    "department": "Fish",
+    "barcode": 24500,
+    "ehName": "LIVE OYSTER IN SHELL",
+    "zhName": "壳蚝"
   },
   {
-    "部门": "Fish",
-    "条码": 24552,
-    "英文名": "FRESH MUSSEL",
-    "中文名": "青口"
+    "department": "Fish",
+    "barcode": 24552,
+    "ehName": "FRESH MUSSEL",
+    "zhName": "青口"
   },
   {
-    "部门": "Fish",
-    "条码": 24622,
-    "英文名": "FRESH CONCH",
-    "中文名": "新鲜响螺"
+    "department": "Fish",
+    "barcode": 24622,
+    "ehName": "FRESH CONCH",
+    "zhName": "新鲜响螺"
   },
   {
-    "部门": "Fish",
-    "条码": 24625,
-    "英文名": "FRESH BLOOD CLAM",
-    "中文名": "新鲜毛堪"
+    "department": "Fish",
+    "barcode": 24625,
+    "ehName": "FRESH BLOOD CLAM",
+    "zhName": "新鲜毛堪"
   },
   {
-    "部门": "Fish",
-    "条码": 24499,
-    "英文名": "LIVE CHERRY STONE CLAM",
-    "中文名": "大蚬"
+    "department": "Fish",
+    "barcode": 24499,
+    "ehName": "LIVE CHERRY STONE CLAM",
+    "zhName": "大蚬"
   },
   {
-    "部门": "Fish",
-    "条码": 24485,
-    "英文名": "LIVE PASTA CLAM",
-    "中文名": "美国蚬"
+    "department": "Fish",
+    "barcode": 24485,
+    "ehName": "LIVE PASTA CLAM",
+    "zhName": "美国蚬"
   },
   {
-    "部门": "Fish",
-    "条码": 24497,
-    "英文名": "LIVE MANILA CLAM",
-    "中文名": "温哥华蚬"
+    "department": "Fish",
+    "barcode": 24497,
+    "ehName": "LIVE MANILA CLAM",
+    "zhName": "温哥华蚬"
   },
   {
-    "部门": "Fish",
-    "条码": 24498,
-    "英文名": "FRESH WHITE SHRIMP WITH HEAD",
-    "中文名": "南美有头虾"
+    "department": "Fish",
+    "barcode": 24498,
+    "ehName": "FRESH WHITE SHRIMP WITH HEAD",
+    "zhName": "南美有头虾"
   },
   {
-    "部门": "Fish",
-    "条码": 24629,
-    "英文名": "HEADLESS TIGER SHRIMP",
-    "中文名": "无头老虎虾"
+    "department": "Fish",
+    "barcode": 24629,
+    "ehName": "HEADLESS TIGER SHRIMP",
+    "zhName": "无头老虎虾"
   },
   {
-    "部门": "Fish",
-    "条码": 24501,
-    "英文名": "FROZEN WHOLE SQUID",
-    "中文名": "冰鲜鱿鱼"
+    "department": "Fish",
+    "barcode": 24501,
+    "ehName": "FROZEN WHOLE SQUID",
+    "zhName": "冰鲜鱿鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24628,
-    "英文名": "FRESH WHOLE SQUID",
-    "中文名": "新鲜鱿鱼"
+    "department": "Fish",
+    "barcode": 24628,
+    "ehName": "FRESH WHOLE SQUID",
+    "zhName": "新鲜鱿鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24624,
-    "英文名": "FRESH OCTOPUS",
-    "中文名": "新鲜墨鱼"
+    "department": "Fish",
+    "barcode": 24624,
+    "ehName": "FRESH OCTOPUS",
+    "zhName": "新鲜墨鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 24621,
-    "英文名": "FRESH SEA CUCUMBER",
-    "中文名": "新鲜海参"
+    "department": "Fish",
+    "barcode": 24621,
+    "ehName": "FRESH SEA CUCUMBER",
+    "zhName": "新鲜海参"
   },
   {
-    "部门": "Fish",
-    "条码": 24551,
-    "英文名": "US BLUE CRAB",
-    "中文名": "青蟹仔"
+    "department": "Fish",
+    "barcode": 24551,
+    "ehName": "US BLUE CRAB",
+    "zhName": "青蟹仔"
   },
   {
-    "部门": "Fish",
-    "条码": 24591,
-    "英文名": "LIVE LONG CLAM",
-    "中文名": "竹圣"
+    "department": "Fish",
+    "barcode": 24591,
+    "ehName": "LIVE LONG CLAM",
+    "zhName": "竹圣"
   },
   {
-    "部门": "Fish",
-    "条码": 24594,
-    "英文名": "SURF CLAM",
-    "中文名": "桂花蚌"
+    "department": "Fish",
+    "barcode": 24594,
+    "ehName": "SURF CLAM",
+    "zhName": "桂花蚌"
   },
   {
-    "部门": "Fish",
-    "条码": 24596,
-    "英文名": "GEODUCK CLAM",
-    "中文名": "象拔蚌"
+    "department": "Fish",
+    "barcode": 24596,
+    "ehName": "GEODUCK CLAM",
+    "zhName": "象拔蚌"
   },
   {
-    "部门": "Fish",
-    "条码": 24605,
-    "英文名": "LIVE CLAM",
-    "中文名": "柳子"
+    "department": "Fish",
+    "barcode": 24605,
+    "ehName": "LIVE CLAM",
+    "zhName": "柳子"
   },
   {
-    "部门": "Fish",
-    "条码": 24626,
-    "英文名": "JELLY FISH HEAD",
-    "中文名": "海蜇头"
+    "department": "Fish",
+    "barcode": 24626,
+    "ehName": "JELLY FISH HEAD",
+    "zhName": "海蜇头"
   },
   {
-    "部门": "Fish",
-    "条码": 24627,
-    "英文名": "JELLY FISH SLICE",
-    "中文名": "海蜇丝"
+    "department": "Fish",
+    "barcode": 24627,
+    "ehName": "JELLY FISH SLICE",
+    "zhName": "海蜇丝"
   },
   {
-    "部门": "Fish",
-    "条码": 3829,
-    "英文名": "Salted Beef Short Rib",
-    "中文名": "咸牛仔骨"
+    "department": "Fish",
+    "barcode": 3829,
+    "ehName": "Salted Beef Short Rib",
+    "zhName": "咸牛仔骨"
   },
   {
-    "部门": "Fish",
-    "条码": 3830,
-    "英文名": "Salted Beef",
-    "中文名": "咸牛肉"
+    "department": "Fish",
+    "barcode": 3830,
+    "ehName": "Salted Beef",
+    "zhName": "咸牛肉"
   },
   {
-    "部门": "Fish",
-    "条码": 3831,
-    "英文名": "Salted Mackerel",
-    "中文名": "咸池鱼"
+    "department": "Fish",
+    "barcode": 3831,
+    "ehName": "Salted Mackerel",
+    "zhName": "咸池鱼"
   },
   {
-    "部门": "Fish",
-    "条码": 3832,
-    "英文名": "Salted Pork Tail",
-    "中文名": "咸猪尾"
+    "department": "Fish",
+    "barcode": 3832,
+    "ehName": "Salted Pork Tail",
+    "zhName": "咸猪尾"
   },
   {
-    "部门": "Fish",
-    "条码": 3834,
-    "英文名": "Salted Pork Feet",
-    "中文名": "咸猪手"
+    "department": "Fish",
+    "barcode": 3834,
+    "ehName": "Salted Pork Feet",
+    "zhName": "咸猪手"
   },
   {
-    "部门": "Fish",
-    "条码": 4301,
-    "英文名": "Smoked Herring Fish",
-    "中文名": "烟燻青鳞"
+    "department": "Fish",
+    "barcode": 4301,
+    "ehName": "Smoked Herring Fish",
+    "zhName": "烟燻青鳞"
   },
   {
-    "部门": "Fruit",
-    "条码": 4234,
-    "英文名": "",
-    "中文名": "皇帝蕉"
+    "department": "Fruit",
+    "barcode": 4234,
+    "ehName": "",
+    "zhName": "皇帝蕉"
   },
   {
-    "部门": "Fruit",
-    "条码": 4110,
-    "英文名": "",
-    "中文名": "本地黄苹果"
+    "department": "Fruit",
+    "barcode": 4110,
+    "ehName": "",
+    "zhName": "本地黄苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 41311,
-    "英文名": "",
-    "中文名": "本地富士"
+    "department": "Fruit",
+    "barcode": 41311,
+    "ehName": "",
+    "zhName": "本地富士"
   },
   {
-    "部门": "Fruit",
-    "条码": 4133,
-    "英文名": "",
-    "中文名": "小新西兰苹果"
+    "department": "Fruit",
+    "barcode": 4133,
+    "ehName": "",
+    "zhName": "小新西兰苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3073,
-    "英文名": "",
-    "中文名": "本地新西兰苹果"
+    "department": "Fruit",
+    "barcode": 3073,
+    "ehName": "",
+    "zhName": "本地新西兰苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3438,
-    "英文名": "",
-    "中文名": "圣芬苹果"
+    "department": "Fruit",
+    "barcode": 3438,
+    "ehName": "",
+    "zhName": "圣芬苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 3283,
-    "英文名": "",
-    "中文名": "有机苹果"
+    "department": "Fruit",
+    "barcode": 3283,
+    "ehName": "",
+    "zhName": "有机苹果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4384,
-    "英文名": "",
-    "中文名": "新奇士橙"
+    "department": "Fruit",
+    "barcode": 4384,
+    "ehName": "",
+    "zhName": "新奇士橙"
   },
   {
-    "部门": "Fruit",
-    "条码": 4450,
-    "英文名": "",
-    "中文名": "以色列橘"
+    "department": "Fruit",
+    "barcode": 4450,
+    "ehName": "",
+    "zhName": "以色列橘"
   },
   {
-    "部门": "Fruit",
-    "条码": 4455,
-    "英文名": "",
-    "中文名": "芦柑"
+    "department": "Fruit",
+    "barcode": 4455,
+    "ehName": "",
+    "zhName": "芦柑"
   },
   {
-    "部门": "Fruit",
-    "条码": 44081,
-    "英文名": "",
-    "中文名": "沙梨"
+    "department": "Fruit",
+    "barcode": 44081,
+    "ehName": "",
+    "zhName": "沙梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4406,
-    "英文名": "",
-    "中文名": "酥梨"
+    "department": "Fruit",
+    "barcode": 4406,
+    "ehName": "",
+    "zhName": "酥梨"
   },
   {
-    "部门": "Fruit",
-    "条码": 4288,
-    "英文名": "",
-    "中文名": "红肉西柚"
+    "department": "Fruit",
+    "barcode": 4288,
+    "ehName": "",
+    "zhName": "红肉西柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 4287,
-    "英文名": "",
-    "中文名": "青皮西柚"
+    "department": "Fruit",
+    "barcode": 4287,
+    "ehName": "",
+    "zhName": "青皮西柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 7549,
-    "英文名": "",
-    "中文名": "Jaffa西柚"
+    "department": "Fruit",
+    "barcode": 7549,
+    "ehName": "",
+    "zhName": "Jaffa西柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 42791,
-    "英文名": "",
-    "中文名": "大陆蜜柚"
+    "department": "Fruit",
+    "barcode": 42791,
+    "ehName": "",
+    "zhName": "大陆蜜柚"
   },
   {
-    "部门": "Fruit",
-    "条码": 3034,
-    "英文名": "",
-    "中文名": "本地粗皮瓜"
+    "department": "Fruit",
+    "barcode": 3034,
+    "ehName": "",
+    "zhName": "本地粗皮瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4032,
-    "英文名": "",
-    "中文名": "无籽西瓜"
+    "department": "Fruit",
+    "barcode": 4032,
+    "ehName": "",
+    "zhName": "无籽西瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 3421,
-    "英文名": "",
-    "中文名": "迷你西瓜"
+    "department": "Fruit",
+    "barcode": 3421,
+    "ehName": "",
+    "zhName": "迷你西瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4331,
-    "英文名": "",
-    "中文名": "黑皮西瓜"
+    "department": "Fruit",
+    "barcode": 4331,
+    "ehName": "",
+    "zhName": "黑皮西瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 3622,
-    "英文名": "",
-    "中文名": "雪梨瓜"
+    "department": "Fruit",
+    "barcode": 3622,
+    "ehName": "",
+    "zhName": "雪梨瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 40511,
-    "英文名": "",
-    "中文名": "香芒果"
+    "department": "Fruit",
+    "barcode": 40511,
+    "ehName": "",
+    "zhName": "香芒果"
   },
   {
-    "部门": "Fruit",
-    "条码": 4313,
-    "英文名": "",
-    "中文名": "巴西甜芒果"
+    "department": "Fruit",
+    "barcode": 4313,
+    "ehName": "",
+    "zhName": "巴西甜芒果"
   },
   {
-    "部门": "Fruit",
-    "条码": 6028,
-    "英文名": "",
-    "中文名": "澳大利亚甜芒"
+    "department": "Fruit",
+    "barcode": 6028,
+    "ehName": "",
+    "zhName": "澳大利亚甜芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 7540,
-    "英文名": "",
-    "中文名": "箱装吕宋芒"
+    "department": "Fruit",
+    "barcode": 7540,
+    "ehName": "",
+    "zhName": "箱装吕宋芒"
   },
   {
-    "部门": "Fruit",
-    "条码": 7081,
-    "英文名": "",
-    "中文名": "牛奶果"
+    "department": "Fruit",
+    "barcode": 7081,
+    "ehName": "",
+    "zhName": "牛奶果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7548,
-    "英文名": "",
-    "中文名": "南美人参果"
+    "department": "Fruit",
+    "barcode": 7548,
+    "ehName": "",
+    "zhName": "南美人参果"
   },
   {
-    "部门": "Fruit",
-    "条码": 7053,
-    "英文名": "",
-    "中文名": "黄金车厘子"
+    "department": "Fruit",
+    "barcode": 7053,
+    "ehName": "",
+    "zhName": "黄金车厘子"
   },
   {
-    "部门": "Fruit",
-    "条码": 7058,
-    "英文名": "",
-    "中文名": "椰青"
+    "department": "Fruit",
+    "barcode": 7058,
+    "ehName": "",
+    "zhName": "椰青"
   },
   {
-    "部门": "Fruit",
-    "条码": 40811,
-    "英文名": "",
-    "中文名": "散装茄子"
+    "department": "Fruit",
+    "barcode": 40811,
+    "ehName": "",
+    "zhName": "散装茄子"
   },
   {
-    "部门": "Fruit",
-    "条码": 7545,
-    "英文名": "",
-    "中文名": "意大利花茄子"
+    "department": "Fruit",
+    "barcode": 7545,
+    "ehName": "",
+    "zhName": "意大利花茄子"
   },
   {
-    "部门": "Fruit",
-    "条码": 71281,
-    "英文名": "",
-    "中文名": "迷你青瓜"
+    "department": "Fruit",
+    "barcode": 71281,
+    "ehName": "",
+    "zhName": "迷你青瓜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4162,
-    "英文名": "",
-    "中文名": "生姜"
+    "department": "Fruit",
+    "barcode": 4162,
+    "ehName": "",
+    "zhName": "生姜"
   },
   {
-    "部门": "Fruit",
-    "条码": 41621,
-    "英文名": "",
-    "中文名": "有机姜"
+    "department": "Fruit",
+    "barcode": 41621,
+    "ehName": "",
+    "zhName": "有机姜"
   },
   {
-    "部门": "Fruit",
-    "条码": 4159,
-    "英文名": "",
-    "中文名": "甜洋葱"
+    "department": "Fruit",
+    "barcode": 4159,
+    "ehName": "",
+    "zhName": "甜洋葱"
   },
   {
-    "部门": "Fruit",
-    "条码": 7541,
-    "英文名": "",
-    "中文名": "大红葱头"
+    "department": "Fruit",
+    "barcode": 7541,
+    "ehName": "",
+    "zhName": "大红葱头"
   },
   {
-    "部门": "Fruit",
-    "条码": 7558,
-    "英文名": "",
-    "中文名": "阿根廷蒜头"
+    "department": "Fruit",
+    "barcode": 7558,
+    "ehName": "",
+    "zhName": "阿根廷蒜头"
   },
   {
-    "部门": "Fruit",
-    "条码": 4063,
-    "英文名": "",
-    "中文名": "珍珠番茄"
+    "department": "Fruit",
+    "barcode": 4063,
+    "ehName": "",
+    "zhName": "珍珠番茄"
   },
   {
-    "部门": "Fruit",
-    "条码": 3149,
-    "英文名": "",
-    "中文名": "盒装沙拉番茄"
+    "department": "Fruit",
+    "barcode": 3149,
+    "ehName": "",
+    "zhName": "盒装沙拉番茄"
   }
 ]

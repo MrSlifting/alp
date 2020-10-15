@@ -8,10 +8,21 @@
   <ion-card>
     <ion-card-content>
       <ion-item>
-        <ion-label position="stacked">搜索</ion-label>
-        <ion-input></ion-input>
+        <ion-searchbar showCancelButton="focus" placeholder="输入关键字/词" animated ></ion-searchbar>
       </ion-item>
-      <ion-button>test</ion-button>
+      <ion-button (click)="getProduct()">搜索</ion-button>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-content>
+      <ion-item>
+        <ion-label>搜索结果</ion-label>
+        <ion-card-header>
+          <ion-card-title>中文名</ion-card-title>
+          <ion-card-subtitle>英文名</ion-card-subtitle>
+        </ion-card-header>
+      </ion-item>
     </ion-card-content>
   </ion-card>
 </ion-content>

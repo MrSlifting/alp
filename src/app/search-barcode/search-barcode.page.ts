@@ -13,4 +13,8 @@ export class SearchBarcodePage implements OnInit {
   ngOnInit() {
   }
 
+  getProduct(){
+    
+  }
+
 }
