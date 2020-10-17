@@ -7,11 +7,46 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">回复模板</ion-title>
-    </ion-toolbar>
-  </ion-header>
+  <ion-card>
+    <ion-card-content>
+      <ion-label>订单号#</ion-label>
+      <ion-input [(ngModel)]="orderNum" placeholder="输入订单号" type="number"></ion-input>
+      <ion-item>
+        <ion-label position="floating">日期</ion-label>
+        <ion-datetime [(ngModel)]="dateSelected" displayFormat="YYYY-MM-DD" [min]="currentDate"></ion-datetime>
+      </ion-item>
+      <ion-item>
+        <ion-label position="floating">时间</ion-label>
+        <ion-datetime [(ngModel)]="timeSelected" displayFormat="HH:mm" pickerFormat="HH:mm" hourValues="9,10,11,12,13,14,15,16,17,18,19,20"
+          minuteValues="0,30">
+        </ion-datetime>
+      </ion-item>
+      <ion-item>
+        <ion-label>取货方式</ion-label>
+        <ion-select [(ngModel)]="deliveryMethod" placeholder="Select One">
+          <ion-select-option value="配送">配送</ion-select-option>
+          <ion-select-option value="自取">自取</ion-select-option>
+        </ion-select>
+      </ion-item>
 
+      <ion-button expand="block" (click)="genText()">生成</ion-button>
 
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-content>
+      <ion-item lines="none">
+        <ion-label class="ion-text-wrap">
+          <ion-text color="primary">
+            <h1>生成文本</h1>
+          </ion-text>
+          <ion-text>{{respondText}}</ion-text>
+        </ion-label>
+        <ion-button slot="end" (click)="copyResponse()">
+          <ion-icon name="copy-outline"></ion-icon>
+        </ion-button>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
 </ion-content>
