@@ -21,9 +21,9 @@ export class SearchBarcodePage implements OnInit {
 
   getProduct() {
     switch (this.searchType) {
-      case "zhName": this.results = products.filter(key => key.zhName.toLowerCase().includes(this.searchKeywd.toLowerCase())); break;
-      case "enName": this.results = products.filter(key => key.enName.toLowerCase().includes(this.searchKeywd.toLowerCase())); break;
-      case "department": this.results = products.filter(key => key.department.toLowerCase().includes(this.searchKeywd.toLowerCase())); break;
+      case "zhName": this.results = products.filter(key => key.zhName.includes(this.searchKeywd)); break;
+      case "enName": this.results = products.filter(key => key.enName.includes(this.searchKeywd)); break;
+      case "department": this.results = products.filter(key => key.department.includes(this.searchKeywd)); break;
       default: this.presentAlert();
     }
   }
