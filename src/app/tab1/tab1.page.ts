@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { BrowserMultiFormatReader } from '@zxing/library';
 
 @Component({
   selector: 'app-tab1',
@@ -7,8 +8,18 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
-  constructor() {}
+  SoldByInstore: any;
+   
 
-  
+  constructor() { }
+
+  soldByEA(): boolean {
+    if (this.SoldByInstore === "SoldByInstoreEA") {
+      return true;
+    }
+    else {
+      return false;
+    }
+  }
 
 }
