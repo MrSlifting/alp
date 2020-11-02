@@ -10,7 +10,7 @@ import { AlertController } from '@ionic/angular';
 export class Tab2Page {
 
   date = new Date();
-  currentDate = this.date.getFullYear() + "-" + (this.date.getMonth() + 1) + "-" + this.date.getDate();
+  currentDate = this.date.getFullYear() + "-" + (this.date.getMonth() + 1) + "-" + ((this.date.getDate()<10)?"0"+this.date.getDate():this.date.getDate());
 
   respondText: string;
   dateFormatted: any;
@@ -43,8 +43,8 @@ export class Tab2Page {
       this.formatDate();
       this.respondText =
         "您好，\n请问您的订单#" + this.orderNum
-        + "\n是" + this.dateFormatted[0] + "月"
-        + this.dateFormatted[1] + "日"
+        + "\n是" + this.dateFormatted[0]
+        + this.dateFormatted[1]
         + " " + this.timeFormatted
         + this.deliveryMethod + "吗？"
         + "\n如果是，请您回复一下这条消息，谢谢😊"
