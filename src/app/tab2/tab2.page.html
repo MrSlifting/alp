@@ -7,6 +7,7 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
+  
   <ion-card>
     <ion-card-content>
       <ion-label>订单号#</ion-label>
@@ -15,8 +16,8 @@
         <ion-label position="floating">日期</ion-label>
         <ion-datetime [(ngModel)]="dateSelected" displayFormat="YYYY-MM-DD" [min]="currentDate"></ion-datetime>
       </ion-item>
-      <ion-item>
-        <ion-label position="floating">时间</ion-label>
+      <ion-item *ngIf="isPickup()" >
+        <ion-label position="floating" >时间</ion-label>
         <ion-datetime [(ngModel)]="timeSelected" displayFormat="HH:mm" pickerFormat="HH:mm" hourValues="9,10,11,12,13,14,15,16,17,18,19,20"
           minuteValues="0,30">
         </ion-datetime>

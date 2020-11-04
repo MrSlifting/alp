@@ -9,17 +9,16 @@ import { BrowserMultiFormatReader } from '@zxing/library';
 export class Tab1Page {
 
   SoldByInstore: any;
-   
+
 
   constructor() { }
 
-  soldByEA(): boolean {
-    if (this.SoldByInstore === "SoldByInstoreEA") {
-      return true;
-    }
-    else {
-      return false;
-    }
-  }
 
+  
+  //Boolean
+  //Check sold unit
+  soldByEA(): boolean {
+    var sbea = this.SoldByInstore === "SoldByInstoreEA" ? true : false;
+    return sbea;
+  }
 }
