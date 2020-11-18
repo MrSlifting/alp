@@ -29,23 +29,23 @@
       </ion-button>
       <ion-item>
         <ion-label position="stacked">完整条码</ion-label>
-        <ion-input type="number">
+        <ion-input type="number" [(ngModel)]="handle">
         </ion-input>
       </ion-item>
 
       <ion-item>
         <ion-label position="stacked">产品英文名称</ion-label>
-        <ion-input></ion-input>
+        <ion-input [(ngModel)]="ENname"></ion-input>
       </ion-item>
 
       <ion-item>
         <ion-label position="stacked">产品中文名称</ion-label>
-        <ion-input></ion-input>
+        <ion-input [(ngModel)]="CNname"></ion-input>
       </ion-item>
 
       <ion-item>
         <ion-label position="stacked">价格</ion-label>
-        <ion-input type="number" placeholder="0.00">$ </ion-input>
+        <ion-input type="number" placeholder="0.00" [(ngModel)]="OnlinePrice">$ </ion-input>
       </ion-item>
 
       <ion-list>
@@ -56,7 +56,7 @@
         </ion-list-header>
         <ion-item>
           <ion-label>商品部门</ion-label>
-          <ion-select placeholder="Select One">
+          <ion-select placeholder="Select One" [(ngModel)]="Department">
             <ion-select-option value="Grocery">Grocery</ion-select-option>
             <ion-select-option value="Frozen">Frozen</ion-select-option>
             <ion-select-option value="Fruit">Fruit</ion-select-option>
@@ -67,19 +67,19 @@
         </ion-item>
       </ion-list>
 
-      <ion-radio-group value="SoldByOnlineEA">
+      <ion-radio-group [(ngModel)]="SoldByOnline">
         <ion-list-header>
           <ion-label>在线售卖单位</ion-label>
         </ion-list-header>
 
         <ion-item>
           <ion-label>EA/每件</ion-label>
-          <ion-radio slot="start" value="SoldByOnlineEA"></ion-radio>
+          <ion-radio slot="start" value="EA"></ion-radio>
         </ion-item>
 
         <ion-item>
           <ion-label>LB/每磅</ion-label>
-          <ion-radio slot="start" value="SoldByOnlineLB"></ion-radio>
+          <ion-radio slot="start" value="LB"></ion-radio>
         </ion-item>
       </ion-radio-group>
 
@@ -90,42 +90,42 @@
 
         <ion-item>
           <ion-label>EA/每件</ion-label>
-          <ion-radio slot="start" value="SoldByInstoreEA"></ion-radio>
+          <ion-radio slot="start" value="EA"></ion-radio>
         </ion-item>
 
         <ion-item>
           <ion-label>LB/每磅</ion-label>
-          <ion-radio slot="start" value="SoldByInstoreLB"></ion-radio>
+          <ion-radio slot="start" value="LB"></ion-radio>
         </ion-item>
       </ion-radio-group>
 
       <ion-item *ngIf="soldByEA()">
         <ion-label position="stacked">规格</ion-label>
-        <ion-input></ion-input>
+        <ion-input [(ngModel)]="Specs"></ion-input>
       </ion-item>
 
       <ion-item *ngIf="!soldByEA()">
         <ion-label position="stacked">大约重量</ion-label>
-        <ion-input></ion-input>
+        <ion-input [(ngModel)]="Weight"></ion-input>
       </ion-item>
 
-      <ion-radio-group value="noTax">
+      <ion-radio-group [(ngModel)]="VariantTaxable">
         <ion-list-header>
           <ion-label>是否有税</ion-label>
         </ion-list-header>
 
         <ion-item>
           <ion-label>无</ion-label>
-          <ion-radio slot="start" value="noTax"></ion-radio>
+          <ion-radio slot="start" [value]="false"></ion-radio>
         </ion-item>
 
         <ion-item>
           <ion-label>有</ion-label>
-          <ion-radio slot="start" value="withTax"></ion-radio>
+          <ion-radio slot="start" [value]="true"></ion-radio>
         </ion-item>
       </ion-radio-group>
 
-      <ion-button expand="block">
+      <ion-button expand="block" (click)="AddProduct()">
         添加
         <ion-icon name="add-outline"></ion-icon>
       </ion-button>
