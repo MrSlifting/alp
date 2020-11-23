@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>新产品列表</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+  <ion-card *ngFor="let item of list">
+    <ion-card-title>{{item.Title}}</ion-card-title>
+    <ion-card-subtitle>{{item.Handle}}</ion-card-subtitle>
+    <ion-card-content>
+      <ion-item lines="none">
+
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
